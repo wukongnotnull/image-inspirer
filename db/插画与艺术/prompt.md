@@ -1,7 +1,7 @@
 # 插画与艺术 — 提示词合集
 
 
-> 73 个案例
+> 78 个案例
 
 ---
 
@@ -1860,3 +1860,117 @@ A whimsical clean cartoon illustration of 7 transparent ice cubes floating under
 ```
 
 
+## 例 365：千手观音化身打工人
+
+**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
+
+```text
+[中文]
+一幅高度详细的千手观音菩萨工笔画。
+
+然而，千手并没有拿着神圣的宗教法器，而是拿着现代办公和家用物品：**笔记本电脑、智能手机、成堆的文件、咖啡杯、印章、计算器、拖把和奶瓶**。它代表了终极的多任务处理现代工作者。
+
+脑后的金色光环由旋转的时钟齿轮组成。
+
+**在右下角，一个单一的红色竖排艺术家印章写着“吴先生”（Mr. Wu），风格化得像水印一样。** --ar 3:4
+
+[English]
+A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hands".
+
+However, instead of sacred religious artifacts, the thousand hands are holding modern office and household items: **laptops, smartphones, stacks of paperwork, coffee cups, stamps, calculators, mops, and baby bottles**. It represents the ultimate multi-tasking modern worker.
+
+The golden aura behind the head is made of spinning clock gears.
+
+**In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4
+```
+
+
+---
+## 例 366：西方艺术演进像素博物馆
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+
+```text
+[中文]
+创作一张超高细节等距像素艺术时间线插画（3:4，4K），融合细节密度、象征性与隐喻。用户指定的主题为【Western Art Development】。
+
+首先，围绕Western Art Development进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。
+
+然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文"[主题中文]演进史"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。
+
+[English]
+Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
+```
+
+
+---
+## 例 367：蒙娜丽莎畅饮可乐的趣味油画
+
+**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
+
+```text
+[中文]
+生成一张蒙娜丽莎喝可乐的油画。
+
+[English]
+Generate an oil painting of Mona Lisa drinking cola.
+```
+
+
+---
+## 例 368：官方角色设定资料卡
+
+**来源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
+
+```text
+[中文]
+基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
+・包含三视图：正面、侧面和背面
+・添加角色面部表情的变化・分解并展示服装和装备的详细部分
+・添加色板・包含世界观设定的简要说明
+・总体上，使用有组织的布局（白色背景，插画风格）
+
+[English]
+Based on this character and background, please create a character reference sheet similar to official setting materials.
+・Includes three-view drawings: front view, side view, and back view
+・Add variations of the character's facial expressions
+・Break down and display detailed parts of the clothing and equipment
+・Add a color palette
+・Include a brief explanation of the worldview setting
+・Overall, use an organized layout (white background, illustration style)
+```
+
+
+---
+## 例 369：4×4 动作分解参考表
+
+**来源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
+
+```text
+[STYLE]
+Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.
+
+[LAYOUT]
+4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.
+
+[CHARACTER]
+image1 (the same character appears consistently in all panels)
+
+[PANEL STRUCTURE – per cell]
+Top-left: bold number badge + English title text
+Center: full-body character pose illustration
+Bottom-left: English description text (3–4 lines)
+Overlay: directional arrows indicating movement
+
+[ARROWS / MOTION INDICATORS]
+Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.
+
+[RENDERING STYLE]
+Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.
+
+[NEGATIVE]
+No background scenery, no color tones, no additional characters, no complex background.
+```
+
+
+---

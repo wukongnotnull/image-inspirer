@@ -1,7 +1,7 @@
 # 摄影与写实 — 提示词合集
 
 
-> 46 个案例
+> 55 个案例
 
 ---
 
@@ -1735,6 +1735,241 @@ quality: ultra-realistic, subtle film grain, soft focus edges, dreamy atmosphere
 
 ```text
 根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+
+---
+## 例 350：超写实与水墨的梦幻融合
+
+**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
+
+```text
+[中文]
+一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。
+
+中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她背对相机站立，姿态呈现出优雅的S型曲线，营造出优美流畅的剪影。她微微转动上半身，越过肩膀回眸，带着一种安静、内省的情绪。
+
+她穿着一件简约、修身的白色长袖服装，线条干净，面料柔软，传达出纯洁与极简主义，不显露细节。
+
+她被置于一个靠近阳光明媚窗户的真实世界室内环境中。背景被严重模糊，具有强烈的散景和浅景深，营造出梦幻且充满氛围的环境。
+
+从这种柔和模糊的现实之中，爆发出丰富的传统水墨插画，并环绕着她的身形。构图包括：
+
+- 带有耀眼光环的庄严如来佛像
+- 在云端漂浮的优雅观音像
+- 在空间中盘旋的流动中国水墨龙
+- 在动态的水墨笔触中游动的成群锦鲤
+
+这些元素以黑墨和朱红色调渲染，形成一幅密集的、具有精神力量的视觉织锦。水墨在她周围有机地流动，部分重叠并融入她的剪影之中，在现实与神话之间创造出无缝的融合。
+
+没有轮廓线或贴纸效果。融合是自然、流畅且沉浸式的。
+
+风格：电影级摄影，超精细，8k，柔光，现实与水墨艺术之间的高对比度，美术构图，博物馆级美学
+宽高比：3:4
+
+[English]
+A dynamic mixed-media photograph blending hyper-realistic portraiture with traditional Chinese ink illustration.
+
+The central figure is a photorealistic young Asian woman with a soft, short wavy bob haircut. Her makeup is natural and minimal, with a calm and gentle expression. She stands with her back to the camera in an elegant S-curve posture, creating a graceful and flowing silhouette. She slightly turns her upper body to glance over her shoulder with a quiet, introspective mood.
+
+She wears a simple, form-fitting white long-sleeve outfit with clean lines and soft fabric, conveying purity and minimalism without revealing details.
+
+She is placed in a real-world indoor setting near a sunlit window. The background is heavily blurred with strong bokeh and shallow depth of field, creating a dreamy and atmospheric environment.
+
+From this soft blurred reality, a rich explosion of traditional ink illustrations emerges and surrounds her figure. The composition includes:
+
+- Majestic Tathagata Buddhas with radiant halos
+- Elegant Guanyin figures floating among clouds
+- Flowing Chinese ink dragons coiling through space
+- Schools of koi fish swimming in dynamic ink strokes
+
+These elements are rendered in black ink and cinnabar red tones, forming a dense, spiritual visual tapestry. The ink flows organically around her, partially overlapping and blending into her silhouette, creating a seamless fusion between reality and myth.
+
+No outlines or sticker effects. The integration is natural, fluid, and immersive.
+
+Style: cinematic photography, ultra-detailed, 8k, soft lighting, high contrast between reality and ink art, fine art composition, museum-level aesthetic
+Aspect ratio: 3:4
+```
+
+
+---
+## 例 351：试卷上的涂鸦巨龙
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
+
+```text
+[中文]
+一个巨大的巨龙，庞大的规模，高耸的存在感，
+一个远超人类尺寸的巨大实体，压倒性和压迫性的，
+用极其密集的混乱涂鸦线条绘制，
+超密集的重叠笔触，纠缠和混乱的线条画，
+在真实的印刷英文/中文教科书或试卷页面上，
+可见的文本、布局和纸张纹理清晰透出，
+圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触，
+没有干净的轮廓，一切由混乱的涂鸦构成，
+黑暗和柔和的底色（黑色，深靛蓝，暗紫罗兰色），
+带有微妙的低饱和度霓虹点缀（蓝色，青色，紫色），
+仅在关键区域（眼睛，核心，裂缝，静脉）有选择性的生物发光，
+不是整体的亮度，
+取决于主体的有机或机械纹理，
+错综复杂的细节，复杂的表面图案，
+形态从混乱中浮现，
+高密度中心，边缘消融为松散的涂鸦，
+主体附近微小的人类剪影强调了尺度感，
+半透明层，由线条密度产生的深度，
+原始的，不完美的，嘈杂的，充满活力的手绘感，
+略带诡异，超现实，神秘的氛围，
+混合媒体插画，涂鸦艺术，
+极其详细，黑暗团块和发光点缀之间的高对比度，
+杰作，极其详细
+
+[English]
+A colossal [SUBJECT], massive scale, towering presence,
+a gigantic entity far beyond human size, overwhelming and oppressive,
+
+drawn with extremely dense chaotic scribble lines,
+ultra-dense overlapping pen strokes, tangled and chaotic linework,
+
+on top of a real printed English/Chinese textbook or exam paper page,
+visible text, layout, and paper texture clearly showing through,
+
+ballpoint pen drawing style, fine ink lines, messy layered strokes,
+no clean outlines, everything constructed from chaotic scribbles,
+
+dark and muted base tones (black, deep indigo, dark violet),
+with subtle low-saturation neon accents (blue, cyan, purple),
+
+selective bioluminescent glow only in key areas (eyes, core, cracks, veins),
+not overall brightness,
+
+organic or mechanical textures depending on subject,
+intricate details, complex surface patterns,
+
+form emerging from chaos,
+high-density center, edges dissolving into loose scribbles,
+
+sense of scale emphasized by tiny human silhouette near the subject,
+
+semi-transparent layers, depth created by line density,
+raw, imperfect, noisy, energetic hand-drawn feeling,
+
+slightly eerie, surreal, mysterious atmosphere,
+mixed media illustration, scribble art,
+
+extremely detailed, high contrast between dark mass and glowing accents,
+masterpiece, ultra detailed
+
+主体：巨龙
+```
+
+
+---
+## 例 352：三甲医院真实门诊处方笺
+
+**来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
+
+```text
+[中文]
+一张三甲医院的门诊处方笺，医生潦草的手写字，包含真实合理的 诊断、药品名、剂量，右下角有医生签名和科室章。
+
+[English]
+An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right corner.
+```
+
+
+---
+## 例 353：桌面上的黑色圆珠笔手写笔记
+
+**来源：** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
+
+```text
+[中文]
+一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。
+
+[English]
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+
+
+---
+## 例 354：真实动漫画面快照
+
+**来源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
+
+```text
+[中文]
+向我展示这张附带的图像作为一部真实动漫的快照
+
+[English]
+Show me the attached image as a snapshot from an actual anime
+```
+
+
+---
+## 例 355：极致奢华的弹珠店梦幻宣传单
+
+**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
+
+```text
+[中文]
+以 3:4 比例制作一家弹珠店那种闪闪发光的宣传单。放置一个真实、精细的现代可爱日本女性。充分利用闪闪发光、立体感丰富的豪华装饰彩虹字体等，务必做到极致奢华。并列介绍几个不存在的虚构新机型。
+
+[English]
+Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.
+```
+
+
+---
+## 例 356：极简留白涂鸦手绘草图
+
+**来源：** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
+
+```text
+[中文]
+以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。
+
+颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。
+
+背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。
+
+画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。
+画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+
+[English]
+Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
+```
+
+
+---
+## 例 357：黑板上的出师表全文
+
+**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+
+```text
+[中文]
+生成图片:
+手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍
+
+[English]
+Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day
+```
+
+
+---
+## 例 358：冲破次元壁的写实漫画跑者
+
+**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
+
+```text
+[中文]
+{
+  "prompt": "超写实，一位留着深色短卷发、修剪整齐的胡须和黑色方形眼镜的年轻男子的鲜艳逼真渲染，身穿深色纹理高领毛衣和牛仔裤。他奔跑到一半被捕捉下来，姿态充满动感，向前突破，充满戏剧性地从一个破碎的漫画分镜框中显现——一条腿和一只手臂冲入现实世界，而身体的其余部分仍留在漫画框内。他的表情充满活力和喜悦，拥有锐利的面部细节，自然的皮肤纹理，以及具有高对比度和深度的戏剧性电影灯光。\n\n背景：一个非常详细的黑白漫画布局，充满了幽默、夸张的且与他直接互动的反应场景。周围的漫画人物表现出震惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对比，创造出写实与漫画艺术之间的动态混合体。超精细，8k分辨率，清晰聚焦，戏剧性的阴影，电影级景深。"
+}
+
+[English]
+{
+  "prompt": "Ultra-realistic, vibrant photorealistic rendering of a young man with short curly dark hair, neatly trimmed beard, and black rectangular glasses, wearing a dark textured turtleneck sweater and jeans. He is captured mid-run in a dynamic, forward-breaking pose, dramatically emerging from a torn manga panel — one leg and one arm bursting into the real world while the rest of his body remains inside the comic frame. His expression is energetic and joyful, with sharp facial details, natural skin texture, and dramatic cinematic lighting with high contrast and depth. \n\nBackground: a highly detailed black-and-white manga layout filled with humorous, exaggerated reaction scenes that directly interact with him. The surrounding manga characters display shocked and comedic expressions, with bold speech bubbles and motion lines. The manga panels are illustrated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking through the comic world. The fully colored, photorealistic figure contrasts strongly against the monochrome manga environment, creating a dynamic hybrid between reality and comic art. Ultra-detailed, 8k resolution, sharp focus, dramatic shadows, cinematic depth of field."
+}
 ```
 
 

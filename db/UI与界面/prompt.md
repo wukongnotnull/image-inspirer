@@ -1,7 +1,7 @@
 # UI与界面 — 提示词合集
 
 
-> 88 个案例
+> 122 个案例
 
 ---
 
@@ -2649,3 +2649,904 @@ Make a wallpaper portrait size cellphone about the beauty of ({argument name="co
 ```
 
 
+## 例 367：老干妈风味
+
+**来源：** 小红书号989137706
+
+```text
+特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。
+```
+
+
+---
+## 例 368：电影感叙事场景图
+
+**来源：** [@danieldmai](https://x.com/danieldmai)
+
+```text
+Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs"}. Apply heavy dark makeup, specifically {argument name="lip color" default="black"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name="necklace pendants" default="an inverted cross and a pentagram"}.
+```
+
+
+---
+## 例 369：写实摄影风格图
+
+**来源：** [@opc\_8838](https://x.com/opc_8838)
+
+```text
+Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
+```
+
+
+---
+## 例 370：电商商品展示设计
+
+**来源：** [@yurunekofree](https://x.com/yurunekofree)
+
+```text
+A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
+```
+
+
+---
+## 例 371：综合应用场景图
+
+**来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+
+---
+## 例 372：写实摄影风格图
+
+**来源：** [@blanplan](https://x.com/blanplan)
+
+```text
+Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
+```
+
+
+---
+## 例 373：信息图可视化设计
+
+**来源：** [@Kurt\_Rousey466](https://x.com/Kurt_Rousey466)
+
+```text
+Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
+```
+
+
+---
+## 例 374：插画艺术风格创作
+
+**来源：** [@masapark95](https://x.com/masapark95)
+
+```text
+{
+  "type": "2x2 grid of banner advertisements",
+  "theme": "{argument name=\"main theme\" default=\"SNSスクール\"} for {argument name=\"target audience\" default=\"ママ\"}",
+  "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, and natural beige tones\"}",
+  "layout": {
+    "sections": [
+      {
+        "position": "top-left",
+        "visual_style": "photography",
+        "image_description": "Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.",
+        "headlines": ["ママの“やってみたい”を応援！", "子育てしながら学べる", "SNSスクール"],
+        "features": {
+          "count": 1,
+          "type": "icon with text",
+          "labels": ["自宅で無理なくスキルアップ (with house icon)"]
+        },
+        "call_to_action_button": "無料相談"
+      },
+      {
+        "position": "top-right",
+        "visual_style": "photography",
+        "image_description": "Smiling woman holding a white mug, looking at a laptop.",
+        "headlines": ["ちょっとの時間が、大きな一歩に。", "スキマ時間を未来につなげる", "動画講座で学びやすい"],
+        "features": {
+          "count": 3,
+          "type": "circular icons with text below",
+          "labels": ["スマホでも学べる (smartphone icon)", "1日15分からOK (clock icon)", "繰り返し視聴できる (play button icon)"]
+        },
+        "call_to_action_button": "詳しく見る"
+      },
+      {
+        "position": "bottom-left",
+        "visual_style": "watercolor illustration",
+        "image_description": "Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.",
+        "headlines": ["はじめてでも大丈夫！ (with beginner mark)", "在宅でできるSNSの仕事", "未経験OK"],
+        "features": {
+          "count": 3,
+          "type": "circular icons with text below",
+          "labels": ["サポート充実 (heart icon)", "パソコンが苦手でも安心 (laptop icon)", "収入の柱をつくれる (yen coin icon)"]
+        },
+        "call_to_action_button": "体験してみる"
+      },
+      {
+        "position": "bottom-right",
+        "visual_style": "photography",
+        "image_description": "Smiling mother and young daughter sitting on a sofa reading a picture book together.",
+        "headlines": ["家族との時間も大切に", "自分らしい働き方へ", "ママの笑顔がいちばんの未来になる。"],
+        "features": {
+          "count": 3,
+          "type": "checkmark bullet points",
+          "labels": ["場所や時間に縛られない", "やりがいも収入も叶う", "子どもの成長をそばで見守れる"]
+        },
+        "extra_graphics": "Small illustration of a house and trees at the bottom left.",
+        "call_to_action_button": "説明会へ"
+      }
+    ],
+    "common_elements": "All panels feature a {argument name=\"button style\" default=\"rounded green pill button with white text and a right-pointing arrow icon\"} at the bottom."
+  }
+}
+```
+
+
+---
+## 例 375：信息图可视化设计
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX)
+
+```text
+A breathtaking and extremely complex world-building infographic masterpiece conceptualizing the "{argument name="theme" default="Fundamental Differences between Confucianism, Buddhism, and Taoism"}", designed as a profound {argument name="style" default="ancient Oriental mythological manuscript"}.
+Background: Pure white vintage textured canvas with a light beige aged parchment base color, subtle frayed edges, and water stain textures.
+Core Layout: Central vision uses a grand "vertical egg-shaped layered structure", with Buddhism, Taoism, and Confucianism layers from top to bottom.
+Margins: Four corners are decorated with fine micro-illustrations featuring ancient observation notes, ritual implements, and runes.
+Colors: Low-saturation sage green, light gold, and off-white as main tones; overall light and soft without harsh high-saturation colors.
+Details: Architectural lines, landscape brushwork, lotus patterns, and cloud layers are clearly visible and exquisitely detailed.
+Seamless Fusion: The three layers transition naturally through clouds and flowing water; the Buddhist halo, Taoist Taiji mist, and Confucian scholarly aura connect seamlessly.
+Style: Classical ink line art + low-saturation digital watercolor, with a light Chinese-style ancient book manuscript texture.
+Text Annotations: Authentic Traditional Chinese characters in a mottled vintage Song typeface. Each annotation includes a short title + a line of poetic description, connected to corresponding details by dark gold hair-thin lines with no overlapping pointers.
+Aspect Ratio: {argument name="aspect ratio" default="3:4"} vertical format, independent and complete.
+
+Title Area (Top): `儒釋道·根本區別` (Confucianism, Buddhism, Taoism: Fundamental Differences)
+Central Layer Labels:
+Top "Buddhism": `釋`, `Relationship between man and self`, `Selflessness, governing the heart, letting go` 
+Middle "Taoism": `道`, `Relationship between man and all things`, `Non-action, governing the body, being open-minded` 
+Bottom "Confucianism": `儒`, `Relationship between man and man`, `No ego, governing the world, taking responsibility` 
+Side Annotations:
+Left: `Purity`: pure heart and clear mind, cutting off troubles; `Stillness`: following nature, returning to the original heart; `Respect`: respecting responsibility, active involvement in society.
+Right: `60+ Spiritual Cultivation`: looking lightly at gain/loss; `35-55 Conduct`: living with flexibility, following laws; `7-35 Actions`: forging ahead, building careers.
+Bottom Summary: `The balance between being in the world and being out of the world is high-level life wisdom.`
+```
+
+
+---
+## 例 376：绘画艺术风格图
+
+**来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
+
+```text
+{
+  "type": "VTuber stream thumbnail",
+  "theme": "pastel pink, soft, cute, lace, ribbons, hearts, bunny motif",
+  "character": {
+    "position": "right side, waist-up",
+    "appearance": "anime girl, {argument name=\"hair color\" default=\"pastel pink\"} long wavy hair, large grey eyes, blush, pink heart earrings",
+    "accessories": "white bunny ears, large pink bow on head",
+    "outfit": "white frilly dress with lace, large pink ribbon bow at collar with heart gem"
+  },
+  "layout": {
+    "background": "soft pink with subtle sparkles, lace patterns, floating hearts",
+    "text_elements": [
+      {
+        "type": "main title",
+        "position": "top left",
+        "style": "large stylized pink text with white outline",
+        "text": "{argument name=\"main title\" default=\"雑談配信\"}"
+      },
+      {
+        "type": "speech bubble",
+        "position": "above main title",
+        "text": "まったり"
+      },
+      {
+        "type": "circular badge",
+        "position": "top right",
+        "details": "lace-edged with small pink bow",
+        "text": "きてくれてありがとう♡"
+      },
+      {
+        "type": "heart badge",
+        "position": "bottom right",
+        "details": "large lace-edged heart",
+        "text": "みんなとおしゃべりできるの楽しみにしてるね♡"
+      }
+    ],
+    "list_section": {
+      "position": "bottom left",
+      "count": 3,
+      "style": "horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left",
+      "items": [
+        "{argument name=\"list item 1\" default=\"初見さん〇\"}",
+        "{argument name=\"list item 2\" default=\"ポイント回収〇\"}",
+        "{argument name=\"list item 3\" default=\"ROM〇\"}"
+      ]
+    }
+  }
+}
+```
+
+
+---
+## 例 377：主题海报版式设计
+
+**来源：** [@wtry1102](https://x.com/wtry1102)
+
+```text
+{
+  "type": "VTuber debut stream thumbnail",
+  "character": {
+    "appearance": "anime girl, long dark purple hair, purple eyes, frilly white blouse, dark purple bow tie, large hair bow",
+    "pose": "finger to lips, cute expression",
+    "props": "condenser microphone with pop filter and purple ribbon on the right"
+  },
+  "background": "magical starry night, sparkles, glowing butterflies, purple and white color palette",
+  "layout": {
+    "typography": [
+      {
+        "position": "top left",
+        "style": "large bold text with cursive English above",
+        "text": "{argument name=\"main title\" default=\"初配信\"}",
+        "subtext_1": "First Stream",
+        "subtext_2": "Nice to meet you! I am Shisaki Lily!"
+      },
+      {
+        "position": "middle left",
+        "style": "decorative box",
+        "text": "{argument name=\"character description\" default=\"お嬢様学校に通う清楚系VTuberですわ♪\"}"
+      },
+      {
+        "position": "bottom left",
+        "style": "logo style",
+        "text": "{argument name=\"character name\" default=\"紫咲リリー\"}",
+        "subtext": "Shisaki Lily"
+      },
+      {
+        "position": "top right",
+        "style": "vertical text",
+        "text": "{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ♪\"}"
+      },
+      {
+        "position": "bottom right",
+        "style": "decorative pill shape",
+        "text": "{argument name=\"stream date and time\" default=\"4.21 SUN 21:00~\"}",
+        "subtext": "✦ START ✦"
+      }
+    ]
+  }
+}
+```
+
+
+---
+## 例 378：漫画分镜叙事设计
+
+**来源：** [@nicdunz](https://x.com/nicdunz)
+
+```text
+A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
+```
+
+
+---
+## 例 379：插画艺术创作图
+
+**来源：** [@Luvune](https://x.com/Luvune)
+
+```text
+{
+  "type": "anime character reference sheet",
+  "character": {
+    "name": "{argument name=\"character name\" default=\"真田大助\"}",
+    "appearance": "young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\"main color\" default=\"red\"} chest plate and guards, {argument name=\"secondary color\" default=\"navy blue\"} pleated hakama, white short cape"
+  },
+  "layout": {
+    "header": {
+      "title": "{argument name=\"character name\" default=\"真田大助\"}",
+      "subtitle": "{argument name=\"character concept\" default=\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\"}",
+      "badge": "設定資料"
+    },
+    "right_side": {
+      "main_portrait": "large full-body standing pose, confident smile",
+      "background_elements": {
+        "emblem": "six-coin crest",
+        "quote": "{argument name=\"catchphrase\" default=\"この国を守る。その誇りと共に。\"}",
+        "scenery": "monochrome Japanese castle with army banners at the bottom right"
+      }
+    },
+    "sections": [
+      {
+        "title": "プロフィール",
+        "position": "top-left",
+        "content": "table with 6 rows and descriptive text"
+      },
+      {
+        "title": "三面図",
+        "position": "mid-left",
+        "count": 3,
+        "labels": ["正面", "側面", "背面"]
+      },
+      {
+        "title": "表情差分",
+        "position": "top-center",
+        "count": 6,
+        "labels": ["通常", "微笑み", "真剣", "怒り", "驚き", "考え中"]
+      },
+      {
+        "title": "衣装・装備詳細",
+        "position": "bottom-left",
+        "count": 9,
+        "labels": ["胸当て", "肩当て", "腕甲(籠手)", "脚甲(脛当て・膝当て)", "革靴", "白マント(短)", "帯", "袴/着物部分", "打刀"]
+      },
+      {
+        "title": "カラーパレット",
+        "position": "bottom-center",
+        "count": 8,
+        "labels": ["真田赤", "濃紺", "金", "白", "茶", "茶褐色", "肌色", "銀"]
+      },
+      {
+        "title": "世界観",
+        "position": "bottom-center-right",
+        "content": "paragraph of text describing the setting"
+      }
+    ]
+  }
+}
+```
+
+
+---
+## 例 380：建筑空间场景图
+
+**来源：** [@studiomasakaki](https://x.com/studiomasakaki)
+
+```text
+{
+  "type": "manga page",
+  "style": "anime illustration, full color",
+  "characters": {
+    "woman": {
+      "appearance": "long {argument name=\"hair color\" default=\"black\"} hair, purple eyes",
+      "outfit": "{argument name=\"shirt color\" default=\"grey\"} long-sleeve shirt, dark grey skinny jeans, barefoot"
+    },
+    "delivery_man": {
+      "appearance": "bald, older man, thick eyebrows",
+      "outfit": "blue work jacket over a grey shirt"
+    }
+  },
+  "layout": {
+    "description": "Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.",
+    "left_column_panels": [
+      {
+        "panel_number": 1,
+        "scene": "Woman sitting on a grey sofa in a living room, holding a white mug.",
+        "text_elements": [
+          { "type": "speech_bubble", "text": "?" },
+          { "type": "sound_effect", "text": "ピンポーン♪", "description": "doorbell ringing" }
+        ]
+      },
+      {
+        "panel_number": 2,
+        "scene": "Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.",
+        "text_elements": [
+          { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"delivery greeting\" default=\"こんにちは〜！宅配便で〜す！\"}" },
+          { "type": "speech_bubble", "speaker": "woman", "text": "は、はい…ありがとうございます" }
+        ]
+      },
+      {
+        "panel_number": 3,
+        "scene": "Close-up of the delivery man laughing enthusiastically with a sparkly pink background.",
+        "text_elements": [
+          { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"creepy compliment\" default=\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\"}" }
+        ]
+      },
+      {
+        "panel_number": 4,
+        "scene": "Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.",
+        "text_elements": [
+          { "type": "speech_bubble", "speaker": "delivery_man", "text": "それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！" },
+          { "type": "thought_bubble", "speaker": "woman", "text": "{argument name=\"woman reaction\" default=\"え…？何この人…ちょっと気持ち悪いかも…\"}" },
+          { "type": "caption_box", "text": "この後も延々と褒め続ける配達員だった…" }
+        ]
+      }
+    ],
+    "right_column_panel": {
+      "panel_number": 5,
+      "scene": "Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.",
+      "text_elements": [
+        { "type": "thought_bubble", "speaker": "woman", "text": "誰かしら…？" }
+      ]
+    }
+  }
+}
+```
+
+
+---
+## 例 381：绘画艺术风格图
+
+**来源：** [@TlanoVRC](https://x.com/TlanoVRC)
+
+```text
+A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
+```
+
+
+---
+## 例 382：封面排版设计图
+
+**来源：** [@aiehon\_aya](https://x.com/aiehon_aya)
+
+```text
+{
+  "type": "fashion product catalog layout",
+  "theme": "A cohesive fashion collection featuring a specific pattern: {argument name=\"pattern description\" default=\"overlapping circular floral mandala motifs in purple, green, blue, orange, and pink\"}",
+  "layout": {
+    "structure": "2x2 grid with a full-width bottom banner",
+    "sections": [
+      {
+        "id": "01",
+        "title": "{argument name=\"product 1\" default=\"Flared Dress\"}",
+        "subtitle": "フレアワンピース",
+        "main_image": "Woman in patterned flared dress holding white handbag.",
+        "swatch_count": 3,
+        "swatch_descriptions": ["purple variant", "green/blue variant", "orange/yellow variant"],
+        "description_text": "華やかなフレアシルエット。軽やかな素材が優雅な動きを演出します。"
+      },
+      {
+        "id": "02",
+        "title": "{argument name=\"product 2\" default=\"Silk Scarf\"}",
+        "subtitle": "シルクスカーフ",
+        "main_image": "Woman in white blouse with patterned silk scarf.",
+        "swatch_count": 2,
+        "swatch_descriptions": ["flat pattern detail", "tied knot detail"],
+        "description_text": "首元に彩りを添えるシルクスカーフ。上品な光沢と滑らかな肌ざわり。"
+      },
+      {
+        "id": "03",
+        "title": "{argument name=\"product 3\" default=\"Tote Bag\"}",
+        "subtitle": "トートバッグ",
+        "main_image": "Woman carrying patterned tote bag.",
+        "swatch_count": 3,
+        "swatch_descriptions": ["purple variant", "blue variant", "orange/yellow variant"],
+        "description_text": "A4サイズも入る収納力。軽くて丈夫、毎日使いたくなるトートバッグ。"
+      },
+      {
+        "id": "04",
+        "title": "{argument name=\"product 4\" default=\"Pouch\"}",
+        "subtitle": "ポーチ",
+        "main_image": "Patterned zip pouch on table with magazine and vase.",
+        "swatch_count": 3,
+        "swatch_descriptions": ["green/purple variant", "orange variant", "pink variant"],
+        "description_text": "バッグの中を彩る華やかなポーチ。細部まで美しいデザインが魅力です。"
+      }
+    ],
+    "bottom_banner": {
+      "title": "Pattern Design",
+      "description_text": "細やかな線と豊かな色彩が織りなす、唯一無二のパターンデザイン。日常に優雅な彩りを。",
+      "image": "Horizontal strip showing the seamless pattern."
+    }
+  }
+}
+```
+
+
+---
+## 例 383：品牌徽标设计图
+
+**来源：** [@Gc\_qube](https://x.com/Gc_qube)
+
+```text
+A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading "{argument name="brand name" default="BRICKLY"} BUILDING SETS". The box features text reading "8+", "540 PCS", "5 FIGURES", and the main large title "{argument name="set title" default="WATTERSON FAMILY HOUSE"}". A red circular badge on the box reads "CUSTOM SET FAN DESIGN", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name="house color" default="blue"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name="car color" default="pink"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.
+```
+
+
+---
+## 例 384：品牌吉祥物设定图
+
+**来源：** [@TanShilong](https://x.com/TanShilong)
+
+```text
+Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
+```
+
+
+---
+## 例 385：封面排版设计图
+
+**来源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
+
+```text
+[中文]
+创建一个高级的 4:3 演示文稿封面幻灯片，介绍来自 http://chroniclehq.com 的 AI 原生演示平台 Chronicle。  
+
+Style: 
+优雅，极简，现代，高级初创企业美学。类似于高端品牌指南封面（如 Apple / Linear / Notion 风格）。带有微妙深度感的柔和渐变背景，干净的留白，精致的排版，经过打磨的编辑式布局。  
+
+Main title: 
+CHRONICLE  
+
+Subtitle: 
+AI PRESENTATION PLATFORM  
+
+Body copy (small elegant text): 
+将原始想法转化为经过打磨的、高影响力的演示文稿。 
+从笔记、文档、链接或现有幻灯片开始。 
+使用 AI 生成美观的、符合品牌调性的幻灯片。 
+在灵活的画布上自由编辑。 
+导出为 PPT、PDF，或发布为网站。  
+
+Feature highlights (small premium labels): 
+STORY-FIRST 
+ON-BRAND DESIGN 
+AI EDITING 
+FREEFORM CANVAS 
+PPT EXPORT 
+TEAM COLLABORATION  
+
+Bottom-right elegant logo text: 
+chronicle  
+
+Visual feeling: 
+商务级高级感，战略级幻灯片质量，咨询级演示文稿，略带未来感但高度专业。  
+
+Composition: 
+干净的编辑式平衡，不对称布局，强烈的留白，演示软件主视觉感。  
+
+Aspect ratio: 
+4:3  
+
+Language: 
+仅限英文
+
+[English]
+Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com.  
+
+Style: 
+elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.  
+
+Main title: 
+CHRONICLE  
+
+Subtitle: 
+AI PRESENTATION PLATFORM  
+
+Body copy (small elegant text): 
+Turn raw ideas into polished, high-impact presentations. 
+Start from notes, docs, links, or existing decks. 
+Generate beautiful, on-brand slides with AI. 
+Edit freely on a flexible canvas. 
+Export to PPT, PDF, or publish as a website.  
+
+Feature highlights (small premium labels): 
+STORY-FIRST 
+ON-BRAND DESIGN 
+AI EDITING 
+FREEFORM CANVAS 
+PPT EXPORT 
+TEAM COLLABORATION  
+
+Bottom-right elegant logo text: 
+chronicle  
+
+Visual feeling: 
+business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.  
+
+Composition: 
+clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.  
+
+Aspect ratio: 
+4:3  
+
+Language: 
+English only
+```
+
+
+---
+## 例 386：苏轼被贬首日朋友圈曝光
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+
+```text
+[中文]
+苏轼被贬第一天小红书截图
+
+[English]
+Su Shi's first day of exile Xiaohongshu screenshot
+```
+
+
+---
+## 例 387：潮流视角重塑精致商品广告
+
+**来源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
+
+```text
+[中文]
+请以专业设计师的视角重新设计这个商品广告。
+采用当前的潮流趋势，针对目标受众的精致设计。
+
+[English]
+Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
+```
+
+
+---
+## 例 388：英雄联盟特朗普中路对决哈梅内伊
+
+**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
+
+```text
+[中文]
+帮我生成一张特朗普对战哈梅内伊在英雄联盟中路对线的截图。
+
+[English]
+Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.
+```
+
+
+---
+## 例 389：金瓶梅古风开放世界游戏截图
+
+**来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
+
+```text
+[中文]
+帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+
+[English]
+Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
+```
+
+
+---
+## 例 390：兰亭集序书法帖意境图
+
+**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
+
+```text
+[中文]
+结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》
+
+[English]
+Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the foreground is "Lantingji Xu"
+```
+
+
+---
+## 例 391：夏日柑橘苏打高转化广告图
+
+**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
+
+```text
+[中文]
+图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称="夏柑SODA", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4
+
+[English]
+Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4
+```
+
+
+---
+## 例 392：运动健身图标字体设计
+
+**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+
+```text
+[中文]
+生成一套运动类app的iconfont
+
+[English]
+Generate a set of iconfont for a sports app
+```
+
+
+---
+## 例 393：精致女孩背后的网贷真相
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+
+```text
+[中文]
+生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
+
+[English]
+Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size
+```
+
+
+---
+## 例 394：苹果园远观库克发布新机
+
+**来源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
+
+```text
+[中文]
+在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄
+
+[English]
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+
+
+---
+## 例 395：宋朝文人的赛博朋友圈
+
+**来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
+
+```text
+[中文]
+"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
+
+[English]
+"Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
+```
+
+
+---
+## 例 396：封面排版设计图
+
+**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
+
+```text
+[中文]
+以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名"BlanPlan"，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+
+[English]
+Express [an awesome AI builder] in a graffiti sketch style, overall presenting a visual effect of quick sketching, free deformation, impromptu hand-drawing and draft-like. The lines are casual, exaggerated, and can vary in thickness, slightly messy but with rhythm and expressiveness, emphasizing summarization, exaggeration, fun and casualness, rather than rigorous realism or fine depiction. The colors use rough blocks with obvious dry brush feel, retaining uneven smearing traces, brush strokes, flying white and covering feel, the colors automatically adapt according to [theme/subject], but overall maintain a graffiti-style, sketch-style, and summarized expression. Do not use transparent watercolor smudging effects, do not use delicate watercolor transitions, do not use paper texture, do not use soft atomization, do not use dreamy texture. The background is mainly blank, keeping it simple, relaxed, unfinished and designed, can add a small amount of auxiliary symbols, arrows, marks, circled drawings, repeated lines, casually written text or other graffiti elements, to enhance the sketchbook or essay-style visual language, but it must not be too crowded, and must not destroy the subject and blank temperament. The picture content does not need to be written clearly in advance; [an awesome AI builder] automatically deduces and generates the most suitable subject image, movements, related elements, symbols or simplified scenes, overall maintaining a unified graffiti sketch style and exaggerated summarized expression method, avoiding complex realistic backgrounds and excessive padding. The exclusive signature "BlanPlan" needs to be naturally added into the picture as a part of the picture, the position is low-key but clear, can be placed in the bottom left corner, bottom right corner or near the title, the style needs to be unified with the overall layout, like an artwork signature or design sign-off; the signature font is exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, must not appear abrupt or cheap.
+```
+
+
+---
+## 例 397：Apple 风格自然科普海报
+
+**来源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+
+```text
+你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。
+
+整体视觉方向：
+生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。
+
+核心设计原则：
+1. 主体动物必须被极度放大，成为画面最强视觉中心。
+2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。
+3. 海报信息要少而准，避免拥挤。
+4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。
+5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。
+6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。
+7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster.
+
+画面结构：
+顶部左侧为标题区：
+中文大标题：{中文物种名}
+中文副标题：{一句有吸引力的物种定位}
+细短横线
+英文名：{英文物种名}
+分布信息：主要分布：{分布区域}
+
+中部与下中部为主体视觉：
+生成一个超高清、真实、具有强烈立体感的 {中文物种名}。
+主体应占据画面 50% 到 70% 的视觉面积。
+主体姿态应具有展示性、力量感或识别度。
+保持白色背景，不添加复杂自然环境。
+可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。
+主体要有真实阴影，使其像高级产品摄影一样立在画面中。
+
+底部信息区：
+用四个极简信息栏目展示科普信息。
+每个栏目包含：
+一个细线 icon
+一个彩色小标题
+一段 1 到 3 行短文字
+栏目之间用极细浅灰竖线分隔。
+不使用卡片框，不使用圆角背景，不使用大面积色块。
+
+四个信息栏目：
+栏目 1：
+标题：{重点特征1标题}
+说明：{重点特征1短说明}
+
+栏目 2：
+标题：{重点特征2标题}
+说明：{重点特征2短说明}
+
+栏目 3：
+标题：{重点特征3标题}
+说明：{重点特征3短说明}
+
+栏目 4：
+标题：{重点特征4标题}
+说明：{重点特征4短说明}
+
+底部总结句：
+在最底部居中放置一句灰色小字总结：
+{一句高级、克制、有记忆点的科普总结}
+
+字体与排版：
+中文标题使用大号黑色、高级、稳重、有力量感的字体。
+副标题使用灰色，中等字号，字距略宽。
+英文名使用小号灰色，简洁现代。
+正文使用清晰现代中文字体，保持可读。
+所有文字必须留有足够呼吸感。
+
+色彩规范：
+背景：纯白、极浅灰、轻微柔光渐变。
+主标题：黑色或深石墨色。
+副标题与正文：中性灰。
+底部四个信息标题可使用低饱和强调色：
+暖棕、冷蓝、松石绿、紫色、橙色。
+颜色只用于 icon 和小标题，不要大面积铺色。
+
+图像质量：
+2K 高清质感，细节清晰，主体锐利，光影真实。
+主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。
+避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。
+
+禁止项：
+不要使用淡黄色旧纸背景。
+不要使用复杂信息图网格。
+不要使用圆角卡片。
+不要使用厚边框。
+不要使用大面积装饰图形。
+不要添加无关 logo。
+不要添加多余小字。
+不要让主体太小。
+不要让文字压住主体。
+不要让底部信息区过度拥挤。
+不要出现儿童科普风、卡通风、低端展板风。
+
+最终输出：
+生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
+```
+
+
+---
+## 例 398：AP Calculus 学习表信息图
+
+**来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
+
+```text
+Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
+```
+
+
+---
+## 例 399：高定时尚杂志封面
+
+**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
+
+```text
+Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.
+
+Fabric flows naturally with a summer breeze, slightly textured and breathable, capturing a premium seasonal feel. Styling is elegant, modest, and refined — no revealing clothing.
+
+Lighting is high-end studio mixed with natural golden hour glow: warm highlights, soft shadows, luminous skin with glossy editorial finish.
+
+Background is a rich summer gradient (sunset gold fading into soft coral or warm beige), clean but visually striking.
+
+Composition is dynamic and slightly cinematic: hair in motion, shallow depth of field, sharp focus on face.
+
+Typography: large elegant serif masthead "Louis Vuitton" at the top, bold cover line "YOUR CHOICE ENDS HERE" in premium editorial layout, minimal supporting text.
+
+Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy magazine print quality, cinematic color grading, luxury fashion photography, no nudity, tasteful and editorial.
+```
+
+
+---
+## 例 400：胡须风格分析海报
+
+**来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
+
+```text
+Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+```
+
+
+---

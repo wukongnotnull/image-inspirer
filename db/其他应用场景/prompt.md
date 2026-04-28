@@ -1,7 +1,7 @@
 # 其他应用场景 — 提示词合集
 
 
-> 57 个案例
+> 82 个案例
 
 ---
 
@@ -1146,3 +1146,599 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 ```
 
 
+## 例 303：十二黄金圣斗士卡牌合集
+
+**来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
+
+```text
+[中文]
+生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
+
+[English]
+Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
+```
+
+
+---
+## 例 304：大唐玄武门之变的朋友圈
+
+**来源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
+
+```text
+[中文]
+玄武门之变的朋友圈
+
+[English]
+WeChat Moments of the Xuanwu Gate Incident
+```
+
+
+---
+## 例 305：手写中西药方图片
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
+
+```text
+[中文]
+生成一张手写中/西医药方图
+
+[English]
+Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription
+```
+
+
+---
+## 例 306：银河繁星点缀的冰蓝襦裙
+
+**来源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
+
+```text
+[中文]
+服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
+
+材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
+
+構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
+
+[English]
+Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.
+Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.
+Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center
+```
+
+
+---
+## 例 307：亚马逊详情图设计
+
+**来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
+
+```text
+[中文]
+生成一套亚马逊 A+=详情图
+
+[English]
+Generate a set of Amazon A+= detail images
+```
+
+
+---
+## 例 308：杜甫朋友圈吐槽茅屋被掀翻
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+
+```text
+[中文]
+杜甫发朋友圈吐槽房顶被风刮没了
+
+[English]
+Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
+```
+
+
+---
+## 例 309：武则天发微博自拍太魔性了
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+
+```text
+[中文]
+武则天自拍登记发微博
+
+[English]
+Wu Zetian taking a selfie, registering and posting on Weibo.
+```
+
+
+---
+## 例 310：宅男必看绝美二次元少女
+
+**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+
+```text
+[中文]
+生成高质量美女（宅男必备）
+
+[English]
+Generate high-quality beautiful girl (otaku must-have)
+```
+
+
+---
+## 例 311：神话三国枪战世界
+
+**来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
+
+```text
+[中文]
+模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏
+
+[English]
+Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
+```
+
+
+---
+## 例 312：机甲少女立于废弃海城
+
+**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
+
+```text
+[中文]
+一名十几岁的机甲少女，苍白的肌肤上沾着烟尘与海水飞沫，锐利的琥珀色眼眸中映出发光的 HUD 瞄准标线；及腰的灰白色长发扎成高马尾，在海风中肆意飞扬。哑光枪灰色外骨骼装甲覆盖双肩、前臂与小腿，关节处裸露着液压活塞，胸挂布有发光的青蓝色冷却管线。一件沾着油污的超大号机库外套半滑落在一侧肩头，一门巨型轨道炮架在右肩，衣领处挂着士兵牌与磨损的红色丝带。
+她站在向左略微偏移的位置，立于倾斜钢铁平台的锈蚀边缘，平台向外延伸至漆黑海面之上；重心落在单腿上，左手紧握炮带，头部微转向镜头，投来沉静而桀骜的目光。背部推进器不断喷出蒸汽，马尾与外套在咸腥海风里向一侧狂乱飘动。
+背景是黄昏时分广袤的废弃海上都市，用途不明的巨型超级建筑从海洋中拔地而起，形成错落的剪影；骨白色的巨型塔楼与附着藤壶的钢铁结构融为一体，巨大的环形建筑以破碎的角度倾斜矗立，锈蚀的桁架骨架间缠绕着废弃线缆，深色浪涛在支撑柱间翻涌，数艘沉船半淹在柱脚。厚重的海雾萦绕在建筑底部，高耸的结构直刺入暗沉的天空，塔楼高处零星闪烁着微弱灯光，宛如遥远的眼眸。
+画面采用阴郁低调的光影：阴沉天空透出冷调青蓝环境光，画面右侧远处建筑漏出温暖的琥珀色钠灯光晕，塔楼后方低垂的太阳形成强烈逆光，勾勒出她的轮廓；体积光穿透海雾，装甲上呈现湿润的镜面高光。
+镜头使用 35mm 变形宽银幕镜头，略微低角度仰拍，越过她的肩膀望向远处建筑群；中全景构图，浅景深使前景的锈蚀景物虚化，带有横向镜头眩光，细腻的大气薄雾将远处巨型建筑压缩为层次分明的剪影。
+整体为电影感动漫主视觉风格，绘画感数字插画搭配利落线稿，采用青蓝、骨白与铁锈色为主的低饱和海洋色调，点缀少量暖色调高光；添加胶片颗粒，呈现高对比度的艺术海报质感，画幅比例 16:9。
+
+[English]
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+
+---
+## 例 313：朱元璋登基后的推特主页
+
+**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
+
+```text
+[中文]
+创建一个明朝朱元璋登基之后的X帖子页面
+
+[English]
+Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
+```
+
+
+---
+## 例 314：言叶之庭春雨绿意单日历
+
+**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+
+```text
+[中文]
+生成一张言叶之庭2026年4月19日单日日历
+
+[English]
+Generate a single-day calendar for The Garden of Words on April 19, 2026
+```
+
+
+---
+## 例 315：五一劳动节手举牌创意设计集
+
+**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+
+```text
+[中文]
+生成一系列五一劳动节的手举牌设计
+
+[English]
+Generate a series of hand-held sign designs for May Day Labor Day
+```
+
+
+---
+## 例 316：威化岛回军前夕李成桂动态
+
+**来源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
+
+```text
+[中文]
+태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
+
+[English]
+Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
+```
+
+
+---
+## 例 317：赛博朋克科幻曼荼罗
+
+**来源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
+
+```text
+[中文]
+でChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ
+
+左の水色と黄色のが先週
+右の紫のが今日
+
+右のは透明感とか解像度、緻密さが違うような気がする…
+
+プロンプト
+曼荼羅の近未来SF版を描いて
+
+[English]
+I had ChatGPT create images, and when I had it create them again today, it might be GPT image 2, and it seems like the quality has changed, so I'm making a note of it
+
+The light blue and yellow one on the left is from last week
+The purple one on the right is from today
+
+I feel like the transparency, resolution, and fineness are different for the one on the right.
+
+Prompt
+Draw a near-future sci-fi version of a mandala
+```
+
+
+---
+## 例 318：明朝登基宝玉的推文页面
+
+**来源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
+
+```text
+[中文]
+创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。
+
+[English]
+Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
+```
+
+
+---
+## 例 319：精美潮汕菜馆菜单图
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+
+```text
+[中文]
+生成一张潮菜馆菜单图
+
+[English]
+Generate a Teochew restaurant menu image.
+```
+
+
+---
+## 例 320：人教版三年级语文课本内页
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+
+```text
+[中文]
+生成人教版小学三年级语文课本的一页
+
+[English]
+Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
+```
+
+
+---
+## 例 321：晨曦薰衣草田梦幻少女三联画
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
+
+```text
+[中文]
+日出时分薰衣草田中女子的水平三联画。
+上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。
+中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。
+下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。
+
+[English]
+Horizontal triptych of a woman in a lavender field at sunrise.
+Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender foreground.
+Middle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face.
+Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.
+```
+
+
+---
+## 例 322：红蓝撞色高跟诱惑
+
+**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
+
+```text
+[中文]
+{
+  "global_settings": {
+    "resolution": "8K",
+    "quality": "超高清晰度",
+    "aspect_ratio": "2:3",
+    "render_style": "AI编辑、高细节3D渲染",
+    "lighting_quality": "柔和影棚光与逼真阴影",
+    "sharpness": "极致清晰、锐利边缘",
+    "noise": "无",
+    "compression": "无"
+  },
+  "Module_1_Image_1_Style": {
+    "subject": {
+      "character_type": "风格化3D卡通女性",
+      "pose": "站立、身体微微侧转、一手抬起食指触唇",
+      "expression": "灿烂微笑、大眼睛",
+      "hair": {
+        "color": "黑色",
+        "style": "双辫马尾",
+        "accessories": "绿色帽子"
+      },
+      "face": {
+        "eyes": "大而圆、深色瞳孔",
+        "skin": "光滑、哑光、风格化纹理"
+      }
+    },
+    "clothing": {
+      "top": "无袖绿色短款上衣",
+      "bottom": "宽松绿色束脚运动裤配抽绳",
+      "footwear": "白色运动鞋"
+    },
+    "accessories": {
+      "luggage": "绿色硬壳拉杆行李箱"
+    },
+    "color_palette": [
+      "多种绿色",
+      "白色点缀"
+    ],
+    "background": {
+      "color": "纯绿色",
+      "texture": "柔软、微颗粒影棚背景"
+    },
+    "composition": {
+      "framing": "全身",
+      "camera_angle": "平视",
+      "depth": "主体与背景锐利分离"
+    }
+  },
+  "Module_2_Image_2_Style": {
+    "subject": {
+      "character_type": "风格化3D卡通女性",
+      "pose": "微微后仰靠在背景上",
+      "expression": "俏皮、嘴唇轻撅、眼睛斜视",
+      "hair": {
+        "color": "棕色",
+        "style": "短发、凌乱",
+        "accessories": "红色太阳镜架在头顶"
+      }
+    },
+    "clothing": {
+      "dress": "贴身蓝色罗纹吊带裙",
+      "footwear": "红色高跟凉鞋配蝴蝶结"
+    },
+    "color_palette": [
+      "大胆红色",
+      "深蓝"
+    ],
+    "background": {
+      "color": "纯红色",
+      "texture": "光滑哑光表面"
+    },
+    "lighting": {
+      "direction": "一侧柔和定向光",
+      "shadow": "在红色背景上投下清晰影子"
+    },
+    "composition": {
+      "framing": "全身",
+      "pose_emphasis": "弯曲身姿、交叉双腿"
+    }
+  },
+  "Module_3_Image_3_Style": {
+    "subject": {
+      "characters": [
+        {
+          "type": "风格化3D卡通女性",
+          "position": "左侧",
+          "wrapped_in": "红色纹理毯子",
+          "expression": "平静、浅笑、眼睛向上看"
+        },
+        {
+          "type": "风格化3D卡通男性",
+          "position": "右侧",
+          "wrapped_in": "橙色纹理毯子",
+          "expression": "中性、温柔目光向上"
+        }
+      ]
+    },
+    "environment": {
+      "furniture": "红色沙发",
+      "floor": "红色地面",
+      "background": {
+        "color": "深红色",
+        "texture": "织物状横向纹理"
+      }
+    },
+    "details": {
+      "feet": "女性赤脚、男性穿袜",
+      "blanket_texture": "厚实针织面料"
+    },
+    "composition": {
+      "framing": "居中、中景宽镜头",
+      "symmetry": "左右平衡构图"
+    }
+  }
+}
+
+[English]
+{
+  "global_settings": {
+    "resolution": "8K",
+    "quality": "ultra-high definition",
+    "aspect_ratio": "2:3",
+    "render_style": "AI-edited, high-detail 3D render",
+    "lighting_quality": "soft studio lighting with realistic shadows",
+    "sharpness": "extreme clarity, crisp edges",
+    "noise": "none",
+    "compression": "none"
+  },
+  "Module_1_Image_1_Style": {
+    "subject": {
+      "character_type": "stylized 3D cartoon female",
+      "pose": "standing, body slightly angled, one hand raised with index finger touching lips",
+      "expression": "cheerful smile, wide eyes",
+      "hair": {
+        "color": "black",
+        "style": "two braided pigtails",
+        "accessories": "green cap"
+      },
+      "face": {
+        "eyes": "large, rounded, dark pupils",
+        "skin": "smooth, matte, stylized texture"
+      }
+    },
+    "clothing": {
+      "top": "sleeveless green crop top",
+      "bottom": "loose green jogger-style pants with drawstring",
+      "footwear": "white sneakers"
+    },
+    "accessories": {
+      "luggage": "green hard-shell suitcase with extended handle"
+    },
+    "color_palette": [
+      "multiple shades of green",
+      "white accents"
+    ],
+    "background": {
+      "color": "solid green",
+      "texture": "soft, slightly grainy studio backdrop"
+    },
+    "composition": {
+      "framing": "full body",
+      "camera_angle": "eye-level",
+      "depth": "subject sharply separated from background"
+    }
+  },
+  "Module_2_Image_2_Style": {
+    "subject": {
+      "character_type": "stylized 3D cartoon female",
+      "pose": "leaning slightly backward against background",
+      "expression": "playful, lips slightly pursed, eyes looking sideways",
+      "hair": {
+        "color": "brown",
+        "style": "short, tousled",
+        "accessories": "red sunglasses resting on head"
+      }
+    },
+    "clothing": {
+      "dress": "form-fitting blue ribbed dress with thin straps",
+      "footwear": "red high-heel sandals with bow detail"
+    },
+    "color_palette": [
+      "bold red",
+      "deep blue"
+    ],
+    "background": {
+      "color": "solid red",
+      "texture": "smooth matte surface"
+    },
+    "lighting": {
+      "direction": "soft directional light from one side",
+      "shadow": "defined shadow cast on red background"
+    },
+    "composition": {
+      "framing": "full body",
+      "pose_emphasis": "curved posture, crossed legs"
+    }
+  },
+  "Module_3_Image_3_Style": {
+    "subject": {
+      "characters": [
+        {
+          "type": "stylized 3D cartoon female",
+          "position": "left",
+          "wrapped_in": "red textured blanket",
+          "expression": "calm, slight smile, eyes looking upward"
+        },
+        {
+          "type": "stylized 3D cartoon male",
+          "position": "right",
+          "wrapped_in": "orange textured blanket",
+          "expression": "neutral, gentle gaze upward"
+        }
+      ]
+    },
+    "environment": {
+      "furniture": "red sofa",
+      "floor": "red surface",
+      "background": {
+        "color": "deep red",
+        "texture": "fabric-like horizontal texture"
+      }
+    },
+    "details": {
+      "feet": "female barefoot, male wearing socks",
+      "blanket_texture": "thick, knitted fabric"
+    },
+    "composition": {
+      "framing": "centered, medium-wide shot",
+      "symmetry": "balanced left and right composition"
+    }
+  }
+```
+
+
+---
+## 例 323：个人网页视觉设计
+
+**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+
+```text
+原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
+```
+
+
+---
+## 例 324：《短歌行》诗词意境图
+
+**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+
+```text
+帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
+```
+
+
+---
+## 例 325：《赤壁怀古》长卷图
+
+**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+
+```text
+帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
+```
+
+
+---
+## 例 326：彼岸花丛中的红妆女子
+
+**来源：** [@xiaofenggan](https://x.com/xiaofenggan)
+
+```text
+异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
+```
+
+
+---
+## 例 327：运动时尚三联 Campaign
+
+**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
+
+```text
+Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
+
+Bottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly.
+
+Bottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.
+
+Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.
+```
+
+
+---

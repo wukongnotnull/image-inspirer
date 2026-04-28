@@ -1,7 +1,7 @@
 # 海报与排版 — 提示词合集
 
 
-> 80 个案例
+> 91 个案例
 
 ---
 
@@ -2342,3 +2342,301 @@ AI 必须依据【主题】自动决定最合适的：
 ```
 
 
+## 例 376：插画艺术风格创作
+
+**来源：** [@taira\_renta](https://x.com/taira_renta)
+
+```text
+An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name="man's hair color" default="red"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name="main title" default="ちかつば"}, a subtitle below it reading {argument name="subtitle" default="ーその溺愛、独占欲の裏返し。ー"}, vertical text on the top left reading {argument name="left quote" default="可愛いだけじゃ、許さない。"}, and vertical text on the top right reading {argument name="right quote" default="その不機嫌、俺だけに向けろよ。"}.
+```
+
+
+---
+## 例 377：建筑空间场景渲染
+
+**来源：** [@masapark95](https://x.com/masapark95)
+
+```text
+{
+  "type": "anime-style animated movie poster",
+  "scene": "Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.",
+  "subjects": {
+    "children": "2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.",
+    "animals": "4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).",
+    "creatures": "3 small black soot-sprite-like creatures with glowing eyes (bottom right).",
+    "floating_food": "4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait."
+  },
+  "layout": {
+    "top_text": "{argument name=\"top catchphrase\" default=\"おいしい奇跡が、今夜はじまる。\"}",
+    "building_sign": "{argument name=\"restaurant name\" default=\"森のレストラン\"}",
+    "left_board": "本日のおすすめ\n・森のスープ\n・星のオムライス\n・ふわふわパンケーキ\n・しあわせのパフェ\n...and more!",
+    "right_board": "いらっしゃいませ！\nここは、だれでも\n笑顔になれる場所。",
+    "main_title": {
+      "text": "{argument name=\"movie title\" default=\"ふしぎな森のレストラン\"}",
+      "styling": "Large stylized typography with a chef hat, fork, and spoon motifs."
+    },
+    "rabbit_sign": "ごちそうさま！またきてね！",
+    "bottom_left_badge": "{argument name=\"genre badge\" default=\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\"}",
+    "bottom_center_credits": "Fictional cast and staff names in Japanese.",
+    "bottom_release_date": "{argument name=\"release date\" default=\"2025年 夏休みロードショー！\"}",
+    "bottom_right": "QR code with text '最新情報はこちら！'"
+  }
+}
+```
+
+
+---
+## 例 378：暗黑极简头像网站视觉设计
+
+**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
+
+```text
+[中文]
+用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。
+
+[English]
+In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.
+```
+
+
+---
+## 例 379：国风工笔八仙长卷插画
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
+
+```text
+[中文]
+（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
+
+[English]
+(Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
+```
+
+
+---
+## 例 380：黑神话潘金莲绝美游戏封面
+
+**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
+
+```text
+[中文]
+生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人
+
+[English]
+Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.
+```
+
+
+---
+## 例 381：雅致图案四款时尚单品设计
+
+**来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
+
+```text
+[中文]
+使用附图中的图案，由专业设计师打造 4 款时尚单品，采用不同的色彩搭配与排版设计，附带穿搭效果图。以雅致的构图凸显图案的美感。格式为 2:3，希望将图像生成模型从 duct-tape-1 指定为 duct-tape-2、3。
+
+[English]
+Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight the beauty of the patterns with an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3.
+```
+
+
+---
+## 例 382：治愈系助眠指南九宫格
+
+**来源：** [@austinit](https://x.com/austinit/status/2046037688969769346)
+
+```text
+[中文]
+生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。
+
+整体视觉风格：
+奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。
+排版要求：
+
+整张图必须是标准九宫格构图，切分后每一格都能独立成图
+
+每个宫格内容完整居中，不要把标题或正文压在分割线附近
+每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读
+所有文字使用中文，清晰易读，不要乱码，不要英文
+每个宫格都像独立的小红书图文卡片，但视觉风格保持统一
+画面精致、真实、自然，不要廉价营销感，不要过度花哨
+九宫格具体内容：
+
+第1格（封面）
+大标题：让你倒头就睡的8个 tips
+副标题：失眠党、熬夜党一定要收藏
+封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。
+
+第2格
+标题：1. 睡前1小时别玩手机
+正文：蓝光会让大脑更清醒，越刷越睡不着。
+配图元素：手机、月亮、困倦表情的小插画
+第3格
+标题：2. 睡前把灯光调暗
+正文：暖光环境能帮助身体进入“准备睡觉”的状态。
+配图元素：床头灯、暖黄色灯光、窗帘
+第4格
+标题：3. 房间温度别太高
+正文：稍微凉一点，更容易快速入睡。
+配图元素：空调、温度计、被子
+第5格
+标题：4. 晚上别喝浓茶咖啡
+正文：咖啡因会延迟困意，让你躺很久还睡不着。
+配图元素：咖啡杯、茶杯、禁止符号
+
+第6格
+标题：5. 睡前洗个热水澡
+正文：能让身体放松下来，入睡速度更快。
+配图元素：浴室蒸汽、毛巾、热水
+第7格
+标题：6. 脑子停不下来就写下来
+正文：把烦心事和待办清单写下，大脑会更容易放松。
+配图元素：笔记本、钢笔、小台灯
+第8格
+标题：7. 固定上床时间
+正文：每天差不多时间睡，生物钟会越来越稳定。
+配图元素：时钟、月亮、床
+第9格
+标题：8. 试试深呼吸放松法
+正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。
+底部小字：收藏这组，今晚试试看
+配图元素：呼吸线条、闭眼人物、星星
+
+画质要求：
+高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。
+
+[English]
+Generate a 3:4 vertical 9-grid poster suitable for publishing on Xiaohongshu, with an overall layout of 3 columns × 3 rows. The boundaries of the nine grids are clear, making it easy to directly cut into 9 single images for later publishing. The overall style is clean, premium, and unified, suitable for female-oriented healthy lifestyle content, possessing the vibe of a viral Xiaohongshu cover. Image requirements: clear information layout, large text, strong readability, comfortable white space, gentle and healing color palette.
+
+Overall visual style:
+Cream white, light beige, light oat color, and light caramel color as the main color tones, paired with a small amount of dark brown text. Ins style, healing sense, sleep therapy theme, minimalist layout, light skeuomorphic illustration embellishments. Elements such as pillows, moons, stars, hot milk, aromatherapy, books, eye masks, curtains, and beds can be added. The overall look should be like a professional new media design graphic, with neat fonts, suitable for a knowledge-based popular science Xiaohongshu 9-grid.
+
+Layout requirements:
+The entire image must be a standard 9-grid composition, and each grid can stand alone as an independent image after being cut.
+The content of each grid should be completely centered; do not place titles or body text near the dividing lines.
+Keep obvious gaps or thin borders between each grid to ensure that reading is not affected after cropping.
+All text must use Chinese, be clear and readable, no garbled characters, no English.
+Each grid should look like an independent Xiaohongshu image-and-text card, but the visual style must remain unified.
+The image should be exquisite, realistic, and natural, without a cheap marketing feel, and not overly flashy.
+
+Specific content of the 9-grid:
+
+Grid 1 (Cover)
+Main title: 8 tips to make you fall asleep instantly
+Subtitle: Insomniacs and night owls must save this
+The cover visuals should be the most eye-catching, suitable for the first image. Add healing sleep elements such as soft beds, moons, pillows, and eye masks. The title should be prominent with a premium layout.
+
+Grid 2
+Title: 1. Don't play with your phone 1 hour before bed
+Body text: Blue light makes the brain more awake; the more you scroll, the harder it is to fall asleep.
+Image elements: Mobile phone, moon, small illustration of a sleepy expression
+
+Grid 3
+Title: 2. Dim the lights before bed
+Body text: A warm light environment can help the body enter a "ready to sleep" state.
+Image elements: Bedside lamp, warm yellow light, curtains
+
+Grid 4
+Title: 3. Don't keep the room temperature too high
+Body text: Keeping it a bit cooler makes it easier to fall asleep quickly.
+Image elements: Air conditioner, thermometer, quilt
+
+Grid 5
+Title: 4. Don't drink strong tea or coffee at night
+Body text: Caffeine delays sleepiness, making you lie in bed for a long time unable to sleep.
+Image elements: Coffee cup, teacup, prohibition sign
+
+Grid 6
+Title: 5. Take a hot shower before bed
+Body text: It can relax the body and help you fall asleep faster.
+Image elements: Bathroom steam, towel, hot water
+
+Grid 7
+Title: 6. Write it down if your brain won't stop
+Body text: Writing down your worries and to-do lists makes it easier for your brain to relax.
+Image elements: Notebook, fountain pen, small desk lamp
+
+Grid 8
+Title: 7. Fix your bedtime
+Body text: Going to bed at about the same time every day will make your biological clock increasingly stable.
+Image elements: Clock, moon, bed
+
+Grid 9
+Title: 8. Try deep breathing relaxation
+Body text: Inhale for 4 seconds, hold for 4 seconds, exhale for 6 seconds, and sleepiness will gradually come.
+Bottom small text: Save this set and try it tonight
+Image elements: Breathing lines, person with closed eyes, stars
+
+Image quality requirements:
+High definition, premium layout, magazine feel, realistically publishable, new media operation aesthetics, Xiaohongshu viral image-and-text style, neat text layout, suitable for direct image cutting.
+```
+
+
+---
+## 例 383：黑白线稿勾勒的上海风情
+
+**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+
+```text
+[中文]
+设计一张黑色线稿风格的上海明信片
+
+[English]
+Design a Shanghai postcard in black line art style.
+```
+
+
+---
+## 例 384：九位大师的机械键盘设计图鉴
+
+**来源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
+
+```text
+[中文]
+一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则
+
+[English]
+A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
+```
+
+
+---
+## 例 385：红蓝光影下的未来都市双重曝光青年
+
+**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
+
+```text
+[中文]
+{
+  "prompt": "一位年轻男子的超写实电影级双重曝光侧脸肖像，表情专注强烈，皮肤纹理细节丰富，眼神锐利。他的面部与从剪影中浮现的未来主义城市天际线无缝融合，摩天大楼和城市建筑构成了他的颈部和下颌线。深蓝色和鲜艳红色的强烈对比，象征着冲突与力量。抽象的数字划痕、碎裂的玻璃纹理和漏光效果覆盖在面部，营造出戏剧性的效果。干净的白色背景，超精细的灯光，专业电影海报风格，高对比度，清晰聚焦，8K分辨率，逼真的发丝，社论海报构图，现代平面设计美学，戏剧性的氛围，超高清，照片级真实。",
+  "negative_prompt": "模糊，低分辨率，扭曲的面部，多余的肢体，过饱和的颜色，嘈杂的背景，平淡的灯光，卡通化，低细节",
+  "resolution": "8K",
+  "style": "电影感，双重曝光，照片级真实感，社论海报",
+  "background": "干净的白色",
+  "lighting": "高对比度，戏剧性的蓝红分割布光"
+}
+
+[English]
+{
+  "prompt": "A hyper-realistic cinematic double exposure portrait of a young man in side profile, intense focused expression, detailed skin texture and sharp eyes. His face seamlessly blended with a futuristic city skyline emerging from his silhouette, skyscrapers and urban buildings forming his neck and jawline. Strong contrast of deep blue and vibrant red tones symbolizing conflict and power. Abstract digital scratches, fractured glass textures, and light leaks overlaying the face for a dramatic effect. Clean white background, ultra-detailed lighting, professional movie poster style, high contrast, sharp focus, 8K resolution, realistic hair strands, editorial poster composition, modern graphic design aesthetics, dramatic mood, ultra-HD, photorealistic.",
+  "negative_prompt": "blurry, low resolution, distorted face, extra limbs, oversaturated colors, noisy background, flat lighting, cartoonish, low detail",
+  "resolution": "8K",
+  "style": "cinematic, double exposure, photorealistic, editorial poster",
+  "background": "clean white",
+  "lighting": "high contrast, dramatic blue and red split lighting"
+}
+```
+
+
+---
+## 例 386：西楚霸王国风暗黑海报
+
+**来源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
+
+```text
+竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
+```
+
+
+---

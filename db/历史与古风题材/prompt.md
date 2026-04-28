@@ -1,7 +1,7 @@
 # 历史与古风题材 — 提示词合集
 
 
-> 10 个案例
+> 13 个案例
 
 ---
 
@@ -178,3 +178,45 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
 ```
 
+## 例 293：皇宫深处的御用快递驿站
+
+**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+
+```text
+[中文]
+生成一张古代皇宫 × 快递驿站
+
+[English]
+Generate an ancient imperial palace × express delivery station
+```
+
+
+---
+## 例 294：大师级真迹复刻
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
+
+```text
+[中文]
+帮我生成xxxx真迹图片
+
+[English]
+Help me generate xxxx authentic picture
+```
+
+
+---
+## 例 295：复古传统老黄历二零二六年四月十八
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+
+```text
+[中文]
+生成一张2026年4月18日的老黄历
+
+[English]
+Generate an old almanac for April 18, 2026
+```
+
+
+---

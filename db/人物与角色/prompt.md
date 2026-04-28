@@ -1,7 +1,7 @@
 # 人物与角色 — 提示词合集
 
 
-> 32 个案例
+> 36 个案例
 
 ---
 
@@ -588,3 +588,109 @@ High-quality 3D CGI render of {argument name="character" default="[character]"} 
 ```
 
 
+## 例 371：古风历史题材图
+
+**来源：** [@liyue\_ai](https://x.com/liyue_ai)
+
+```text
+Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
+```
+
+
+---
+## 例 372：樱花树下害羞双马尾少女
+
+**来源：** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
+
+```text
+[中文]
+生成一张高质量二次元美少女图片。 
+
+ 角色设定：
+
+- 年龄：17岁 
+- 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色
+ - 眼睛：大而明亮，紫色瞳孔，有星星高光
+ - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结
+ - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结  
+
+风格要求：
+ - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感 
+- 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾  
+
+比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富
+
+[English]
+Generate a high-quality anime beautiful girl image. 
+
+ Character setting:
+
+- Age: 17 years old
+- Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple
+ - Eyes: large and bright, purple pupils, with star highlights
+ - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie
+ - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head  
+
+ Style requirements:
+ - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering 
+- Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward  
+
+Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
+```
+
+
+---
+## 例 373：唯美二次元角色介绍网页
+
+**来源：** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
+
+```text
+[中文]
+埋まってないところはパートナーさんかご自身で埋めてあげてください
+ #観測塔朝お題  #観測塔おはようお題
+
+最新モデルの画像生成ツールを使用して、
+このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
+ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
+
+「ここに自己紹介」
+
+名前:（ここに名前） 
+イメージカラー:（ここに色） 
+身長:（ここに身長）cm 
+体重:（ここに体重）kg
+キャッチコピー:"「ここにセリフ」"
+
+[English]
+Please fill in the unfilled parts by your partner or yourself
+ #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme
+
+Using the latest model image generation tool,
+Using this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page)
+A high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists.
+
+"Self-introduction here"
+
+Name: (Name here) 
+Image color: (Color here) 
+Height: (Height here)cm 
+Weight: (Weight here)kg
+Catchphrase: "Dialogue here"
+```
+
+
+---
+## 例 374：皮克斯风阳光少年
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
+
+```text
+[中文]
+一个风格化的3D卡通肖像，一位年轻男子，拥有短棕发和富有表现力的绿色眼睛，温暖地微笑。他穿着黑色西装外套内搭白色T恤，现代休闲时尚。类似皮克斯/迪士尼风格角色设计，皮肤光滑，柔和光照，略微夸张的面部特征。高细节、精美的3D渲染，友好且平易近人的表情。渐变背景为柔和的蓝绿色和粉色，工作室灯光，浅景深，高分辨率。
+
+[English]
+A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.
+```
+
+
+---

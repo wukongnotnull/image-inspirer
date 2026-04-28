@@ -1,7 +1,7 @@
 # 商品与电商 — 提示词合集
 
 
-> 47 个案例
+> 54 个案例
 
 ---
 
@@ -975,3 +975,391 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 ```
 
 
+## 例 346：品牌视觉识别图
+
+**来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
+
+```text
+{
+  "type": "e-commerce landing page hero section",
+  "brand": "{argument name=\"brand name\" default=\"CLEAR RESET\"}",
+  "theme": "refreshing skincare, clean aesthetic, water bubbles background",
+  "color_palette": ["white", "{argument name=\"primary color\" default=\"teal\"}", "light blue"],
+  "layout": {
+    "header": {
+      "logo": "CLEAR RESET",
+      "navigation_links": {"count": 5, "labels": ["About Product", "About Pores/Acne", "Ingredients", "How to Use", "FAQ"]},
+      "action_buttons": {"count": 2, "labels": ["Buy Now", "My Page"]}
+    },
+    "hero_content": {
+      "headline": "{argument name=\"main headline\" default=\"毛穴・ニキビ悩みに、すっきり澄んだ肌へ。\"}",
+      "subheadline": "Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.",
+      "vertical_copy": "Prevents recurring rough skin and acne, leading to smooth, clear skin."
+    },
+    "visuals": {
+      "model": "{argument name=\"model description\" default=\"young Asian woman with clear radiant skin, hair tied up, smiling softly\"}",
+      "products": {
+        "count": 2,
+        "description": "{argument name=\"product type\" default=\"acne care gel tube and lotion bottle\"}",
+        "placement": "center"
+      },
+      "background": "light blue gradient with floating water bubbles"
+    },
+    "feature_highlights": {
+      "count": 4,
+      "style": "circular icons with text below",
+      "labels": ["Quasi-drug", "Pore Care", "Non-sticky", "Daily Use Morning/Night OK"]
+    },
+    "call_to_action": {
+      "banner_text": "Limited to first-time buyers",
+      "buttons": {"count": 2, "labels": ["Try it at a discount", "See details"]}
+    },
+    "statistics_cards": {
+      "count": 4,
+      "style": "white rectangular cards with large teal numbers",
+      "labels": ["Satisfaction 92%", "Pore visibility -23%", "Acne prevention 87%", "Want to repeat 97%"]
+    }
+  }
+}
+```
+
+
+---
+## 例 347：疾风起狂草艺术字体设计
+
+**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
+
+```text
+[中文]
+创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
+深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
+起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
+dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
+重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
+整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
+纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
+
+[English]
+Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact;
+Deeply integrated with the essence of handwritten calligraphy, the brushstrokes carry the rugged and free-spirited nature of brush writing, like the unrestrained vigor of splashing ink;
+The flying white and pauses at the start and end of the strokes fully display the explosive tension of a promotion, the form of the text breaks away from neatness, with variations in the thickness of the strokes;
+dutch angle, creating a dynamic sprinting momentum, the font shape shows a bold and unrestrained trend;
+The center of gravity rises like being ready to launch, the stretching and interlacing of the strokes are completely unconstrained, like the vigor of a full-force sprint;
+The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps;
+Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
+```
+
+
+---
+## 例 348：震撼视觉的深红影棚广角美妆大片
+
+**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+
+```text
+[中文]
+照片级真实感的大胆美妆宣传活动，使用上传的模特作为精确的身份参考。不做面部改变，不做平滑处理。
+场景：深红色饱和的摄影棚环境，具有高对比度的地板图案或光滑表面。
+产品：产品被握持或放置在极其靠近镜头的位置，由于透视关系显得巨大。
+模特姿势：俏皮或自信的微笑，手臂完全伸向相机，手指因广角镜头而略微变形。透过太阳镜的强烈眼神交流或自然凝视。
+相机：超广角 20–28mm 美学，动态前景夸张，浅至中等景深。
+灯光：强有力的商业照明，具有清晰的高光和反射，锐利的包装边缘，充满活力的调色。超精细的皮肤纹理和织物真实感。
+
+[English]
+Photorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing.  
+Scene: deep red saturated studio environment with high-contrast floor pattern or glossy surface.  
+Product: the product held or positioned extremely close to the lens, appearing large due to perspective.   
+Model pose: playful or confident smile, arm fully extended toward camera, fingers slightly distorted by wide lens. Strong eye contact through sunglasses or natural gaze.  
+Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field.  
+Lighting: punchy commercial lighting with defined highlights and reflections, crisp packaging edges, vibrant color grading. Hyper-detailed skin texture and fabric realism.
+```
+
+
+---
+## 例 349：珊瑚色极简影棚时尚商业大片
+
+**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+
+```text
+[中文]
+超写实高端时尚商业广告大片，使用上传的模特照片作为严格的身份参考。保留精确的面部特征、比例和自然皮肤纹理——无修图，无变形。场景：珊瑚色单色工作室盒，配有光泽反光棋盘格或极简抛光地板。拥有柔和光线渐变的干净几何墙壁。产品：产品放置在前景中心超大位置，因广角透视而占据画面主导地位。包装超清晰，文字完全可读，具有逼真的反射和材质纹理。较小的产品单元可对称放置在背景中。模特姿势：站在产品后方，微蹲或前倾，一只手伸向镜头以创造深度感。强烈自信的表情，时尚态度。相机：低角度 24-35mm 镜头感，戏剧性透视畸变，对产品和模特都进行深焦处理。灯光：明亮的商业影棚灯光，柔和阴影，包装上有光泽高光，高端广告成片质感。4K–8K 写实主义，无水印，无嵌入式文本。纵横比 9:13
+
+[English]
+Ultra-realistic high-fashion commercial campaign using the uploaded model photo as strict identity reference. Preserve exact facial features, proportions and natural skin texture — no retouching, no reshaping.  
+Scene: coral monochrome studio box with glossy reflective checker or minimal polished floor. Clean geometric walls with soft light gradients.  
+Product: the product placed oversized in the center foreground, dominating the frame due to wide-angle perspective. The packaging is ultra-sharp, fully readable, realistic reflections and material texture. Smaller product units can be placed symmetrically in the background.  
+Model pose: standing behind the product, slightly crouched or leaning forward, one hand reaching toward the camera to create depth. Strong confident expression, fashion attitude.  
+Camera: low-angle 24–35mm lens look, dramatic perspective distortion, deep focus on both product and model.  
+Lighting: bright commercial studio lighting, soft shadows, glossy highlights on packaging, high-end campaign finish. 4K–8K realism, no watermark, no embedded text.i ar 9:13
+```
+
+
+---
+## 例 350：沉香玫瑰悬浮幻景
+
+**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
+
+```text
+[中文]
+{
+  "master_prompt_type": "超精细8K AI图像生成",
+  "global_settings": {
+    "resolution": "8K UHD",
+    "aspect_ratio": "2:3 竖版",
+    "render_quality": "极致锐度、超微细节、电影级光效",
+    "style": "超现实商业产品摄影",
+    "color_profile": "温暖金调搭配柔和琥珀高光",
+    "environment": {
+      "location": "古老中东市场走廊",
+      "architecture": {
+        "walls": "岁月痕迹的粗糙石墙与可见纹理",
+        "arches": "背景巨型石拱",
+        "floor": "暖棕色石材地面"
+      },
+      "background_elements": [
+        "装满香料的木架",
+        "袋装与碗装干货",
+        "悬挂草药束",
+        "散发暖黄光的传统金属灯笼"
+      ],
+      "lighting": {
+        "primary": "柔和金色环境光",
+        "secondary": "两侧暖灯笼辉光",
+        "atmosphere": "薄雾增强光线漫射"
+      }
+    },
+    "main_subject": {
+      "type": "香水瓶",
+      "position": "中心前景",
+      "placement": "置于华丽木桌之上",
+      "material": {
+        "bottle": "透明清玻璃",
+        "cap": "黄金金属矩形瓶盖",
+        "liquid": "淡金香水液体"
+      },
+      "design": {
+        "shape": "圆角矩形瓶身",
+        "finish": "高光反射表面",
+        "label": "无可见标签"
+      },
+      "table": {
+        "material": "深色雕花木材",
+        "shape": "方形台面",
+        "details": [
+          "繁复花卉与几何雕刻",
+          "金色镶嵌装饰",
+          "抛光表面映光"
+        ]
+      },
+      "floating_elements": {
+        "composition_style": "竖向成分堆叠",
+        "motion": "成分悬浮并伴随旋转金光",
+        "effects": [
+          "发光粒子",
+          "闪耀尘埃",
+          "柔光尾迹连接元素"
+        ],
+        "elements_order_top_to_bottom": [
+          {
+            "ingredient": "琥珀树脂",
+            "appearance": "半透明金棕树脂块",
+            "glow": "温暖内发光"
+          },
+          {
+            "ingredient": "大马士革玫瑰",
+            "appearance": "盛放粉色玫瑰",
+            "details": [
+              "柔软层叠花瓣",
+              "自然绿叶",
+              "轻飘附近花瓣"
+            ]
+          },
+          {
+            "ingredient": "白麝香",
+            "appearance": "光滑白水晶状石块",
+            "additional": "石下细白粉末"
+          },
+          {
+            "ingredient": "陈年沉香",
+            "appearance": "深棕木片",
+            "texture": "粗糙纤维木纹",
+            "effect": "缕缕白烟上升"
+          }
+        ]
+      },
+      "text_elements": {
+        "title": {
+          "text": "精致叙利亚香水",
+          "font_style": "优雅衬线体",
+          "color": "金色",
+          "position": "顶部中央"
+        },
+        "subtitle": {
+          "text": "奢华叙利亚香水",
+          "font_style": "较小衬线体",
+          "color": "金色",
+          "position": "主标题下方"
+        },
+        "ingredient_labels": [
+          {
+            "title": "纯琥珀",
+            "description": "来自自然深处的珍贵树脂"
+          },
+          {
+            "title": "大马士革玫瑰",
+            "description": "美丽与叙利亚传承的象征"
+          },
+          {
+            "title": "白麝香",
+            "description": "干净、粉感、永恒优雅的香氛"
+          },
+          {
+            "title": "陈年沉香",
+            "description": "深邃温暖、浓郁烟熏木香"
+          }
+        ],
+        "typography_details": {
+          "connector_lines": "细弯金线连接文字与成分",
+          "icons": "线末端小圆点标记"
+        },
+        "opacity": "轻微半透明"
+      }
+    },
+    "overall_mood": {
+      "tone": "奢华、温暖、优雅",
+      "theme": "传承香水工艺",
+      "visual_feel": "浓郁、高端、电影级广告"
+    }
+  }
+}
+
+[English]
+{
+  "master_prompt_type": "Ultra-detailed 8K AI image generation",
+  "global_settings": {
+    "resolution": "8K UHD",
+    "aspect_ratio": "2:3 vertical",
+    "render_quality": "extreme sharpness, ultra-fine detail, cinematic lighting",
+    "style": "hyper-realistic commercial product photography",
+    "color_profile": "warm golden tones with soft amber highlights",
+    "environment": {
+      "location": "ancient Middle Eastern market corridor",
+      "architecture": {
+        "walls": "aged stone walls with visible texture and wear",
+        "arches": "large stone archway in background",
+        "floor": "stone flooring, warm brown tone"
+      },
+      "background_elements": [
+        "wooden shelves filled with spices",
+        "sacks and bowls of dried goods",
+        "hanging bundles of herbs",
+        "traditional metal lanterns emitting warm yellow light"
+      ],
+      "lighting": {
+        "primary": "soft golden ambient light",
+        "secondary": "warm lantern glow from both sides",
+        "atmosphere": "slight haze enhancing light diffusion" "main_subject": {
+          "type": "perfume bottle",
+          "position": "center foreground",
+          "placement": "on top of an ornate wooden table",
+          "material": {
+            "bottle": "transparent clear glass",
+            "cap": "gold metallic rectangular cap",
+            "liquid": "light golden perfume liquid"
+          },
+          "design": {
+            "shape": "rectangular bottle with rounded edges",
+            "finish": "glossy reflective surface",
+            "label": "no visible label" "table": {
+              "material": "dark carved wood",
+              "shape": "square top",
+              "details": [
+                "intricate floral and geometric carvings",
+                "golden inlay accents",
+                "polished surface reflecting light" "floating_elements": {
+                  "composition_style": "vertical ingredient stack",
+                  "motion": "ingredients appear suspended with swirling golden light",
+                  "effects": [
+                    "glowing particles",
+                    "sparkling dust",
+                    "soft light trails connecting elements"
+                  ],
+                  "elements_order_top_to_bottom": [
+                    {
+                      "ingredient": "amber resin",
+                      "appearance": "translucent golden-brown resin chunks",
+                      "glow": "warm internal glow" "ingredient": "damask rose",
+                      "appearance": "fully bloomed pink rose",
+                      "details": [
+                        "soft layered petals",
+                        "natural green leaves",
+                        "petals gently floating nearby"
+                      ] "ingredient": "white musk",
+                      "appearance": "smooth white crystal-like stone",
+                      "additional": "fine white powder beneath the stone" "ingredient": "aged agarwood",
+                      "appearance": "dark brown wooden pieces",
+                      "texture": "rough, fibrous wood grain",
+                      "effect": "thin white smoke rising upward" "text_elements": {
+                        "title": {
+                          "text": "Exquisite Syrian Perfume",
+                          "font_style": "elegant serif",
+                          "color": "gold",
+                          "position": "top center"
+                        },
+                        "subtitle": {
+                          "text": "Luxury Syrian Perfume",
+                          "font_style": "smaller serif",
+                          "color": "gold",
+                          "position": "below main title"
+                        },
+                        "ingredient_labels": [
+                          {
+                            "title": "Pure Amber",
+                            "description": "Precious resin from the depths of nature"
+                          } "title": "Damask Rose",
+                          "description": "Symbol of beauty and Syrian heritage"
+                        },
+                        {
+                          "title": "White Musk",
+                          "description": "Clean, powdery scent of timeless elegance"
+                        },
+                        {
+                          "title": "Aged Agarwood",
+                          "description": "Rich, smoky wood with deep warmth"
+                        }
+                      ],
+                      "typography_details": {
+                        "connector_lines": "thin curved golden lines connecting text to ingredients",
+                        "icons": "small circular markers at line endpoints"
+                      } "opacity": "slightly translucent"
+                    } "overall_mood": "tone": "luxurious, warm, elegant",
+                    "theme": "heritage perfume craftsmanship",
+                    "visual_feel": "rich, premium, cinematic ads
+```
+
+
+---
+## 例 351：AI 眼镜爆炸拆解图
+
+**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+
+```text
+生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+```
+
+
+---
+## 例 352：四季包装 Campaign 宫格
+
+**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
+
+```text
+PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
+PHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds
+PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment
+PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
+
+Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
+```
+
+
+---

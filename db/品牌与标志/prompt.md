@@ -1,7 +1,7 @@
 # 品牌与标志 — 提示词合集
 
 
-> 10 个案例
+> 21 个案例
 
 ---
 
@@ -310,3 +310,257 @@ Design a set of seal carving stamps for "Elon Musk"
 Generate a set of iconfont for a sports app
 ```
 
+## 例 248：建筑空间场景图
+
+**来源：** [@ecooai](https://x.com/ecooai)
+
+```text
+A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping off one shoulder"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name="setting" default="dimly lit, slightly messy room with clothes on a table and a wooden shelf"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.
+```
+
+
+---
+## 例 249：建筑空间场景图
+
+**来源：** [@lakeside529](https://x.com/lakeside529)
+
+```text
+A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name="hair color" default="vibrant short red"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name="costume color" default="glossy red"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name="prop" default="fantasy sword with a blue blade and gold hilt"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.
+```
+
+
+---
+## 例 250：室内空间渲染图
+
+**来源：** [@nicdunz](https://x.com/nicdunz)
+
+```text
+A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text "{argument name="arcade game title" default="Dancing Stage"}" and the brand "{argument name="arcade brand" default="KONAMI"}". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.
+```
+
+
+---
+## 例 251：图像生成案例图
+
+**来源：** [@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
+
+```text
+[CORE TASK]
+Transform the provided input image into a pose-and-light analysis sheet.
+
+This is NOT a finished character illustration.
+This is NOT a clothing sheet.
+This is NOT a beauty-preserving redraw.
+
+This is a white-line rough mannequin conversion.
+
+[PRIMARY GOAL]
+Extract and visualize only:
+- pose structure
+- body balance
+- camera angle
+- body line flow
+- inferred light source placement
+- illuminated areas and light intensity
+
+[INPUT ROLE]
+Use the provided image as the strict anchor for:
+- pose
+- camera angle
+- body tilt
+- weight distribution
+- approximate lighting situation
+
+Do NOT preserve:
+- face rendering
+- hairstyle rendering
+- clothing detail
+- accessories
+- weapon detail
+- background architecture
+- character identity
+- emotional expression
+
+[FIGURE CONVERSION]
+single rough mannequin-like human figure
+white body contour lines
+white internal construction lines
+simple mannequin head
+no face
+no eyes
+no mouth
+no eyelashes
+no personality
+no individual identity
+
+human figure should look like:
+- rough pose mannequin
+- anatomy proxy
+- line-based body guide
+- structural sketch
+- white-line rough dummy
+
+keep:
+- pose readability
+- silhouette flow
+- head tilt
+- torso direction
+- pelvis direction
+- limb placement
+
+[BACKGROUND]
+pure black background
+negative-style dark field
+no scenery
+no props
+no architecture
+no environmental storytelling
+
+[LINE STYLE]
+rough white line drawing
+clean but sketch-like
+construction-line feeling
+anatomy guide lines visible
+joint flow visible
+body contour emphasized
+no polished illustration finish
+
+[LIGHT ESTIMATION]
+predict the likely light source positions from the input image
+visualize the light sources and illuminated areas using green glow only
+
+use green light intensity with variation:
+- strongest green where the light directly hits
+- medium green for wrap light
+- soft green for reflected or fading light
+
+mark the estimated light sources with labels and arrows such as:
+- Main Light
+- Rim Light
+- Fill Light
+- Floor Bounce
+- Back Light
+only if appropriate
+
+IMPORTANT:
+do not invent random lights
+infer lighting from the original input image
+if the lighting is ambiguous, keep the annotations simple and plausible
+
+[GREEN LIGHT VISUALIZATION]
+show green glow on:
+- head / skull plane
+- neck
+- shoulders
+- chest plane
+- ribcage direction
+- pelvis edge
+- thigh planes
+- knee contact points
+- floor contact bounce if applicable
+
+use green light not as decoration,
+but as lighting analysis information
+
+[POSE PRIORITY]
+1. preserve pose structure
+2. preserve camera angle
+3. preserve body balance
+4. preserve head-torso relationship
+5. visualize likely light direction
+6. show illuminated areas with readable green intensity variation
+
+[NEGATIVE]
+finished person,
+cute girl,
+detailed face,
+hair rendering,
+clothing rendering,
+weapon emphasis,
+beautiful anatomy
+```
+
+
+---
+## 例 252：综合应用场景图
+
+**来源：** [@underwoodxie96](https://x.com/underwoodxie96)
+
+```text
+{argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
+```
+
+
+---
+## 例 253：综合应用场景图
+
+**来源：** [@alanlovelq](https://x.com/alanlovelq)
+
+```text
+A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
+```
+
+
+---
+## 例 254：赛博科幻桃太郎主视觉图
+
+**来源：** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
+
+```text
+[中文]
+设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。
+
+[English]
+Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.
+```
+
+
+---
+## 例 255：天坛古建拆解全图
+
+**来源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
+
+```text
+[中文]
+生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
+
+[English]
+Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
+```
+
+
+---
+## 例 256：日式温泉旅馆人像
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+
+```text
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+
+
+---
+## 例 257：橙红渐变中的孤独剪影
+
+**来源：** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
+
+```text
+[中文]
+生成一张电影级极简肖像，一个孤独的男人站在强烈的橙色到红色渐变环境中，强烈的剪影光，深邃的阴影对比，反光的光滑地面，对称构图，极简
+
+[English]
+Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+
+---
+## 例 258：健身品牌力量 Campaign
+
+**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
+
+```text
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+```
+
+
+---
