@@ -1,7 +1,7 @@
 # 摄影与写实 — 提示词合集
 
 
-> 37 个案例
+> 46 个案例
 
 ---
 
@@ -1631,3 +1631,111 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
 ```
 
+## 例 341：9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait ...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
+
+```text
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+
+---
+## 例 342：Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
+
+```text
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights,  minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head),  young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair,  oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling,  standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness,  focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+
+
+---
+## 例 343：{   "prompt": {     "style_and_tech": "mobile phone photo, old CCD camera aesthe...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
+
+```text
+{   "prompt": {     "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",      "subject": "young Korean female idol, soft innocent look",      "pose": "mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised",      "expression": "eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression",      "clothing": "loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing",      "vibe": "unprepared, intimate, accidental moment, evokes curiosity and protectiveness"，   "aspect ratio":"9:16"    } }
+```
+
+
+---
+## 例 344：9:16 vertical — editorial portrait, single subject  soft black mist filter, subt...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+
+```text
+9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
+
+---
+## 例 345：9:16 vertical — Korean idol portrait photoshoot, 3x3 grid (nine frames), same pe...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046268941941850575)
+
+```text
+9:16 vertical — Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling.
+
+soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources, slightly faded blacks
+
+natural indoor setting near window, white curtains, clean wall background
+
+young Korean female idol, minimal makeup, soft realistic skin texture, slight imperfections
+
+outfit: white shirt + shorts, simple and relaxed styling
+
+hair: long dark hair, slightly messy, naturally flowing
+
+poses vary across nine frames: standing, slight movement, seated, looking away, close-up, over-shoulder glance, candid transitions
+
+lighting: diffused daylight, soft shadows, gentle highlight bloom
+
+mood: quiet, intimate, everyday poetic moment, photobook aesthetic
+
+quality: ultra-realistic, subtle film grain, soft focus edges, dreamy atmosphere
+```
+
+
+---
+## 例 346：9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm anal...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046483268019884384)
+
+```text
+9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+
+
+---
+## 例 347：9:16 vertical — Korean idol portrait photography, single subject  soft black mis...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046518189509734903)
+
+```text
+9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
+```
+
+
+---
+## 例 348：9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm...
+
+**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046502288102170757)
+
+```text
+9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+
+---
+## 例 349：根据你对我的认知 给我生成一个“你认识的我”的 图片
+
+**来源：** [@80vul](https://x.com/80vul/status/2046218165961753047)
+
+```text
+根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+
+---

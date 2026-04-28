@@ -1,9 +1,10 @@
 # UI与界面 — 提示词合集
 
 
-> 58 个案例
+> 88 个案例
 
 ---
+
 
 ## 例 2：社媒界面截图
 
@@ -29,6 +30,7 @@
 
 ---
 
+
 ## 例 7：应用界面样机图
 
 **来源：** 小红书号944846927
@@ -42,6 +44,7 @@
 
 
 ---
+
 
 ## 例 17：界面交互设计图
 
@@ -90,6 +93,7 @@
 
 
 ---
+
 
 ## 例 21：直播界面设计图
 
@@ -151,6 +155,7 @@
 
 ---
 
+
 ## 例 48：直播界面设计图
 
 **来源：** [@kylegeeks](https://x.com/kylegeeks)
@@ -165,6 +170,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 ---
 
+
 ## 例 49：直播界面设计图
 
 **来源：** [@kylegeeks](https://x.com/kylegeeks)
@@ -178,6 +184,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 
 ---
+
 
 ## 例 57：界面交互设计图
 
@@ -231,6 +238,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 ---
 
+
 ## 例 91：游戏界面截图
 
 **来源：** [@wolfaidev](https://x.com/wolfaidev)
@@ -245,6 +253,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 
 ---
 
+
 ## 例 92：视频封面界面图
 
 **来源：** [@Yuupapa\_free](https://x.com/Yuupapa_free)
@@ -258,6 +267,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 
 ---
+
 
 ## 例 99：界面交互设计图
 
@@ -316,6 +326,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
+
 ## 例 101：界面交互设计图
 
 **来源：** [@naga\_zyashin](https://x.com/naga_zyashin)
@@ -373,6 +384,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
+
 ## 例 103：视频封面界面图
 
 **来源：** [@bowowwoaaa2](https://x.com/bowowwoaaa2)
@@ -386,6 +398,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 
 ---
+
 
 ## 例 104：界面交互设计图
 
@@ -425,6 +438,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 
 ---
+
 
 ## 例 106：应用界面样机图
 
@@ -504,6 +518,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
+
 ## 例 107：应用界面样机图
 
 **来源：** [@tehno\_maniak](https://x.com/tehno_maniak)
@@ -517,6 +532,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 
 ---
+
 
 ## 例 110：视频封面界面图
 
@@ -532,6 +548,7 @@ Thumbnail for a YouTube unboxing video, a video of {argument name="topic" defaul
 
 ---
 
+
 ## 例 111：视频封面界面图
 
 **来源：** [@mirochill](https://x.com/mirochill)
@@ -545,6 +562,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 130：界面交互设计图
 
@@ -607,6 +625,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 131：界面交互设计图
 
@@ -688,6 +707,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 132：界面交互设计图
 
@@ -787,6 +807,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 133：界面交互设计图
 
@@ -902,6 +923,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ---
 
+
 ## 例 134：界面交互设计图
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
@@ -961,6 +983,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 135：应用界面样机图
 
@@ -1026,6 +1049,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 137：界面交互设计图
 
@@ -1094,6 +1118,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 149：直播界面设计图
 
@@ -1174,6 +1199,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ---
 
+
 ## 例 151：界面交互设计图
 
 **来源：** [@kitune\_fire45](https://x.com/kitune_fire45)
@@ -1240,6 +1266,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 152：直播界面设计图
 
@@ -1311,6 +1338,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 156：应用界面样机图
 
@@ -1391,6 +1419,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 
 ---
+
 
 ## 例 158：界面交互设计图
 
@@ -1482,6 +1511,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ---
 
+
 ## 例 159：界面交互设计图
 
 **来源：** [@onlyhuman028](https://x.com/onlyhuman028)
@@ -1562,6 +1592,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ---
 
+
 ## 例 161：应用界面样机图
 
 **来源：** [@DanDaniDaniel01](https://x.com/DanDaniDaniel01)
@@ -1620,6 +1651,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ---
 
+
 ## 例 163：诗仙李白月下直播起舞
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
@@ -1637,6 +1669,7 @@ Li Bai dancing under the moon during a Douyin livestream
 
 
 ---
+
 
 ## 例 164：特朗普太空直播间破千万
 
@@ -1656,6 +1689,7 @@ A 9:16 vertical screen screenshot of a Douyin live stream, space live stream sty
 
 ---
 
+
 ## 例 177：吉利银河暗黑中控界面
 
 **来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
@@ -1673,6 +1707,7 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 
 
 ---
+
 
 ## 例 188：暗黑极简头像网站视觉设计
 
@@ -1692,6 +1727,7 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 
 ---
 
+
 ## 例 200：热度爆表的美女内衣直播间
 
 **来源：** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
@@ -1709,6 +1745,7 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 
 
 ---
+
 
 ## 例 204：智能动画分镜生成器
 
@@ -1728,6 +1765,7 @@ Generate an animation storyboard generator
 
 ---
 
+
 ## 例 227：哔哩哔哩户晨风直播截图
 
 **来源：** [@austinit](https://x.com/austinit/status/2044994519649997183)
@@ -1745,6 +1783,7 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 
 
 ---
+
 
 ## 例 239：刘亦菲抖音直播畅聊中
 
@@ -1764,6 +1803,7 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 
 ---
 
+
 ## 例 243：定制专属风格界面设计系统
 
 **来源：** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
@@ -1781,6 +1821,7 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 
 
 ---
+
 
 ## 例 249：美女举牌感谢大哥打赏大火箭
 
@@ -1800,6 +1841,7 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 
 ---
 
+
 ## 例 255：瑜伽裤女主播展示身材曲线
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
@@ -1817,6 +1859,7 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 
 
 ---
+
 
 ## 例 256：抖音直播间的绝美女主播
 
@@ -1836,6 +1879,7 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 
 ---
 
+
 ## 例 257：抖音汉服美女直播带货截图
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
@@ -1853,6 +1897,7 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 
 
 ---
+
 
 ## 例 258：快手直播离婚预告手机截图
 
@@ -1872,6 +1917,7 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 
 ---
 
+
 ## 例 260：社媒界面截图
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
@@ -1890,6 +1936,7 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 
 ---
 
+
 ## 例 261：智能视频生成器暗黑界面设计
 
 **来源：** [@austinit](https://x.com/austinit/status/2044968740782272596)
@@ -1907,6 +1954,7 @@ Render a professional iOS APP homepage UI image, the theme is AI Video Generator
 
 
 ---
+
 
 ## 例 263：唯美二次元角色介绍网页
 
@@ -1952,6 +2000,7 @@ Catchphrase: "Dialogue here"
 
 ---
 
+
 ## 例 269：拒绝盲目催婚的暖心视频号截图
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
@@ -1969,6 +2018,7 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 
 
 ---
+
 
 ## 例 282：温柔治愈系二次元手机截图
 
@@ -1988,6 +2038,7 @@ Generate a portrait mobile phone screenshot style image, with an overall aspect 
 
 ---
 
+
 ## 例 287：不知火舞的小红书主页
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
@@ -2005,6 +2056,7 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 
 
 ---
+
 
 ## 例 288：抖音美女直播间界面设计
 
@@ -2024,6 +2076,7 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 
 ---
 
+
 ## 例 289：直播界面设计图
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
@@ -2042,6 +2095,7 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 ---
 
+
 ## 例 308：抖音直播截图画面
 
 **来源：** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
@@ -2059,6 +2113,7 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 
 ---
+
 
 ## 例 323：应用界面样机图
 
@@ -2144,6 +2199,7 @@ Looks like a real product photoshoot, not AI art
 
 ---
 
+
 ## 例 330：月下美女直播画面
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
@@ -2157,6 +2213,7 @@ Looks like a real product photoshoot, not AI art
 
 
 ---
+
 
 ## 例 335：朋友圈截图生成
 
@@ -2172,6 +2229,7 @@ Looks like a real product photoshoot, not AI art
 
 ---
 
+
 ## 例 336：个人网页视觉设计
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
@@ -2182,4 +2240,412 @@ Looks like a real product photoshoot, not AI art
 ```text
 原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
 ```
+
+
+## 例 337：この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
+
+**来源：** [@Kashiko_AIart](https://x.com/Kashiko_AIart/status/2046154976159035613)
+
+```text
+この画像からゲームのステータス画面を作ってください。情報量多め。言語は日本語。
+```
+
+
+---
+
+## 例 338：玄武门之变的朋友圈
+
+**来源：** [@Tz_2022](https://x.com/Tz_2022/status/2046523491940225366)
+
+```text
+玄武门之变的朋友圈
+```
+
+
+---
+
+## 例 339：生成【城市】三天旅游攻略，就这么简单一句话
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046523494003851300)
+
+```text
+生成【城市】三天旅游攻略，就这么简单一句话
+```
+
+
+---
+
+## 例 340：创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真...
+
+**来源：** [@GoSailGlobal](https://x.com/GoSailGlobal/status/2046491397424111659)
+
+```text
+创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。
+
+个人资料详情：
+
+一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征，只是将表情改为自然自信的微笑。他握着撕开的纸片边缘，纸屑四处飞溅，营造出强烈的 3D 突破效果。
+
+柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。
+
+重要提示：
+
+- 请勿更改头像
+
+- 保持 X UI 界面准确
+
+- 保留原有的面部特征
+
+- 角色为男性
+
+- 仅增强笑容
+
+- 确保所有中文文字清晰易读
+```
+
+
+---
+
+## 例 341：生成一张慈禧的X主页
+
+**来源：** [@Cryptohaifeng_](https://x.com/Cryptohaifeng_/status/2046165776055546341)
+
+```text
+生成一张慈禧的X主页
+```
+
+
+---
+
+## 例 342：GPT-image-2でこの手相を診断して詳細な鑑定書を作って...
+
+**来源：** [@agi_aibusi](https://x.com/agi_aibusi/status/2046530764871696750)
+
+```text
+GPT-image-2でこの手相を診断して詳細な鑑定書を作って
+生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。
+助言を重点的に高品質な占い鑑定書にまとめること。
+```
+
+
+---
+
+## 例 343：生成一张【字体】书法临摹字帖
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2046510310253539764)
+
+```text
+生成一张【字体】书法临摹字帖
+```
+
+
+---
+
+## 例 344：GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+
+**来源：** [@loglogrog](https://x.com/loglogrog/status/2046437230127034774)
+
+```text
+GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+```
+
+
+---
+
+## 例 345：Generate for me a UI design system with a very cutting-edge, bold, and unique th...
+
+**来源：** [@pfanis](https://x.com/pfanis/status/2046414546378584558)
+
+```text
+Generate for me a UI design system with a very cutting-edge, bold, and unique theme that includes glassy visuals and transparencies
+```
+
+
+---
+
+## 例 346：日本のソシャゲのガチャ画面を生成して、
+
+**来源：** [@the_wheel_2024](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+```text
+日本のソシャゲのガチャ画面を生成して、
+```
+
+
+---
+
+## 例 347：A 9:16 vertical version, high-detail realistic style Chinese TikTok live screens...
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2046501587762188535)
+
+```text
+A 9:16 vertical version, high-detail realistic style Chinese TikTok live screenshot, Elon Musk is talking to the mobile phone camera in the live broadcast room, excited, smiling, and the live atmosphere is warm and real. He held a white handwritten sign in one hand, which clearly said: "Thank you Shinning". There are obvious Chinese TikTok interface elements in the live broadcast screen, including likes, comments and share icons arranged vertically on the right, scrolling Chinese bullet screens and interactive comments below, and the "live broadcast" logo at the top, which looks like a real mobile phone screenshot. There is an eye-catching gift prompt special effect in the screen: "Shinning sent TikTok No. 1", with gift animation light effect and platform-style prompt box. Musk is in a professional live broadcast environment, with a mobile phone holder, a ring fill light and a desktop microphone in front of him. The background is a modern technology live broadcast room with bright lights and a slight neon atmosphere. The composition is real and natural, like the ongoing live screenshot of the Chinese short video platform. The interface information is rich but not messy, the characters are clear, the expression is vivid, the details are rich, the sense of real photography, the depth of field, high definition, cinematic, photorealistic, realistic livestream screenshot, social media UI, Chinese Douyin live room, detailed lighting, natural skin texture.
+
+Negative prompts:
+
+Low definition, blur, cartoon, illustration, too strong CG sense, two-dimensional, deformed fingers, wrong text, scrambled code, multiple mobile phones, multiple brands, character repetition, face collapse, facial features distortion, excessive skin polishing, overexposure, too dark, messy background, wrong UI, non-Chinese short video interface, too many English bullet screens, gift special effects are not obvious, cropping error, proportional error
+
+Supplementary reinforcement words:
+
+Real mobile phone screen recording screenshot feeling, the live broadcast UI is complete, the gift prompt box conforms to the style of the Chinese short video platform, the Chinese comment area is active, the number of people online in the live broadcast room is clearly displayed, and the time, power and signal bar are visible.
+```
+
+
+---
+
+## 例 348：9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
+
+**来源：** [@kylegeeks](https://x.com/kylegeeks/status/2046479783765397629)
+
+```text
+9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
+```
+
+
+---
+
+## 例 349：用未来都市风格生成UI设计系统，灵感来自赛博朋克城市夜景，包含霓虹灯、玻璃建筑反射、高对比光影，配色以紫色、蓝色、粉色霓虹为主，设计网页Dashboard、移动...
+
+**来源：** [@AZLnfvp](https://x.com/AZLnfvp/status/2046468976092533180)
+
+```text
+用未来都市风格生成UI设计系统，灵感来自赛博朋克城市夜景，包含霓虹灯、玻璃建筑反射、高对比光影，配色以紫色、蓝色、粉色霓虹为主，设计网页Dashboard、移动端界面、卡片、按钮、控件等，视觉炫酷、层次丰富、科技感极强
+```
+
+
+---
+
+## 例 350：1、生成特朗普和金正恩在抖音直播间打PK的截图  ...
+
+**来源：** [@alanlovelq](https://x.com/alanlovelq/status/2046048929490612464)
+
+```text
+1、生成特朗普和金正恩在抖音直播间打PK的截图  
+2、生成不知火舞的小红书主页截图  
+3、生成图片: 手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍  
+4、生成图片: T-800机器人的淘宝商品详情页，展示: 机器人的正面侧面背面三视图， 产品价格， 产品细节， 功能和使用场景等
+```
+
+
+---
+
+## 例 351：E-commerce Live Stream UI Mockup
+
+**来源：** awesome-gpt-image-2
+
+```text
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
+    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button",
+      "rank_badge": "gold coin icon with '全站第1名'",
+      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button",
+      "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar '科技爱好者', '送小心心', heart icon x 1314",
+        "avatar '星辰大海', '送火箭', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge '宇宙漫游者 加入了直播间'",
+      "message_count": 7,
+      "messages": [
+        "小火箭: 马斯克！未来可期！🚀",
+        "future: 特斯拉Model 2什么时候出？",
+        "星空梦想家: SpaceX今年能上火星吗？",
+        "AI探索者: Neuralink进展如何？",
+        "帅气的网友: 马总好！",
+        "Mars: 第一次来你的直播，超激动！",
+        "用户123: 讲讲AI吧，会取代人类吗？"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange '热卖 x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
+      "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
+      "button": "red '抢' button",
+      "floating_animation": "translucent hearts floating up the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'说点什么...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
+
+
+---
+
+## 例 352：Spring Cafe Reading Editorial
+
+**来源：** awesome-gpt-image-2
+
+```text
+A soft, airy lifestyle editorial image with a warm spring cafe mood. Place a Japanese woman in her late 20s to 30s on the right half of the frame, seated at a light wooden table and holding an open hardcover book as if quietly reading. She has {argument name="hair color" default="medium brown"} hair styled half-up with gentle curls at the ends, small earrings, and a calm, refined presence. Dress her in a navy blazer over a white top for an elegant casual-office look. On the table in front of her, show exactly 3 tabletop items: 1 white coffee cup on a saucer near the center front, 1 small clear glass vase filled with pale yellow and white flowers at the lower right, and 1 open book in her hands. Use bright natural lighting, soft shadows, a high-key cream background, and a clean minimalist composition with lots of negative space. On the left side, add Japanese editorial typography in a delicate, hand-drawn style: a large headline reading {argument name="headline text" default="春の休日、カフェで読書。"}, a smaller vertical-style body copy block below it reading "やわらかな陽ざしと、ページをめくる音。ゆっくり流れる時間が、いちばんのごほうび。", and a handwritten English phrase reading {argument name="accent text" default="Spring days"}. Surround the layout with subtle sketch-like spring doodles in muted gray ink and pale pink accents. Include exactly 9 falling cherry blossom petals scattered across the page, 2 simple line-drawn birds flying near the upper right, 1 outlined window frame with cherry blossom branches in the top right corner, 1 line drawing of a steaming coffee cup at the lower left, 1 line drawing of an open book with a small vase and leaves near the lower middle-left, and a few tiny leaf doodles. The overall style should blend real photography with delicate hand-drawn editorial illustrations, evoking a calm, feminine Japanese magazine advertisement about reading at a cafe in spring.
+```
+
+
+---
+
+## 例 353：Minimal Coding Study Group Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+A clean, warm, minimalist promotional poster for a coding study meetup, in a soft lifestyle-photography plus editorial design style. Show 3 young adults seated around a light wooden table in a bright neutral room, collaborating with laptops and notebooks. The group consists of 2 men and 1 woman, all casually dressed in muted colors; the person on the left wears a dark navy sweater, the woman in the center-right wears an off-white knit top, and the person on the far right wears a light gray hoodie in side profile. Their faces are softly obscured and not detailed. Place 2 open silver laptops on the table, 2 ceramic mugs, 2 notebooks, 1 smartphone, and 1 pen visible near the right person’s hand. Compose the people on the right half of the image, with a large pale sage-green organic blob shape behind them as a graphic backdrop. Keep the lighting soft, natural, airy, and slightly warm, with lots of negative space on the left. On the left side, add large elegant headline typography reading {argument name="headline text" default="Claude Code"} on one line and {argument name="subheadline text" default="勉強会"} below it in large Japanese characters. Under the headline, add a thin dotted horizontal divider line, then 2 lines of smaller Japanese body text reading {argument name="body text" default="集まって、学んで、つくって、\n一緒にスキルをアップデートしよう。"}. Add playful hand-drawn doodles in thin dark lines around the layout: 1 hanging lamp centered near the top, 1 handwritten note in the upper left saying {argument name="note text" default="Let’s coding!"}, 1 small laptop icon in the upper right, 1 steaming coffee cup icon beside it, 1 potted plant icon in the lower left, and 3 long curving decorative squiggle lines distributed across the page. Use an off-white background, restrained Japanese cafe-meets-tech branding, balanced whitespace, and a polished social-media event flyer aesthetic with a 16:9 horizontal composition.
+```
+
+
+---
+
+## 例 354：Japanese Children's Day Photo Card
+
+**来源：** awesome-gpt-image-2
+
+```text
+A soft, airy studio photograph on a warm off-white background with a minimalist Japanese greeting-card aesthetic. Show a small child, about toddler to preschool age, running joyfully toward the camera from left-center, with one arm raised high holding a tall pole with 2 carp streamers attached: 1 large blue koinobori on top and 1 smaller red koinobori below. The child wears a simple handmade samurai helmet folded from paper, a loose long-sleeve ivory shirt, light beige pants with rolled cuffs, and white sneakers. Keep the face unobtrusive and generic, with the focus on motion, innocence, and seasonal atmosphere. Surround the child with delicate hand-drawn doodle illustrations in thin gray pencil-like lines and faint pastel accents: 2 puffy clouds, 1 flying bird, 1 small origami crane near the text, 4 drifting leaves, 2 curved wind-line clusters, 1 small house, 2 tall trees, 2 purple iris flowers with grass at the bottom left, and sparse grass marks along the ground. On the right side, add elegant Japanese handwritten text reading {argument name="headline text" default="こどもの日"}, beneath it smaller Japanese text {argument name="subtext" default="すこやかな\n成長を願って。"}, and below that the English subtitle {argument name="english subtitle" default="Children's Day"} in a light handwritten script. Use a clean editorial layout with abundant negative space, natural soft lighting, muted cream and beige tones, subtle pastel blue and red accents, gentle shadows, and a calm premium lifestyle-photography look suitable for a seasonal holiday card or social media post.
+```
+
+
+---
+
+## 例 355：Bob Barker Skyscraper Portrait
+
+**来源：** awesome-gpt-image-2
+
+```text
+{argument name="person" default="Bob Barker"} standing on the top of a {argument name="location" default="skyrise building"} holding a skateboard. He is wearing his {argument name="outfit" default="classic suit from The Price is Right"}.
+```
+
+
+---
+
+## 例 356：Retro AI Creative Brand Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a retro cinematic personal-brand poster in a distressed 1970s propaganda-meets-film-advertising style, landscape orientation, with a thick worn black border and heavy paper grain, ink bleed, halftone texture, scuffed edges, and aged print imperfections. Use a bold limited palette of deep black, warm cream, saturated poster red, and mustard yellow. The composition is a single unified poster with a large cropped portrait of {argument name="character name" default="HOSSEIN"} on the left half, shown from chest up, wearing dark sunglasses, a dark shirt, a chain necklace, and a mustard yellow jacket, with short dark hair styled up; the face is intentionally obscured by a centered rectangular block in muted taupe-gray, creating an editorial anonymized look. On the far left, place a vertical black panel containing 2 stacked “AI” blocks and 1 subtitle: top block reads “AI”, beneath it the subtitle reads “CREATIVE AGENT”, lower down another large “AI” sits over a gold circuit-board graphic. Across the center-right, place the main diagonal cream title band with huge black condensed lettering for the name {argument name="main name text" default="HOSSEIN"} and an oversized red “AI” at the far right of the band. Beneath the large name, add a small stretched subtitle line reading “AI CINEMATOGRAPHER · ADVERTIVE FOR BRAND”. In the top-right corner, add a 3-line stacked headline reading {argument name="top right headline" default="AI CINEMATOGRAPHER ADVERTIVE FOR BRAND"} in bold cream text on red. On the red field below the title band, include exactly 4 stacked black label boxes with cream text: “CINEMATOGRAPHER”, “AI CREATOR”, “VISUAL ARTIST”, and “BRAND ADVISOR”. Near the right side, add a handwritten white script note with exactly 3 lines: “Visual Storyteller”, “Brand Builder”, and “AI Explore”. In the lower area, arrange exactly 6 creative-tech objects: 1 circular orange graphic icon, 1 white audio waveform/equalizer graphic, 1 black film clapperboard labeled with “AI”, 1 open silver laptop, 1 pair of black headphones, and 1 large professional cinema camera body with visible “RED” marking; also include the edge of a music keyboard/controller at the bottom right. In the bottom-right corner, place a small dark terminal-style text block with tiny white monospace lines suggesting AI-generated visuals and analytics. Keep the whole design bold, gritty, and highly graphic, like a premium personal branding poster for an AI creative director and visual storyteller.
+```
+
+
+---
+
+## 例 357：Anime Sakura Thank-You Portrait
+
+**来源：** awesome-gpt-image-2
+
+```text
+A soft, dreamy anime illustration of a cute teenage girl standing centered on a park path lined with blooming cherry blossom trees in full spring. She faces the viewer and holds a handmade white sign at chest height with the Japanese text {argument name="sign text" default="3,500 フォロワー ありがとう♡"} written in large rounded pink lettering, decorated with small sakura flowers, hearts, and tiny confetti-like marks. The girl has {argument name="hair color" default="medium brown"} hair styled in high twin ponytails tied with pink ribbons, straight-cut bangs, and loose curled ends. Her face is intentionally blank and featureless, a smooth shaded skin-toned oval with no eyes, nose, or mouth. She wears an oversized off-shoulder knit sweater in {argument name="sweater color" default="pastel pink"}, with a thin camisole strap visible on one shoulder, a short white pleated skirt with a soft ruffled hem, and a delicate small necklace. Her pose is gentle and symmetrical, both hands gripping the left and right edges of the sign. The setting is a sunlit sakura avenue with 2 visible benches on the right side and 1 vintage lamppost on the left, petals drifting through the air and scattered across the ground. Use warm backlighting, soft bloom, shallow depth of field, pastel pink and cream tones, romantic seasonal atmosphere, highly detailed anime rendering, polished linework, glossy hair highlights, subtle fabric folds, and a celebratory social-media thank-you mood.
+```
+
+
+---
+
+## 例 358：Cozy Indoor Peach Slicing Portrait
+
+**来源：** awesome-gpt-image-2
+
+```text
+A realistic vertical smartphone photo of a {argument name="person" default="young woman"} standing at a kitchen or dining table, slicing ripe peaches on a white plastic cutting board. The subject is centered and framed from about mid-thigh or waist up, leaning slightly toward the camera in a casual candid pose. She has very thick, long, dark brown to black naturally curly hair with defined ringlets and a few lighter brown highlights, falling around her shoulders and partially covering the sides of her face. She wears an oversized {argument name="hoodie color" default="dark brown"} hoodie with loose sleeves, giving the image a relaxed at-home lifestyle feel. One hand holds a kitchen knife vertically as it cuts into a peach wedge in the center of the board, while the other hand steadies the fruit. Show exactly 7 peach pieces visible on the cutting board: 3 smaller wedges grouped on the left, 1 central wedge being cut, and 3 larger pieces on the right including a half peach. The table surface is light wood. The room is warmly lit and cozy, with a beige wall and ceiling, a dark ceiling fan with 3 visible blades in the upper left, 2 framed botanical prints on the left wall, 1 leafy green houseplant in the lower left background, 1 pale sage-green chair behind the table, 1 glowing round white paper lantern hanging on the right, and 1 iridescent pastel wall hanging or reflective fabric panel in the right background. Use soft indoor lighting, natural skin tones, subtle shadows, realistic fruit texture and knife detail, documentary-style composition, shallow to medium depth of field, and an authentic everyday home aesthetic.
+```
+
+
+---
+
+## 例 359：3D Animated Scene with Reference Matching
+
+**来源：** awesome-gpt-image-2
+
+```text
+A high-quality 3D animated scene featuring a {argument name="subject" default="young woman"} (based on the provided reference image, accurate face and identity, realistic skin texture) wearing the exact same outfit/costume as in the reference image, with all clothing details, colors, and textures preserved. She is sitting casually on a {argument name="furniture" default="soft pastel couch"} in a {argument name="room type" default="cozy, aesthetic room"}. Her posture is relaxed and expressive, with a playful, slightly amused facial expression. Next to her is the baby character “Goo Goo Gaga”, recreated exactly the same as in the provided reference image — identical appearance, outfit, proportions, facial expression, and style (no changes at all). Goo Goo Gaga is standing on the couch, playfully interacting with her (pulling her cheek or holding onto her arm), creating a cute and slightly chaotic moment. Environment: warm, cozy pastel-toned room filled with soft cushions, plush toys, and minimal aesthetic decor (colors: soft pink, peach, cream, mint). Lighting: soft cinematic lighting with warm glow, gentle shadows, depth of field, dreamy atmosphere. Style: high-end 3D cartoon (Pixar/Disney style), ultra-smooth rendering, subsurface scattering skin, fluffy fabric textures, highly detailed, clean composition. Mood: cute, playful, wholesome, expressive, slightly chaotic, viral social media aesthetic. Important: use the provided reference images for both characters — keep the woman’s face and outfit accurate, and keep Goo Goo Gaga exactly unchanged from its reference.“8K render, Unreal Engine, Octane render quality”
+```
+
+
+---
+
+## 例 360：Location-Specific Japanese Photo Album
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a Japanese photography collection showing a woman at coordinates {argument name="coordinates" default="34.66565030001616, 135.43231849672236"}, with visuals matching the current local atmosphere and weather. Integrate the specified character into the scene to make it look as if they are sightseeing at that location.
+```
+
+
+---
+
+## 例 361：Paris Eiffel Tower Vacation Selfie
+
+**来源：** awesome-gpt-image-2
+
+```text
+A hyper-realistic vacation selfie of a young woman standing directly beneath the Eiffel Tower in Paris, shot from a dramatic low angle with a smartphone held slightly below chest level so the tower rises massively overhead and fills the entire background. She is centered in the frame from about mid-thigh up, leaning slightly toward the camera with one arm extended forward in classic selfie perspective. She has {argument name="hair color" default="medium brown"} shoulder-length straight hair with a soft natural side part, lightly tousled by the wind, warm light skin, and a casual summer look. She is wearing a fitted ribbed strapless tube top in {argument name="top color" default="light pink"}, high-waisted {argument name="pants color" default="white"} jeans, and a delicate thin silver chain necklace. Bright midday sunlight, cloudless deep blue sky, crisp shadows, realistic skin texture, natural travel-photo imperfections, authentic phone-camera sharpness, casual tourist snapshot aesthetic, slightly wide-angle lens distortion, relaxed confident pose, candid social-media vacation dump style. Compose the Eiffel Tower symmetrically so its iron arches frame her body and the structure stretches to the very top edge of the image. Make it look like a real spontaneous summer trip photo in {argument name="location" default="Paris"}, ultra-photorealistic, detailed metal latticework, vibrant but natural colors.
+```
+
+
+---
+
+## 例 362：Cyber-Poetry Portrait Photography
+
+**来源：** awesome-gpt-image-2
+
+```text
+A cinematic, ultra-realistic close-up portrait of a {argument name="subject" default="young woman with wet, tousled dark hair"} and luminous skin, staring directly into the camera with an intense, introspective expression. {argument name="overlay color" default="Glowing cyan"} handwritten text and symbols are projected across her face, neck, and shoulders, resembling {argument name="text style" default="poetic phrases, equations, and abstract handwriting"}. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic.Dark, moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting
+```
+
+
+---
+
+## 例 363：Neon Night Shoulder-Look Portrait
+
+**来源：** awesome-gpt-image-2
+
+```text
+Cinematic close-up portrait of a young woman standing on a city street at night, framed from about mid-torso up in a vertical composition, body turned away while she looks back over her shoulder toward the camera with a soft but intense expression. Long {argument name="hair color" default="dark brown"} wavy hair with loose texture and wispy bangs, slightly wind-swept. Natural dewy makeup, minimal styling, wearing an oversized {argument name="jacket material and color" default="black leather jacket"}. Moody urban background with blurred neon signs, streetlights, car headlights and taillights rendered as colorful bokeh, suggesting a lively downtown street. Off-center composition with the subject occupying the left-center of the frame and the street receding into the right side. Dramatic split lighting with cool cyan-blue light on one side of her hair and jacket and warm red-magenta light on the other side, creating a teal-and-red cinematic color grade. High contrast, shallow depth of field, subtle film grain, slight glow around highlights, realistic photography, shot as if on a Sony A7S III with an 85mm lens.
+```
+
+
+---
+
+## 例 364：Cinematic Surveillance Interface Aesthetic
+
+**来源：** awesome-gpt-image-2
+
+```text
+A CCTV-style surveillance footage of a {argument name="location" default="crowded street scene"} from a high angle, a {argument name="subject" default="young man"} in the center walking forward while looking up at the camera with a warm friendly smile, surrounded by blurred pedestrians in motion, {argument name="color tone" default="black and white monochrome tone"}, strong motion blur on people around her, sharp focus on the main subject, dramatic contrast, overhead perspective, AI facial recognition interface overlay, green bounding box around the woman labeled "PERSON OF INTEREST", side panel showing zoomed face portrait with data text: "SUBJECT ID: 01", "STATUS: TRACKED", "GAZE: UP", "CONFIDENCE: 86%", connecting line between face panel and subject, timestamp overlay in the corner, "REC" indicator, grainy texture, digital noise, compression artifacts, subtle scan lines, cinematic surveillance aesthetic, documentary style, slightly distorted perspective, urban environment, dynamic composition.
+```
+
+
+---
+
+## 例 365：Anime Character Noodle Delivery
+
+**来源：** awesome-gpt-image-2
+
+```text
+Generate {argument name="character" default="Annie Leonhart from 'Attack on Titan'"}. Use the {argument name="style" default="original 'Attack on Titan' anime style"}. Annie is wearing her classic outfit from the series, facing the camera, slightly bowing her head with a shy expression, eyes looking down, not daring to look at the viewer. She is {argument name="action" default="holding a bowl of steaming noodles with both hands and handing them to the viewer"}. The noodles and rising steam are clearly visible in the bowl. Close-up composition, clear character, simple background.
+```
+
+
+---
+
+## 例 366：National Identity Mobile Wallpaper
+
+**来源：** awesome-gpt-image-2
+
+```text
+Make a wallpaper portrait size cellphone about the beauty of ({argument name="country" default="COUNTRY"}), in the wallpaper there is the natural beauty of the country, its landmarks, its artistic culture, and the patterns that are the identity of the country, make it neat, structured, and precise in every part, don't look like a template like wallpapers in general and don't look monotonous with 8K resolution
+```
+
 

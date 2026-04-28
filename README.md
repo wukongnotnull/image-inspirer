@@ -286,6 +286,7 @@ image-inspirer/
 - [YouMind](https://youmind.com/)
 - [OpenNana](https://opennana.com/)
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
 
 ---
 

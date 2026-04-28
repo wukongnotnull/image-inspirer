@@ -1,9 +1,10 @@
 # 插画与艺术 — 提示词合集
 
 
-> 55 个案例
+> 73 个案例
 
 ---
+
 
 ## 例 6：插画艺术创作图
 
@@ -22,6 +23,7 @@
 
 ---
 
+
 ## 例 11：一张手绘风格的城市美食地图，以台州为主题
 
 **来源：** 小红书号510244722
@@ -35,6 +37,7 @@
 
 
 ---
+
 
 ## 例 22：插画艺术风格创作
 
@@ -50,6 +53,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ---
 
+
 ## 例 24：漫画分镜叙事设计
 
 **来源：** [@wewe50770964683](https://x.com/wewe50770964683)
@@ -63,6 +67,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 32：插画艺术创作图
 
@@ -98,6 +103,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 34：插画艺术创作图
 
@@ -154,6 +160,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 ---
 
+
 ## 例 41：插画艺术风格创作
 
 **来源：** [@wtry1102](https://x.com/wtry1102)
@@ -167,6 +174,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 43：插画艺术创作图
 
@@ -202,6 +210,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 60：漫画分镜叙事设计
 
@@ -251,6 +260,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 62：插画艺术风格创作
 
@@ -324,6 +334,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 ---
 
+
 ## 例 93：插画艺术风格创作
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
@@ -379,6 +390,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 
 ---
+
 
 ## 例 94：绘画艺术风格图
 
@@ -441,6 +453,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 ---
 
+
 ## 例 105：动漫插画创作图
 
 **来源：** [@Yuupapa\_free](https://x.com/Yuupapa_free)
@@ -455,6 +468,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ---
 
+
 ## 例 113：动漫插画创作图
 
 **来源：** [@REd8358](https://x.com/REd8358)
@@ -468,6 +482,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 
 ---
+
 
 ## 例 114：插画艺术创作图
 
@@ -554,6 +569,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 ---
 
+
 ## 例 118：漫画分镜叙事设计
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
@@ -567,6 +583,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 
 ---
+
 
 ## 例 123：插画艺术创作图
 
@@ -639,6 +656,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 ---
 
+
 ## 例 126：插画艺术风格创作
 
 **来源：** [@taira\_renta](https://x.com/taira_renta)
@@ -653,6 +671,7 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 ---
 
+
 ## 例 129：绘画艺术风格图
 
 **来源：** [@TlanoVRC](https://x.com/TlanoVRC)
@@ -666,6 +685,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 
 ---
+
 
 ## 例 172：赛博科幻桃太郎主视觉图
 
@@ -684,6 +704,7 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 
 
 ---
+
 
 ## 例 173：银河繁星点缀的冰蓝襦裙
 
@@ -708,6 +729,7 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 
 ---
+
 
 ## 例 174：唐朝贵妇遛粉色马甲异形工笔画
 
@@ -739,6 +761,7 @@ Background features peonies and butterflies.
 
 ---
 
+
 ## 例 179：蒸汽朋克射手座解剖图谱
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
@@ -757,6 +780,7 @@ Background features peonies and butterflies.
 
 ---
 
+
 ## 例 182：千禧年日系校园喜剧场景
 
 **来源：** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
@@ -774,6 +798,7 @@ Background features peonies and butterflies.
 
 
 ---
+
 
 ## 例 195：超写实与水墨的梦幻融合
 
@@ -832,6 +857,7 @@ Aspect ratio: 3:4
 
 
 ---
+
 
 ## 例 196：试卷上的涂鸦巨龙
 
@@ -908,6 +934,7 @@ masterpiece, ultra detailed
 
 ---
 
+
 ## 例 202：宅男必看绝美二次元少女
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
@@ -925,6 +952,7 @@ Generate high-quality beautiful girl (otaku must-have)
 
 
 ---
+
 
 ## 例 206：国风工笔八仙长卷插画
 
@@ -944,6 +972,7 @@ Generate high-quality beautiful girl (otaku must-have)
 
 ---
 
+
 ## 例 207：黑神话潘金莲绝美游戏封面
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
@@ -961,6 +990,7 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 
 
 ---
+
 
 ## 例 208：樱花树下害羞双马尾少女
 
@@ -1008,6 +1038,7 @@ Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 
 ---
 
+
 ## 例 209：神话三国枪战世界
 
 **来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
@@ -1026,6 +1057,7 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 
 ---
 
+
 ## 例 213：金瓶梅古风开放世界游戏截图
 
 **来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
@@ -1043,6 +1075,7 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 
 ---
+
 
 ## 例 224：机甲少女立于废弃海城
 
@@ -1067,6 +1100,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ---
 
+
 ## 例 225：大师级真迹复刻
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
@@ -1084,6 +1118,7 @@ Help me generate xxxx authentic picture
 
 
 ---
+
 
 ## 例 229：琉璃透明画眉鸟飞舞羊城墨卷
 
@@ -1173,6 +1208,7 @@ ratio 9:16
 
 ---
 
+
 ## 例 231：疾风起狂草艺术字体设计
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
@@ -1203,6 +1239,7 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 ---
 
+
 ## 例 232：兰亭集序书法帖意境图
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
@@ -1220,6 +1257,7 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 
 
 ---
+
 
 ## 例 238：星云巨鲤与小人的奇幻对话
 
@@ -1241,6 +1279,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 ---
 
+
 ## 例 242：绝美国风工笔画书签设计
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
@@ -1258,6 +1297,7 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 
 
 ---
+
 
 ## 例 246：黑白线稿勾勒的上海风情
 
@@ -1277,6 +1317,7 @@ Design a Shanghai postcard in black line art style.
 
 ---
 
+
 ## 例 274：成都吃货暴走手绘美食地图
 
 **来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
@@ -1294,6 +1335,7 @@ A hand-drawn style city food map themed around Chengdu. The background is a bird
 
 
 ---
+
 
 ## 例 279：裂痕里的水墨东方山水画卷
 
@@ -1320,6 +1362,7 @@ Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-whit
 
 
 ---
+
 
 ## 例 281：赛博朋克科幻曼荼罗
 
@@ -1355,6 +1398,7 @@ Draw a near-future sci-fi version of a mandala
 
 ---
 
+
 ## 例 285：真实动漫画面快照
 
 **来源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
@@ -1372,6 +1416,7 @@ Show me the attached image as a snapshot from an actual anime
 
 
 ---
+
 
 ## 例 286：珠江新城剪纸璀璨夜景
 
@@ -1394,6 +1439,7 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 
 ---
+
 
 ## 例 299：极简留白涂鸦手绘草图
 
@@ -1419,6 +1465,7 @@ Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual
 
 
 ---
+
 
 ## 例 304：荧光蓝穷奇新中式山水画
 
@@ -1449,6 +1496,7 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 
 ---
+
 
 ## 例 309：创意树叶拼贴构成的角色画像
 
@@ -1481,6 +1529,7 @@ realistic leaf textures,
 
 ---
 
+
 ## 例 316：冲破次元壁的写实漫画跑者
 
 **来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
@@ -1503,6 +1552,7 @@ realistic leaf textures,
 
 ---
 
+
 ## 例 325：皮克斯风阳光少年
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
@@ -1520,6 +1570,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 
 ---
+
 
 ## 例 329：烬甲猎鹰者与燃翼神禽
 
@@ -1539,6 +1590,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ---
 
+
 ## 例 331：西安手绘水彩城市地图
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
@@ -1552,6 +1604,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 
 ---
+
 
 ## 例 337：《短歌行》诗词意境图
 
@@ -1567,6 +1620,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ---
 
+
 ## 例 338：《赤壁怀古》长卷图
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
@@ -1581,6 +1635,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ---
 
+
 ## 例 346：立体刺绣小鸟花枝
 
 **来源：** [@dotey](https://x.com/dotey/status/2048529821706195442)
@@ -1591,4 +1646,217 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 ```text
 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
 ```
+
+
+## 例 347：Anime Martial Arts Battle Illustration
+
+**来源：** awesome-gpt-image-2
+
+```text
+An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
+```
+
+
+---
+
+## 例 348：12-Panel Xiaomi SU7 Ultra Racing Storyboard
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"12-panel cinematic racing storyboard sheet","subject":{"primary vehicle":"Xiaomi SU7 Ultra race car","vehicle color":"bright performance yellow with black racing stripes and black aero details","setting":"sunny daytime professional race circuit with grandstands, pit buildings, start lights, red-and-white curbs, guardrails, straightaways, corners, and finish area","style":"ultra-realistic cinematic motorsport advertising, high speed, aggressive, high contrast, crisp reflections, motion blur in action shots"},"layout":{"background":"black board with thin panel borders","grid":{"rows":4,"columns":3,"count":12},"reading_order":"left to right, top to bottom","panels":[{"index":1,"label":"1. 起跑格·压迫感","position":"row 1 col 1","shot":"low frontal view on the starting grid","details":"yellow Xiaomi SU7 Ultra centered, other race cars flanking it, overhead start lights visible, pit grandstands on both sides, intimidating pre-race atmosphere"},{"index":2,"label":"2. 头灯与机盖特写","position":"row 1 col 2","shot":"extreme close-up of front headlight and hood","details":"left front corner of the yellow car, sleek LED headlight, sculpted hood, Ultra script visible, glossy paint reflections"},{"index":3,"label":"3. 轮毂与刹车特写","position":"row 1 col 3","shot":"close-up of spinning front wheel and brake assembly","details":"black wheel in motion, visible drilled brake disc, yellow brake caliper, tire sidewall branding, carbon fiber aero trim"},{"index":4,"label":"4. 发车瞬间·尾部低角度","position":"row 2 col 1","shot":"low rear three-quarter launch shot","details":"rear of yellow car accelerating hard from the line, tire smoke and dust, large rear wing, competitors nearby, dramatic sense of power"},{"index":5,"label":"5. 侧向跟拍·高速掠过看台","position":"row 2 col 2","shot":"side tracking shot at speed","details":"full side view of the yellow car with race number 01 and Ultra script, grandstand crowd blurred in background, strong lateral motion"},{"index":6,"label":"6. 航拍·车群过S弯","position":"row 2 col 3","shot":"aerial wide shot of the pack through an S-curve","details":"multiple race cars navigating a sweeping section, the yellow cars visible among the field, broad track layout and packed stands"},{"index":7,"label":"7. 车内第一人称·入弯视角","position":"row 3 col 1","shot":"first-person cockpit view entering a turn","details":"driver hands on steering wheel, dashboard and digital gauge cluster visible, cars ahead on track, interior framing the action"},{"index":8,"label":"8. 后视镜·对手逼近","position":"row 3 col 2","shot":"rear-view mirror close-up","details":"mirror dominates frame, pursuing dark race car closing in behind, yellow bodywork framing the mirror, blurred crowd and track edges"},{"index":9,"label":"9. 并排缠斗·贴身对抗","position":"row 3 col 3","shot":"tight side-by-side battle shot","details":"yellow number 01 Xiaomi SU7 Ultra door-to-door with a dark number 23 rival car, minimal gap, high tension wheel-to-wheel racing"},{"index":10,"label":"10. 重刹攻弯·切入内线","position":"row 4 col 1","shot":"corner attack with inside line over curbing","details":"yellow lead car braking hard and clipping red-and-white curbs, dark rival just behind, dynamic track perspective and motion blur"},{"index":11,"label":"11. 直道追击·全力冲刺","position":"row 4 col 2","shot":"rear chase shot on the main straight","details":"camera behind the yellow car as it sprints toward several competitors, overhead banner across the track, centered racing line, acceleration emphasized"},{"index":12,"label":"12. 冲线瞬间·胜利时刻","position":"row 4 col 3","shot":"front three-quarter finish line victory shot","details":"yellow Xiaomi SU7 Ultra crossing the line beneath a waving checkered flag, gold confetti exploding, grandstands full, celebratory motorsport commercial climax"}]},"text":{"language":"Chinese","captions_present":12,"caption_style":"small white Chinese captions along the bottom edge of each panel with transition notes on the right side of most panels"},"composition":"create a complete storyboard contact sheet image rather than a single racing frame, each panel separated clearly and consistently, preserve the same yellow Xiaomi SU7 Ultra design throughout all 12 panels","quality":"highly detailed, polished, realistic lighting, premium commercial finish"}
+```
+
+
+---
+
+## 例 349：Fictional Skirt-Battle Manga Spread
+
+**来源：** awesome-gpt-image-2
+
+```text
+A realistic close-up photo of two human hands holding open a Japanese manga magazine at the center spread, viewed from slightly above, with the full two-page black-and-white manga visible including the book’s curved spine, paper texture, and slight page warping. The spread depicts an over-the-top fictional battle-sports manga about girls fighting using only skirt-based techniques in a dramatic shonen style with dense screentone, speed lines, ink splatter, exaggerated motion, and explosive typography. The central action spans both pages: 2 school-uniform girls are in combat, one on the left upright and powerful with long flowing hair, blazer, pleated skirt, and both arms raised overhead as if executing a special move, while the other on the right is upside down in a handstand-like spin with her pleated skirt flaring outward in a tornado shape, legs extended upward, as if being thrown or rotating through the air. The composition should feel chaotic and kinetic, with huge Japanese sound effects and attack text dominating the center, especially a large vertical title-like impact phrase reading 倒立回転衝撃 and another large vertical move name reading 白鳥の湖, integrated into the action art. Surrounding the main splash are 8 smaller side panels total: 4 stacked on the left page and 4 stacked on the right page. On the left page, panel 1 shows a girl standing under a waterfall in harsh training; panel 2 shows an inverted handstand training scene in water; panel 3 shows strength training or push-up-like exercise; panel 4 shows an emotional close-up of 2 girls facing each other. Add bold Japanese motivational captions near these left panels, including 天女の滝行!!, 倒立の特訓!!, 腕の筋トレ!!, 親友の想いを胸に…!!, and at the bottom a large emotional statement 努力は裏切らない!!! 絶対に勝つんだから!!!. On the right page, panel 1 is a close-up of a refined rival girl speaking calmly, with vertical Japanese dialogue; panel 2 is a roaring stadium crowd cheering, packed with spectators and chant text; panel 3 is a tiny explanatory rules diagram labeled スカートバウト・ルール showing 2 simplified girl figures and a skirt icon, with small Japanese rule text explaining that touching anything other than the skirt is forbidden; panel 4 is a shocked close-up face with the reaction なっ!? in a black burst balloon. Keep a few rectangular censorship mosaics over 2 small face areas to mimic a posted-online magazine scan. The manga should look like a printed weekly comic anthology page photographed in real life, not a clean digital layout: visible halftone dots, gutter shadow, page edges, slight yellowed paper, subtle ambient warm lighting, and believable fingers gripping both lower outer corners.
+```
+
+
+---
+
+## 例 350：Business Office Manga Page
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"manga style sheet","theme":"business office drama manga page","format":"single page comic with 5 panels","style":"high-detail seinen manga illustration, cinematic lighting, polished digital painting with realistic anatomy, dramatic speed lines, expressive sweat droplets, clean black panel borders, Japanese speech balloons and narration boxes, evening office atmosphere","subject":{"primary":"young Japanese male office worker","age":"mid to late 20s","build":"slim average build","hair":"messy short dark brown hair","outfit":["navy business suit","white dress shirt","blue striped tie"],"props":["stack of documents or one important sheet of paper","office desk setup","computer monitors","binders on shelves","desk lamp"]},"layout":{"sections":[{"title":"top panel","position":"top full width","count":1,"labels":["standing in an office at dusk, low-angle shot, holding documents tightly, windows show sunset sky and city buildings, vertical narration box with Japanese text: 『午後三時。男は、ついに、立ち上がった』"]},{"title":"second panel","position":"upper middle full width","count":1,"labels":["extreme close-up of his clenched hand gripping the paper, covered in sweat droplets, inner monologue balloon with Japanese text: 『この一枚のために…俺は…五年、耐えてきた……』"]},{"title":"third panel","position":"middle full width","count":1,"labels":["over-the-shoulder view from behind the younger employee facing his section chief at a desk with monitors and binders, employee sweating nervously, speech balloons with Japanese text: 『…課長、少し、お時間、よろしいでしょうか』 and 『ん？』"]},{"title":"bottom left panel","position":"bottom left","count":1,"labels":["reaction close-up with shocked pause, Japanese thought balloon: 『えっ…。あ、…はい……』"]},{"title":"bottom right panel","position":"bottom right","count":1,"labels":["rear three-quarter close-up of the boss turning slightly in his chair, calm expression, speech balloon with Japanese text: 『有給？ 別にいいよ、そんなの』"]}],"count":5},"composition":{"camera angles":["dramatic low angle","macro hand close-up","over-the-shoulder office view","reaction close-up","boss rear close-up"],"mood":"tense buildup followed by anticlimactic humor","time":"late afternoon into sunset","setting":"Japanese corporate office with fluorescent ceiling lights, filing shelves, desks, monitors, blinds, and city skyline outside"},"text":{"language":"Japanese","narration_boxes":1,"speech_or_thought_balloons":5},"quality":"crisp professional manga page, emotionally readable faces and body language, subtle warm sunset highlights mixed with cool office lighting"}
+```
+
+
+---
+
+## 例 351：Business Office Manga Task Comic
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"manga style business office comic page","style":"clean modern Japanese manga illustration with soft realistic anime rendering, polished linework, warm muted office colors, cinematic lighting, speech balloons with vertical Japanese text, subtle emotional storytelling, professional corporate atmosphere","format":"single page comic with 4 horizontal panels stacked vertically","setting":{"location":"modern open-plan office meeting area with large windows overlooking a city skyline","time":"late afternoon toward sunset","props":["wood meeting table","2 ceramic mugs","spiral notebook","black pen","sticky notes","desktop monitors","office chairs","potted plants"]},"characters":[{"role":"employee 1","appearance":"young Japanese office woman, brown hair tied in a low ponytail, beige blazer over a white blouse, small earrings"},{"role":"employee 2","appearance":"young Japanese office woman, long brown hair worn down, light blue blouse, dark skirt, small earrings"}],"layout":{"sections":[{"title":"Panel 1","position":"top","count":1,"labels":["two women seated across a table in conversation"]},{"title":"Panel 2","position":"upper-middle","count":1,"labels":["close-up of notebook showing this week's task list with priorities"]},{"title":"Panel 3","position":"lower-middle","count":1,"labels":["close-up reflective reaction shot of employee 2"]},{"title":"Panel 4","position":"bottom","count":1,"labels":["rear view of both women standing before the glowing sunset window"]}]},"panel_details":[{"panel":"top panel","composition":"medium two-shot at a meeting table in the office","visible_objects_count":5,"visible_objects":["steaming pink mug on the left","spiral notebook in employee 1's hands","blue mug near employee 2","office chairs","background windows and desks"],"speech_bubbles_count":1,"speech_bubbles":["今週のタスク、整理しとこうか"]},{"panel":"second panel","composition":"close-up of an open spiral notebook on a wooden desk, viewed diagonally from above","notebook_title":"今週のタスク","task_count":8,"tasks":["① 企画書の作成","② データ集計・分析","③ クライアント連絡","④ 社内ミーティング準備","⑤ 資料レビュー","⑥ 経費精算","⑦ メール返信対応","⑧ 業務改善アイデア検討"],"priority_header":"優先度","priority_count":8,"priorities":["A","A","B","B","B","C","C","C"],"extra_objects_count":3,"extra_objects":["black pen","pink sticky note pad","multicolor sticky tabs"],"speech_bubbles_count":1,"speech_bubbles":["優先度もちゃんと振ってあるよ"]},{"panel":"third panel","composition":"close-up profile of employee 2 looking thoughtful, office window blurred in background","speech_bubbles_count":1,"speech_bubbles":["このリスト、先週も見た気がする…"]},{"panel":"bottom panel","composition":"wide rear shot of both women standing side by side facing a large sunset over the city, notebook open on the table in foreground","visible_objects_count":6,"visible_objects":["open notebook on table","pink mug on left","blue mug on right","smartphone or planner beside the blue mug","potted plant on the left","city buildings outside the window"],"speech_bubbles_count":2,"speech_bubbles":["うん、来週こそ","来週こそやろう"]}],"mood":"lightly humorous workplace procrastination, relatable business comic, bittersweet but hopeful ending","quality":"high detail, print-ready manga page, crisp panel borders, legible handwritten-style Japanese notebook text"}
+```
+
+
+---
+
+## 例 352：3D Gaming Character Sheet Prompt
+
+**来源：** awesome-gpt-image-2
+
+```text
+A highly detailed 3D gaming character sheet, 
+- on the left side a {argument name="character description" default="beautiful female french student"} , head front view + side view, accessory samples, character front view and back view, 
+- on the right side details about her: name, age, job, city, size, weight, character description, hobbies, strengths, weaknesses, backstory,
+```
+
+
+---
+
+## 例 353：90s Anime Cafe Shootout Storyboard
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"anime storyboard sheet","style":"gritty 1990s anime cinematic stills, hand-painted cel look, dark outlines, moody amber and teal lighting, realistic proportions, tense action-thriller atmosphere","subject":{"main character":"{argument name=\"character description\" default=\"young man with short dark hair, black t-shirt, muscular build, heavily tattooed forearms\"}","location":"{argument name=\"location name\" default=\"CAFÉ CENTRAL\"}","setting":"cozy urban café interior with wooden tables, framed wall art, warm pendant lamps, front glass entrance, espresso counter area"},"layout":{"grid":"3x3 storyboard collage with thin white borders","panel count":9,"numbered panels":true,"panel labels":["1","2","3","4","5","6","7","8","9"]},"panels":[{"panel":1,"composition":"medium shot","action":"the tattooed man sits alone at a café table drinking from a white cup, looking calm and unaware","background details":"sugar dispenser on table, another couple seated by the window behind him"},{"panel":2,"composition":"close-up profile near the window","action":"the man notices movement outside and turns his head toward the glass","background details":"the café window shows the text {argument name=\"window text\" default=\"CAFÉ CENTRAL\"} and a shadowy armed figure approaching outside"},{"panel":3,"composition":"wide entrance shot","action":"3 masked gunmen in dark clothing burst through the café doorway with pistols raised","count":3,"subjects":["front gunman entering aggressively","second gunman behind him","third gunman near the doorway"]},{"panel":4,"composition":"interior action shot","action":"one masked gunman fires a handgun inside the café while patrons duck and panic","count":3,"subjects":["shooting gunman in foreground","2 additional masked gunmen in background","frightened customers taking cover"]},{"panel":5,"composition":"low angle under-table shot","action":"the tattooed man dives under a wooden café table for cover and reaches forward","background details":"chair legs, tense crouched posture, cluttered café floor"},{"panel":6,"composition":"under-table medium shot","action":"the man pulls a compact black pistol from his waistband while staying low","focus":"tattooed arms, determined body language, conceal-and-draw moment"},{"panel":7,"composition":"tight frontal close-up","action":"the man extends both arms and aims the pistol straight ahead from cover","focus":"gun dominating foreground, tattoo sleeves, intense defensive stance"},{"panel":8,"composition":"side action shot","action":"the man fires back across the café, muzzle flash bright and dramatic, striking a masked attacker","count":2,"subjects":["armed protagonist firing","masked gunman recoiling from the hit"]},{"panel":9,"composition":"wide aftermath shot from behind the protagonist","action":"the man stands with pistol lowered slightly, surveying the café after the shootout","background details":"multiple bodies of masked attackers on the floor, overturned chairs, shocked patrons still hiding, open glass entrance visible","count":3,"subjects":["protagonist seen from behind","3 downed gunmen across the café","surviving patrons in the background"]}],"visual notes":{"color palette":"warm browns, dark shadows, muted blue-gray accents, bright gunfire flashes","camera language":"storyboard framing with varied shots: medium, close-up, wide, low angle, over-the-shoulder","mood":"sudden violent interruption of an ordinary café moment, heroic survival response"}}
+```
+
+
+---
+
+## 例 354：Luxury Perfume Transformation Art
+
+**来源：** awesome-gpt-image-2
+
+```text
+A high-end cinematic transformation artwork displayed in five vertical panels, showing a {argument name="subject" default="luxury perfume"} evolving from raw essence into a sculptural masterpiece, each panel separated by thin black dividers.
+Panel 1 (Origin): A premium glass perfume bottle resting on a dark reflective surface, surrounded by {argument name="ingredients" default="raw ingredients like rose petals, oud wood, citrus peel, and mist"}, soft studio lighting, elegant shadows.
+Panel 2 (Release): The perfume begins to diffuse into the air, visible fragrant mist swirling upward in fluid motion, forming soft organic shapes, glowing particles and vapor trails.
+Panel 3 (Transformation): The mist starts shaping into a semi-formed silhouette (abstract human figure or flowing fabric), blending liquid, vapor, and light, luminous and dreamy.
+Panel 4 (Abstraction): The form becomes fully abstract — flowing ribbons of scent turning into sleek glass-like curves and fluid geometry, dynamic motion frozen mid-air.
+Panel 5 (Transcendence): Final form — a luxurious sculptural perfume bottle or abstract glass statue inspired by the scent’s essence, polished, reflective, with glowing highlights, sitting on a minimal pedestal.
+Style: ultra-detailed, photorealistic to abstract progression, deep black background, {argument name="accents" default="gold and silver accents"}, soft glow, high contrast lighting, glossy reflections, cinematic luxury aesthetic, perfume ad style, 4K quality, sharp focus.
+```
+
+
+---
+
+## 例 355：Artistic Progression Ballerina Sculpture
+
+**来源：** awesome-gpt-image-2
+
+```text
+Artistic progression in five vertical panels: from realistic sketch to modern abstract sculpture of a {argument name="subject" default="ballerina in arabesque pose"}.
+1. Detailed pencil sketch of ballerina on pointe, elegant extended leg and arms.
+2. Refined mid-stage sketch.
+3. Strongly stylized flowing lines.
+4. Angular geometric abstraction.
+5. Final sleek, {argument name="material" default="ribbon-twisted contemporary metal sculpture"} with beautiful curves and tension.
+{argument name="style" default="Black ink and charcoal style"} on white background, high-contrast artistic study, luxury sculpture aesthetic --ar 3:2
+```
+
+
+---
+
+## 例 356：Vinland Saga Thorfinn Storm Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+A dark, gritty cinematic anime poster in the style of a historical seinen manga cover, inspired by {argument name="series title" default="VINLAND SAGA"}. The composition is vertical and dramatic, with a lone young warrior resembling {argument name="character name" default="THORFINN"} standing on a jagged black rock at the edge of a stormy sea, seen from behind at full body. He wears a weathered brown-grey hooded tunic or cloak with a rough fur-trimmed collar, a belt at the waist, dark trousers, and worn leather boots. His posture is tense but reflective, his right hand holding a short dagger pointed downward, facing violent ocean waves and sea spray under a cold, overcast sky. Behind him and dominating the upper half of the image is a massive close-up side profile of his head and wet, tangled blond hair, rendered with dense ink-like linework and painterly shading, creating a layered double-exposure effect. On the left side, include 4 inset manga-style narrative panels stacked vertically: panel 1 shows a close-up of the same boy gripping a dagger; panel 2 shows him from behind facing a small group of armed men; panel 3 shows an intense close-up of his eyes; panel 4 shows him walking alone among gravestones or stone markers. Add visible typography integrated like a Chinese promotional poster: at the top left, small Japanese title text and the English text "VINLAND SAGA" with "YUKIMURA MAKOTO" beneath it; near the lower left, large distressed block letters reading "THORFINN" with smaller katakana beneath. Add multiple vertical Chinese quote lines in white along the left and right sides, with one emphasized phrase in muted gold. Use a desaturated palette of charcoal black, slate grey, steel blue, dirty white, and faded brown, with high contrast, mist, rain-speck texture, rough brushwork, and an epic melancholy atmosphere about renouncing violence and searching for peace. The overall look should feel like a premium character poster, moody, windswept, somber, and highly detailed.
+```
+
+
+---
+
+## 例 357：Design Poster Transformation Sequence
+
+**来源：** awesome-gpt-image-2
+
+```text
+A vertical 2:3 premium design poster with two sections, inspired by elegant perfume advertisement aesthetics, luxury branding, soft pink tones, and a magical storytelling atmosphere.
+TOP HALF (PROCESS / TRANSFORMATION SEQUENCE)
+A seamless horizontal sequence of 5 pencil sketch panels on a clean white background, showing the evolution from movement to object. No borders between panels; smooth continuous flow.
+```
+
+
+---
+
+## 例 358：Helicopter Over Urban Dust Cloud
+
+**来源：** awesome-gpt-image-2
+
+```text
+A cinematic ultra-realistic aerial disaster scene viewed from slightly above and behind a single military transport helicopter flying over a dense urban neighborhood at golden hour. The helicopter is a dark weathered matte-gray utility helicopter with 1 main rotor and 1 tail rotor, seen from the rear-right side, angled toward the upper right of the frame, with visible panel lines, antennas, landing gear, tail stabilizers, and an open side door. Below it, a massive rolling dust cloud from a building collapse or explosion surges through tightly packed city blocks, forming 1 huge mushrooming wall of beige-gray debris with turbulent texture, smaller plumes, and swirling particulate noise spreading between rooftops. The city beneath is sprawling, crowded, and sunlit in warm amber tones, with low-rise buildings, narrow streets, scattered highlights on roofs, and haze in the distance. Emphasize rotor motion blur, volumetric dust, dramatic scale, harsh backlit sunset lighting, long shadows, atmospheric perspective, intense contrast between the dark helicopter and glowing dust, and a tense war-zone or rescue-operation mood. Photorealistic, blockbuster cinematography, high detail, realistic materials, dynamic composition, wide aerial shot, no text, no interface, no extra aircraft.
+```
+
+
+---
+
+## 例 359：Character Asset Design Card
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a character design sheet based on the uploaded image. Design: Character profile poster. Include: 1. Large main portrait 2. Various facial expressions (happy, angry, sleepy, surprised, etc.) 3. Action poses (running, playing) (based on personality) 4. Small object icons 5. Color scheme section 6. Profile section, including name and personality.
+```
+
+
+---
+
+## 例 360：Gothic Sci-Fi Villain Meeting Manga Page
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"dark sci-fi manga page","style":"high-detail Japanese comic page, gothic cyber-fantasy, polished digital painting, dramatic shading, sharp inked panel borders, dense atmospheric backgrounds, ominous purple and black color palette with red highlights","format":"full comic page","reading":"right-to-left manga layout","setting":{"location":"sinister executive office inside a machine demon empire","mood":"grand, theatrical, intellectual villain meeting with meta-comedic tone","environment_details":["ornate throne-like desk room","vaulted gothic walls","skulls, candles, books, and occult-mechanical ornaments","purple drapes and banners","large circular halo-like light behind the leader","window showing a dark futuristic fortress city under a stormy night sky","table with tea set, crystal orb, skull decorations, papers, and mechanical devices"]},"characters":{"count":4,"list":[{"role":"leader behind the desk","nameplate":"CHAOS","appearance":"regal armored demon-robot overlord with a feminine face, pale skin, glowing red eyes, dark purple-black bio-mechanical armor, large shoulder pods studded with red gem-like lights, horned crown silhouette, composed and commanding expression"},{"role":"left sofa speaker","appearance":"red armored beast-like humanoid, muscular build, spiky flame-shaped head and armor, glowing eyes, seated with assertive posture, expressive and emotional"},{"role":"center-right sofa figure","appearance":"pale humanoid android with long straight white hair, elegant white face, white and gold armor with purple accents, calm analytical demeanor"},{"role":"right sofa speaker","appearance":"black and gray demon-robot with long curved gold horns, red glowing eyes, white beard-like chin plating, purple circular chest core and shoulder details, rational lecturer posture, often raising one finger while explaining"}]},"layout":{"panel_count":15,"sections":[{"position":"top full-width panel","count":1,"description":"wide establishing panel of the office meeting, leader at the central desk, three subordinates seated on sofas around a coffee table, multiple Japanese speech balloons, vertical title box on the far right"},{"position":"middle tier panels","count":8,"description":"conversation panels alternating between close-ups of the horned robot, cosmic singularity imagery, the leader, and the red armored subordinate"},{"position":"bottom tier panels","count":6,"description":"debate continues with close-ups of the white-haired android, red armored figure, horned robot, and the leader delivering the concluding explanation"}],"text_elements":{"language":"Japanese","count":20,"items":["1 vertical location/title box on the upper right","19 speech balloons and dialogue boxes distributed across the 15 panels"]}},"iconography":{"count":6,"items":["1 desk nameplate reading CHAOS","2 singularity/black hole cosmic illustrations in separate panels","1 glowing holographic technology diagram panel","1 halo-like circular backlight behind the leader","1 dark castle cityscape visible through the window"]},"composition":"make the page busy and readable, with cinematic panel variety: one large establishing shot, several medium dialogue panels, several close-ups, and inserted explanatory visual panels showing black holes and abstract cosmic evolution concepts","text":{"title_box":"{argument name=\"headline text\" default=\"機械魔城 総統執務室\"}","dialogue":"Japanese manga dialogue throughout, with dense explanatory villain conversation about singularity, AI, humanity, control, evolution, and domination; include the nameplate text 'CHAOS' exactly on the desk"},"visual_themes":["villain boardroom exposition","sci-fi singularity theory","mechanical demon empire","gothic luxury","meta-humorous explanation comic","anime supervillain aesthetics"],"quality":"ultra-detailed, crisp faces, intricate armor textures, dramatic rim lighting, polished manga illustration, high readability, professional comic page finish"}
+```
+
+
+---
+
+## 例 361：Fantasy Guild Receptionist Novel Cover
+
+**来源：** awesome-gpt-image-2
+
+```text
+A polished fantasy light-novel cover illustration in anime style, square format, showing a beautiful adult female guild receptionist from the waist up in an elegant adventurer’s guild interior. She stands slightly right of center behind a wooden counter, facing forward with a calm, professional pose, holding a black-and-gold pen lightly in one hand near her shoulder. Her face is intentionally obscured by a large centered beige rectangular censor block. She has {argument name="character name" default="リリアン・ヴェイル"}, age 27, with {argument name="hair color" default="light blonde"} hair styled in a refined updo bun with soft loose bangs framing the face. She wears a dark brown tailored high-collared jacket richly embroidered with ornate gold floral trim, a green vest underneath, and a white ruffled blouse. Add one visible teal gemstone drop earring. The mood is dignified, intelligent, and dependable. The background is a warmly lit, luxurious guild office with dark carved wood, a blurred crest plaque on the wall, framed documents, a desk lamp, flowers, and soft golden bokeh, creating a high-end fantasy workplace atmosphere. At the top, include 3 lines of Japanese title typography: first a small header line reading "《冒険者ギルドのお仕事ファンタジー》", second a large main title line reading "鉄の受付嬢 {argument name="highlighted name text" default="リリアン"} のプロの流儀" with the highlighted name in emerald green and the rest in black, and third a subtitle line reading "〜冒険は、窓口から始まります〜". At the bottom, add an ornate dark brown and gold nameplate with 3 text lines: "{argument name="nameplate text" default="リリアン・ヴェイル"}", "冒険者ギルド受付嬢 (27歳)", and "丁寧・正確・冷静 —— それが、私の仕事です。" Use refined Japanese book-cover typography, decorative flourishes, soft cinematic lighting, subtle depth of field, luxurious textures, and a premium fantasy novel cover composition.
+```
+
+
+---
+
+## 例 362：Modern Ride-hail Parody
+
+**来源：** awesome-gpt-image-2
+
+```text
+{argument name="character one" default="Pan Jinlian"} calls a {argument name="service" default="Didi premier car"}, but {argument name="character two" default="Wu Song"} arrives on horseback; she silently cancels the order and calls another one.
+```
+
+
+---
+
+## 例 363：Anime Fantasy Key Visual Board
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a cinematic anime key visual and concept-art presentation board for a fantasy adventure titled {argument name="project title" default="Codex & GPT-Image-2"}. The main image fills the upper portion: a vast ruined stone causeway high above the clouds at night, leading toward a circular observatory-like sanctuary with towers, antennas, and a glowing mechanism at the summit. A vivid aurora arcs across a star-filled sky over distant mountain ranges. Three travelers stand on the bridge in a triangular composition. In the center foreground, a pale white-haired girl in a flowing white robe and cape walks toward the viewer, holding a staff with a red ring ornament; her expression is calm and mysterious. On the left, a tall woman with very long dark purple hair and a dark cloak turns slightly away, looking toward the structure. On the right, a red-haired young man in a brown coat stands with his back angled to the viewer, carrying a large dark weapon. The bridge is weathered, cracked, and lined with glowing cyan inlaid paths and runic strips, with stone pillars and balustrades on both sides. Add large title typography in the upper right, with a smaller Japanese subtitle beneath it reading {argument name="subtitle text" default="灰銀のアウロラ"}. Add a small Japanese tagline in the lower left reading {argument name="tagline text" default="旅は、記憶の先へ続いている。"}. Beneath the hero image, place a horizontal strip of detailed monochrome and muted-color concept sheets showing exactly 8 grouped design panels: 1 white-haired heroine full-body costume turnaround sheet, 2 white-haired heroine face-expression sheet, 3 heroine accessories and gear sheet, 4 purple-haired woman outfit turnaround and detail sheet, 5 red-haired man outfit turnaround and weapon sheet, 6 architectural exterior elevation sheet of the observatory, 7 architectural interior and structure reference sheet, 8 circular mechanical diagram sheet. Along the bottom, place exactly 4 environment thumbnails: 1 ruined mountain road landscape, 2 icy-blue bridge or aqueduct environment, 3 distant hilltop approach to the sanctuary, 4 towering cathedral-like interior hall. Overall style: premium anime game art pitch board, highly detailed, painterly, dramatic lighting, cool blue and cyan palette with white stone and subtle orange title accents, polished layout, epic fantasy sci-fi atmosphere.
+```
+
+
+---
+
+## 例 364：Cute Brains Frozen in Ice Cubes
+
+**来源：** awesome-gpt-image-2
+
+```text
+A whimsical clean cartoon illustration of 7 transparent ice cubes floating underwater against a vivid saturated blue background, each cube containing a cute pink brain character with oversized googly eyes and a small smiling mouth, as if the brains are frozen inside the cubes. Show the cubes drifting at different angles and depths in a loose vertical composition, with soft white highlights, glossy refraction, rounded cube edges, and a hand-drawn outlined look. Include many air bubbles of different sizes scattered throughout the scene, plus tiny white specks and soft splash-like dots to enhance the underwater feel. The brains should all have the same playful simplified design, bright pink color, black outlines, and expressive slightly goofy faces. Keep the style light, polished, and humorous, like a modern sticker illustration or cheerful editorial cartoon, with no text, no border, and a square composition.
+```
+
 

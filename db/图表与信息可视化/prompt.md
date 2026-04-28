@@ -1,9 +1,10 @@
 # 图表与信息可视化 — 提示词合集
 
 
-> 55 个案例
+> 73 个案例
 
 ---
+
 
 ## 例 1：信息图可视化设计
 
@@ -18,6 +19,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 
 ---
+
 
 ## 例 8：科普百科图
 
@@ -46,6 +48,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ---
 
+
 ## 例 13：信息图可视化设计
 
 **来源：** 小红书号94156710894
@@ -60,6 +63,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ---
 
+
 ## 例 14：信息图可视化设计
 
 **来源：** 小红书号Roy\_Jay
@@ -73,6 +77,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 
 ---
+
 
 ## 例 18：信息图可视化设计
 
@@ -122,6 +127,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ---
 
+
 ## 例 19：信息图可视化设计
 
 **来源：** [@yammamon](https://x.com/yammamon)
@@ -136,6 +142,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
+
 ## 例 20：信息图可视化设计
 
 **来源：** [@yammamon](https://x.com/yammamon)
@@ -149,6 +156,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 
 ---
+
 
 ## 例 23：信息图可视化设计
 
@@ -203,6 +211,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 
 ---
+
 
 ## 例 51：信息图可视化设计
 
@@ -259,6 +268,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
+
 ## 例 55：信息图可视化设计
 
 **来源：** [@Kurt\_Rousey466](https://x.com/Kurt_Rousey466)
@@ -273,6 +283,7 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 
 ---
 
+
 ## 例 64：信息图可视化设计
 
 **来源：** [@j\_zou93](https://x.com/j_zou93)
@@ -286,6 +297,7 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 
 
 ---
+
 
 ## 例 65：信息图可视化设计
 
@@ -319,6 +331,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 
 ---
+
 
 ## 例 66：信息图可视化设计
 
@@ -409,6 +422,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ---
 
+
 ## 例 67：信息图可视化设计
 
 **来源：** [@hx831126](https://x.com/hx831126)
@@ -455,6 +469,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 
 ---
+
 
 ## 例 68：信息图可视化设计
 
@@ -509,6 +524,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ---
 
+
 ## 例 69：信息图可视化设计
 
 **来源：** [@hx831126](https://x.com/hx831126)
@@ -561,6 +577,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 
 ---
+
 
 ## 例 70：信息图可视化设计
 
@@ -653,6 +670,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 
 ---
+
 
 ## 例 71：关系图谱信息图
 
@@ -754,6 +772,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ---
 
+
 ## 例 72：信息图可视化设计
 
 **来源：** [@hx831126](https://x.com/hx831126)
@@ -794,6 +813,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 
 ---
+
 
 ## 例 73：信息图可视化设计
 
@@ -861,6 +881,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ---
 
+
 ## 例 74：关系图谱信息图
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
@@ -891,6 +912,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 
 ---
+
 
 ## 例 75：关系图谱信息图
 
@@ -923,6 +945,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ---
 
+
 ## 例 76：关系图谱信息图
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
@@ -954,6 +977,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ---
 
+
 ## 例 77：关系图谱信息图
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
@@ -984,6 +1008,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 
 ---
+
 
 ## 例 82：信息图可视化设计
 
@@ -1041,6 +1066,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ---
 
+
 ## 例 83：信息图可视化设计
 
 **来源：** [@NumeroBTC](https://x.com/NumeroBTC)
@@ -1088,6 +1114,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ---
 
+
 ## 例 84：关系图谱信息图
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
@@ -1119,6 +1146,7 @@ The final product should satisfy:
 
 
 ---
+
 
 ## 例 85：关系图谱信息图
 
@@ -1152,6 +1180,7 @@ The final product should satisfy:
 
 ---
 
+
 ## 例 86：关系图谱信息图
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
@@ -1184,6 +1213,7 @@ The final product should satisfy:
 
 ---
 
+
 ## 例 87：关系图谱信息图
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
@@ -1215,6 +1245,7 @@ The final product should satisfy:
 
 
 ---
+
 
 ## 例 88：信息图可视化设计
 
@@ -1281,6 +1312,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 ---
 
+
 ## 例 89：信息图可视化设计
 
 **来源：** [@A9Quant](https://x.com/A9Quant)
@@ -1345,6 +1377,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 
 ---
+
 
 ## 例 90：信息图可视化设计
 
@@ -1411,6 +1444,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 ---
 
+
 ## 例 102：信息图可视化设计
 
 **来源：** [@maxescu](https://x.com/maxescu)
@@ -1425,6 +1459,7 @@ Search the web for {argument name="performance description" default="this week�
 
 ---
 
+
 ## 例 112：信息图可视化设计
 
 **来源：** [@songguoxiansen](https://x.com/songguoxiansen)
@@ -1438,6 +1473,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 
 ---
+
 
 ## 例 171：信息图可视化设计
 
@@ -1456,6 +1492,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 
 ---
+
 
 ## 例 183：一张中文健身信息图
 
@@ -1559,6 +1596,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 ---
 
+
 ## 例 210：萌系大模型训练图解
 
 **来源：** [@op7418](https://x.com/op7418/status/2046502136973001143)
@@ -1577,6 +1615,7 @@ Cute explanation of the large language model training process
 
 ---
 
+
 ## 例 211：天坛古建拆解全图
 
 **来源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
@@ -1594,6 +1633,7 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 
 
 ---
+
 
 ## 例 214：绘制金瓶梅知识图谱
 
@@ -1669,6 +1709,7 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 ---
 
+
 ## 例 215：西方艺术演进像素博物馆
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
@@ -1690,6 +1731,7 @@ Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K),
 
 
 ---
+
 
 ## 例 218：绘制科学百科知识图谱
 
@@ -1821,6 +1863,7 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 ---
 
+
 ## 例 222：精致模块化科普百科图鉴
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
@@ -1874,6 +1917,7 @@ Please do not make it into an ordinary commercial promotional poster. It must hi
 
 
 ---
+
 
 ## 例 235：治愈系助眠指南九宫格
 
@@ -2011,6 +2055,7 @@ High definition, premium layout, magazine feel, realistically publishable, new m
 
 ---
 
+
 ## 例 241：关键人物关系图谱
 
 **来源：** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
@@ -2029,6 +2074,7 @@ Please generate a key character relationship diagram for "XXX".
 
 ---
 
+
 ## 例 248：景德镇青花瓷全景解说图谱
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
@@ -2046,6 +2092,7 @@ Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, 
 
 
 ---
+
 
 ## 例 270：信息图可视化设计
 
@@ -2077,6 +2124,7 @@ High resolution, professional concept art style
 
 
 ---
+
 
 ## 例 296：博物馆级中文拆解信息图鉴
 
@@ -2126,6 +2174,7 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 
 ---
 
+
 ## 例 302：九位大师的机械键盘设计图鉴
 
 **来源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
@@ -2143,6 +2192,7 @@ A nine-grid image showing the same group of objects designed by nine contemporar
 
 
 ---
+
 
 ## 例 310：零食品牌技术分解图
 
@@ -2198,6 +2248,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 ---
 
+
 ## 例 333：AI 眼镜爆炸拆解图
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
@@ -2211,6 +2262,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 
 ---
+
 
 ## 例 334：RAG 技术详解图
 
@@ -2226,6 +2278,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 ---
 
+
 ## 例 341：AP Calculus 学习表信息图
 
 **来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
@@ -2240,6 +2293,7 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 ---
 
+
 ## 例 348：胡须风格分析海报
 
 **来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
@@ -2253,6 +2307,7 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 
 ---
+
 
 ## 例 350：足球球员数据涂鸦海报
 
@@ -2280,4 +2335,283 @@ Style: modern football poster x notebook aesthetic, clean but energetic, slightl
 
 Important: all stats must be realistic and proportional to the player's real career.
 ```
+
+
+## 例 351：Momotaro Explainer Slide in Hybrid Style
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
+```
+
+
+---
+
+## 例 352：3D Stone Staircase Evolution Infographic
+
+**来源：** awesome-gpt-image-2
+
+```text
+{
+  "type": "evolutionary timeline infographic",
+  "instruction": "Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.",
+  "style": {
+    "background": "{argument name=\"background style\" default=\"vintage textured parchment paper\"}",
+    "staircase": "{argument name=\"staircase material\" default=\"realistic textured stone blocks\"}",
+    "subjects": "{argument name=\"organism style\" default=\"highly detailed photorealistic 3D renders\"}"
+  },
+  "layout": {
+    "main_title": "{argument name=\"main title\" default=\"人类演化\"}",
+    "sections": [
+      {
+        "position": "left sidebar",
+        "count": 8,
+        "labels": ["L0: 单细胞生命", "L1: 多细胞生物", "L2: 动物界", "L3: 脊索动物", "L4: 上陆革命", "L5: 哺乳纲", "L6: 人科演化", "L7: 智人纪元"]
+      },
+      {
+        "position": "top right",
+        "title": "获得的功能 / 失去的功能",
+        "description": "Legend with plus and minus icons"
+      },
+      {
+        "position": "bottom center",
+        "title": "演化关键里程碑",
+        "count": 6,
+        "description": "Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution"
+      }
+    ],
+    "centerpiece": {
+      "description": "Winding stone staircase with 25 numbered steps featuring specific organisms.",
+      "count": 25,
+      "notable_elements": [
+        "Step 07: Jellyfish",
+        "Step 09: Ammonite",
+        "Step 10: Trilobite",
+        "Step 24: Walking human",
+        "Step 25: {argument name=\"future evolution concept\" default=\"glowing cosmic silhouette with a question mark\"}"
+      ]
+    }
+  }
+}
+```
+
+
+---
+
+## 例 353：Chinese Vmess Protocol Infographic
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"modern Chinese infographic poster","topic":"{argument name=\"topic title\" default=\"Vmess 协议\"}","style":{"overall":"clean tech explainer, polished brochure-like educational poster, minimalist flat illustration, soft shadows, rounded white cards, blue-and-green cybersecurity color palette","background":"warm off-white with faint geometric dots, subtle globe line art, and light decorative curves","aspect_ratio":"4:5 vertical"},"header":{"title":"{argument name=\"main title\" default=\"Vmess 协议\"}","subtitle":"{argument name=\"subtitle text\" default=\"一种灵活、强大的代理传输协议（V2Ray 核心协议）\"}","intro":"Vmess 是 V2Ray 项目的核心协议之一，设计目标是高效、灵活、易于扩展，适用于多种网络环境下的安全传输。","hero_illustration":"desktop monitor showing a blue V app icon and the word Vmess, beside a smartphone with a green shield checkmark"},"layout":{"grid":"2 columns, 4 rows of rounded content cards below the header","sections":[{"number":1,"title":"什么是 Vmess?","position":"row 1 left","count":3,"labels":["Vmess","V2Ray = 多协议框架，Vmess 是其中最常用的协议之一。","Vmess 是由 V2Ray 开发的一种代理协议，基于自定义的认证与加密机制，传输效率高，配置灵活，支持多种传输方式。"],"visual":"blue cube-like Vmess icon with a large V"},{"number":2,"title":"工作原理","position":"row 1 right","count":5,"labels":["客户端","建立连接（认证）","数据传输（加密）","服务器","客户端通过预设的 UUID 等信息与服务器建立连接，经过认证后，所有数据在加密通道中传输。"],"visual":"laptop on the left, server stack on the right, green dashed arrow forward, blue dashed arrow backward, central lock-and-shield symbol"},{"number":3,"title":"核心特点","position":"row 2 left","count":4,"labels":["高效传输","灵活安全","可扩展性强","多路复用支持"],"details":["采用二进制传输，开销小，速度快。","支持多种加密与传输方式，安全性高。","字段可扩展，满足不同场景的需求。","支持多路复用（Mux），减少延迟。"],"visual":"4 vertically stacked feature rows with green, blue, orange, and purple icons"},{"number":4,"title":"主要组成","position":"row 2 right","count":4,"labels":["用户标识（UUID）","额外 ID（Alter ID）","加密方式（Security）","传输方式（Transport）"],"details":["用于客户端认证的唯一标识符。","增强伪装性，防止流量特征识别。","数据传输的加密算法，如 AES、ChaCha20 等。","如 TCP、WebSocket、gRPC、HTTP/2 等。"],"visual":"4 vertically stacked rows with square icons for user, cube, lock, and paper airplane"},{"number":5,"title":"配置示例（客户端）","position":"row 3 left","count":2,"labels":["JSON configuration code block","field annotations list"],"visual":"left-side rounded code panel showing JSON with keys v, ps, add, port, id, aid, scy, net, type, host, path, tls; right-side vertical notes explaining each field"},{"number":6,"title":"Vmess 与其他协议对比","position":"row 3 right","count":4,"labels":["特性","Vmess","Shadowsocks","Trojan"],"visual":"comparison table with 6 rows: 开发者, 传输效率, 可扩展性, 伪装能力, 多路复用, plus the header row","table_notes":"Vmess column highlighted in soft green; other columns in neutral tones"},{"number":7,"title":"适用场景","position":"row 4 left","count":4,"labels":["跨境访问","企业内网穿透","流媒体解锁","网络隐私保护"],"details":["访问受限网站与服务。","安全连接公司内部资源。","解锁地区限制的视频内容。","加密流量，保护上网隐私。"],"visual":"4 evenly spaced icon-and-caption items: globe, shield, play button, game controller"},{"number":8,"title":"核心总结","position":"row 4 right","count":2,"labels":["summary paragraph","一句话记住：灵活、安全、高效。"],"visual":"large yellow light bulb icon on the left, text on the right in a blue rounded quote bar","summary_text":"Vmess 是一种高效、灵活且安全的代理协议，凭借强大的扩展性、多种传输支持与良好的隐藏性，成为现代代理工具（如 V2Ray）中最受欢迎的协议之一。"}]},"typography":{"title_style":"large bold sans-serif in dark navy","section_title_style":"bold Chinese sans-serif with colored numbered badges","body_style":"compact readable Chinese UI font","emphasis":"blue pill subtitle, colored icons, green and blue accents"},"color_palette":{"navy":"#14264a","blue":"#5b8ff9","light_blue":"#eaf2ff","green":"#67c587","light_green":"#eaf8ef","purple":"#8c7cf3","orange":"#f3b35f","card":"#ffffff","border":"#e8ebf2","background":"#f7f5f2"}}
+```
+
+
+---
+
+## 例 354：Desk Setup Audit Infographic
+
+**来源：** awesome-gpt-image-2
+
+```text
+Using REFERENCE_0, turn the attached desk photo and its written brief into a clean editorial-style infographic poster. Create a side-by-side comparison with exactly 2 labeled photo panels: “Current Setup” on the left using the original scene, and “Optimized Setup” on the right showing a plausible improved version of the same room and desk from a matching angle. Add a large serif headline at the top reading {argument name="headline text" default="Desk Setup Audit"}. Around the left panel, add exactly 5 issue callout cards connected by leader lines: 1) MONITOR HEIGHT — 👍 acceptable — “Screens close, but split focal plane” — tag “Neck fatigue”; 2) CHAIR POSITION — ❌ actively hurting — “Low lounge chair, weak support” — tag “Back pain + slouching”; 3) LIGHTING — ⚠️ costing energy — “Mixed lamps + side glare” — tag “Eye strain”; 4) CABLE MANAGEMENT — ❌ actively hurting — “Loose cables on desk + floor” — tag “Visual drag / trip risk”; 5) CLUTTER — ⚠️ costing energy — “Tools, boxes, papers in view” — tag “Focus loss”. Add a small red “TOP FIX” badge pointing to the chair position issue. Around the right panel, add exactly 5 improved callout cards: 1) MONITOR HEIGHT — ✅ working — “Primary screen centered at eye level”; 2) CHAIR POSITION — ✅ working — “Chair tucked in, feet flat, elbows ~90°”; 3) LIGHTING — ✅ working — “Soft front light, glare reduced”; 4) CABLE MANAGEMENT — ✅ working — “Cables routed under desk”; 5) CLUTTER — ✅ working — “Clear work zone, gear zoned”. In the optimized panel, visibly show the improvements: one main monitor centered, laptop centered below it, ergonomic office chair, cleaner desktop, cable routing hidden under the desk, softer balanced lighting, and a small drawer cabinet on the right while keeping the same room recognizable. Add a bottom legend with exactly 5 items: “LEGEND”, “Top Fix”, “working”, “acceptable”, “costing energy”, “actively hurting”. Along the bottom, add exactly 4 boxed sections: 1) “FREE FIXES” with 3 numbered items — “Top Fix: Raise sitting posture / ditch low slouch”, “Center primary monitor”, “Clear desk + floor spillover”; 2) “UNDER $50” with 3 numbered items — “Velcro ties + under-desk cable tray”, “Lumbar pillow or footrest”, “Simple desk organizer”; 3) “WORTH THE INVESTMENT” with 3 numbered items — “Ergonomic task chair”, “Monitor arms for perfect alignment”, “Closed storage / drawers”; 4) “FOCUS FORECAST” showing 2 gauges labeled “Current: 2.5 hrs/day” and “After Top 3 Fixes: 5.5 hrs/day”, plus a green pill reading “+3.0 hrs”. Use a refined magazine infographic aesthetic, muted green and cream palette, rounded boxes, minimal text, crisp icons, thin connector lines, and polished layout suitable for sharing on social media.
+```
+
+
+---
+
+## 例 355：Caffeine-Free Herbal Tea Chart
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"herbal tea variety infographic poster","language":"Traditional Chinese","style":"clean premium editorial food photography collage, bright high-key lighting, soft natural shadows, white background, elegant wellness aesthetic","subject":"a 3 by 3 grid of caffeine-free herbal tea varieties presented in transparent glass teacups with matching botanicals scattered around each cup","text":{"headline":"{argument name=\"headline text\" default=\"無咖啡因花草茶品種大全\"}"},"layout":{"canvas":"vertical poster","background":"warm off-white paper tone","grid":{"rows":3,"columns":3,"count":9,"cardStyle":"rounded rectangular photo cards with narrow gaps","imagePosition":"top image with title and subtitle beneath each card"},"sections":[{"title":"洋甘菊茶","position":"row 1 column 1","count":1,"labels":["花香柔和，口感溫潤舒緩"],"image":"clear glass cup of pale golden chamomile tea with floating white-and-yellow chamomile flowers, many loose chamomile blossoms scattered on the white surface"},{"title":"薄荷茶","position":"row 1 column 2","count":1,"labels":["清涼醒鼻，入口清新甘爽"],"image":"clear glass cup of light green mint tea filled with fresh mint sprigs, extra mint leaves placed in front on a white background"},{"title":"洛神花茶","position":"row 1 column 3","count":1,"labels":["酸甜明亮，果香濃郁迷人"],"image":"clear glass cup of vivid ruby red hibiscus tea with dried hibiscus calyxes around it and a glass pitcher pouring or placed behind"},{"title":"玫瑰花茶","position":"row 2 column 1","count":1,"labels":["花韻優雅，香氣細膩柔美"],"image":"clear glass cup of soft pink rose tea with dried rosebuds and scattered pink petals surrounding the cup"},{"title":"菊花茶","position":"row 2 column 2","count":1,"labels":["清香淡雅，茶湯甘潤順口"],"image":"clear glass cup of pale yellow chrysanthemum tea with whole dried yellow chrysanthemum flowers around the base"},{"title":"薰衣草茶","position":"row 2 column 3","count":1,"labels":["草本芬芳，尾韻柔和安定"],"image":"clear glass cup of translucent purple lavender tea with lavender sprigs and a blurred jar of lavender in the background"},{"title":"桂花茶","position":"row 3 column 1","count":1,"labels":["蜜香清甜，香氣溫暖悠長"],"image":"clear glass cup of pale golden osmanthus tea filled with tiny floating yellow osmanthus blossoms, more blossoms scattered around"},{"title":"檸檬草茶","position":"row 3 column 2","count":1,"labels":["柑橘清香，風味爽朗輕盈"],"image":"clear glass cup of pale green lemongrass tea with cut lemongrass stalks beside the cup and slender leaf pieces steeping inside"},{"title":"蝶豆花茶","position":"row 3 column 3","count":1,"labels":["色澤夢幻，口感清淡柔順"],"image":"clear glass cup of vivid sapphire blue butterfly pea flower tea on a saucer, decorated with blue petals and blossoms around the cup"}]},"typography":{"headline":"large dark brown serif Chinese type centered at top","cardTitles":"bold dark brown Chinese serif centered beneath each image","captions":"smaller gray Chinese text centered beneath each title"},"colorPalette":{"dominant":["cream white","dark brown","soft gray"],"accentTeaColors":["pale gold","fresh green","ruby red","blush pink","lavender purple","osmanthus gold","lemongrass green","butterfly pea blue"]},"constraints":["all 9 drinks shown in transparent glass cups","realistic food photography, not illustration","consistent white studio tabletop","minimalist luxurious layout","traditional Chinese text only","balanced spacing and clean margins"]}
+```
+
+
+---
+
+## 例 356：Food-Based Micro-Cities Visualization
+
+**来源：** awesome-gpt-image-2
+
+```text
+Do this for {argument name="country" default="Japan"} Input: country analyze the country, its food, its lesser known cities, pick 4 lesser known cities. A 2x2 grid of 4 {argument name="food type" default="famous food or deseerts"} for this country as functioning lesser known micro-cities [made with popular food and desserts of city 1] [made with popular food and desserts of city 2] [made with popular food and desserts of city 3] [made with popular food and desserts of city 4] Photoreal miniature scenes built into real food or dessert portions, edible details, soft food-styling light, shallow depth of field, centered on white porcelain plinths, 50mm perspective, solid seamless slate-gray background, crisp focus. Name underneath in sugar
+```
+
+
+---
+
+## 例 357：Side-by-Side PPT Reconstruction Demo
+
+**来源：** awesome-gpt-image-2
+
+```text
+Using the provided reference image of the PowerPoint slide screenshot, recreate it as a clean, polished slide conversion result inside a side-by-side desktop comparison. Keep the same Japanese slide topic and overall layout, but remove the dense selection handles, edit boxes, and malformed vector artifacts from the reference so the slide appears properly reconstructed. Show 2 panels: on the left, a dark image viewer window displaying the exported slide image; on the right, the same slide opened in PowerPoint editing view. Preserve the original monochrome infographic style and Japanese text structure, but make the typography legible and the icons, dividers, and columns cleanly aligned. Keep the slide as a single-page infographic with 5 main content areas: 1 top title/header row, 3 mid-page comparison columns, 1 bottom use-case row containing 5 icon-labeled items. Include a footer line and the OpenAI logo at bottom right. Emphasize that this is a faithful PPT reconstruction from the uploaded image, with a realistic Windows desktop app screenshot look.
+```
+
+
+---
+
+## 例 358：Dance Choreography Instruction Sheet Prompt
+
+**来源：** awesome-gpt-image-2
+
+```text
+Dance Sequence Instruction Sheet [VISUAL STYLE] A composition featuring a highly detailed 3D-rendered female dancer. Designed like a professional choreography guide with a technical, diagram-inspired layout. Clean white background, soft studio lighting, and strong contrast to highlight body movement and posture. [GRID LAYOUT] Structured 4×4 panel grid (16 frames total), evenly spaced with thin black divider lines. Each panel is identical in size and clearly numbered from 1 to 16 to show a continuous dance progression. [CHARACTER] Use image1 as the base character. The same female dancer appears consistently across all panels with accurate likeness and proportions. [WARDROBE] The dancer wears a stylish, performance-ready outfit: a well-fitted top paired with a short, flowy skirt. The look should feel modern and visually appealing while still practical for dance movement. Fabric should subtly respond to motion (slight flow and folds), even in grayscale. [PANEL STRUCTURE – EACH FRAME] Top-left: Step number + short dance move title (e.g., “Step 5 – Spin Transition”) Center: Full-body pose capturing a precise moment in the choreography Bottom-left: 3–4 lines of concise instruction describing the move Overlay: Motion arrows and directional guides illustrating how the dancer transitions [MOTION INDICATORS] Incorporate curved arrows for fluid motion, straight arrows for directional steps, and circular indicators for spins or turns. Emphasize rhythm, weight shifts, and body isolation. [RENDER QUALITY] High-detail sculpted 3D style with smooth grayscale shading, subtle shadows, and clean linework. Maintain a polished, concept-art level finish with clarity in every pose. [RESTRICTIONS] No color, no background scenery, no extra characters, no visual clutter, only the dancer and instructional elements.
+```
+
+
+---
+
+## 例 359：Kids Relativity Infographic Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"children's educational infographic poster","topic":"{argument name=\"topic\" default=\"The Theory of Relativity\"}","subtitle":"{argument name=\"subtitle text\" default=\"Explained for Kids!\"}","style":"cute hand-drawn classroom infographic, bright pastel colors, rounded panels, white background, friendly doodle stars and sparkles, thick outlines, easy-to-understand visual metaphors, playful textbook poster design for elementary school children","format":"vertical poster","header":{"title":"The Theory of Relativity","subtitle":"Explained for Kids!","icons_count":3,"icons":["Earth globe","round clock","purple ringed planet"],"intro_box":{"left_figure":"cartoon Einstein with wild white hair, brown jacket, green vest, white shirt, raising one finger","text":"A long time ago, people thought that time was the same for everyone and space (like distance) was always the same too. Einstein had a new idea!"}},"layout":{"sections":[{"title":"1. The Big Idea","position":"upper left","count":1,"visuals_count":2,"visuals":["speech bubble with quote","smiling sun with rays"],"text":"Einstein said: \"The speed of light is always the same for everyone!\" No matter how fast you are moving, light (like from the sun or a flashlight) always travels at the same speed. That speed is about 300,000 km per second!","panel_color":"blue"},{"title":"2. Time is Relative","position":"upper right","count":2,"labels":["On Earth","On a Fast Rocket"],"visuals_count":4,"visuals":["child standing on Earth side","clock on Earth side","child inside red rocket with orange flame","clock on rocket side"],"text":"If you move very fast (close to the speed of light), time slows down for you! Left caption: 1 hour passes... Right caption: ...but less time passes for you!","panel_color":"green"},{"title":"3. Space is Relative (Length Changes)","position":"middle left","count":2,"labels":["normal train length when standing still","shorter-looking train when moving very fast"],"visuals_count":2,"visuals":["train at rest","stretched-motion train with speed lines"],"text":"If you move very fast, things can look shorter in the direction you're moving! Example: This train is its normal length when it's standing still. But when the train moves very fast... ...it looks shorter to someone watching!","panel_color":"purple"},{"title":"4. Why Does It Matter?","position":"middle right","count":3,"labels":["GPS","Space & Black Holes","Big and Small"],"visuals_count":3,"visuals":["satellite","spiral galaxy or black hole","atom symbol"],"text":"Relativity helps us understand the universe! It is used in: GPS — Satellites use relativity to give us the right location. Space & Black Holes — It helps scientists understand things in space. Big and Small — It connects with the weird world of very small particles too!","panel_color":"orange"}],"footer":{"title":"In short:","left_figure":"thoughtful cartoon boy with hand on chin and a thought bubble containing a yellow star","summary_text":"The faster you move (very, very fast), the slower time goes and the shorter things look! That's the magic of relativity!","right_note":"It's hard to see in everyday life, because we don't move that fast... yet!","extra_icon":"winking smiley face"}},"design_notes":{"section_count":4,"total_main_icons":12,"typography":"large playful handwritten title, rounded child-friendly sans serif body text","palette":["navy blue","sky blue","green","purple","orange","yellow","red","white"],"mood":"curious, cheerful, educational, kid-friendly"}}
+```
+
+
+---
+
+## 例 360：Cyberpunk Character Status Screen
+
+**来源：** awesome-gpt-image-2
+
+```text
+A cinematic anime-style futuristic surveillance status screen showing a full-body young man standing in the center of a dark industrial corridor, viewed from a slightly high angle as if captured by a security camera. He is a tall, lean, athletic male with messy silver-gray hair, pale skin, and a cool, dangerous presence, wearing a black sleeveless high-neck shirt, black tactical pants with straps and side pockets, a black belt with hanging chain details, heavy black combat boots, and a black jacket slipping off his shoulders. His expression is serious and unreadable, framed by a glowing scan bracket around the face like a live target lock. The overall image is a high-tech HUD dossier overlay in a blue-gray and black palette with subtle cyan interface lines, screen noise, scanlines, and a moody cyberpunk thriller atmosphere. The layout contains 10 distinct UI panels around the character: 1 top-left recording strip with a red REC indicator, timestamp, camera code, location, and video specs; 1 left upper identification panel labeled 観察対象 with subject data including codename Raven and ID; 1 left middle warning panel labeled 重要人物 with risk level A and other threat notes; 1 left lower basic profile panel labeled 基本情報 listing name, age, height, birth date, job, personality, likes, and dislikes; 1 bottom-left vital monitor panel labeled バイタルモニタ with 2 waveform graphs and numeric readouts for heart rate, temperature, and stress; 1 lower-left action log panel labeled 行動ログ with 6 timestamped entries; 1 large upper-right facial recognition panel labeled 顔認識ズーム showing 1 zoomed portrait crop, a match result for RAVEN, a 99.7% accuracy bar, and verified status; 1 right middle identification details panel labeled 識別情報 with ID, codename, affiliation unknown, and a paragraph of notes; 1 right lower target analysis panel labeled ターゲット分析 with 1 wireframe human figure and multiple stat lines including height, weight, body fat, muscle mass, combat ability, mobility, intelligence, danger level, and a large overall evaluation A+; 1 bottom-right current location panel labeled 現在位置 with 1 minimap floor plan, a glowing position dot, and camera label CAM-07. Add 1 bottom-center tracking progress bar reading TRACKING... at 97.6%, 1 bottom-left surveillance memo box labeled 監視メモ with 3 short bullet-style notes, and 1 bottom barcode strip with the code RX-0417-17 / TOP PRIORITY. Include small top-right system text such as SYSTEM ONLINE and SECURE LINK : OK. Use Japanese text throughout the interface, crisp thin-line sci-fi frames, layered transparent screens, realistic lighting on the character, and polished gpt-image-2 anime illustration quality, like a classified character status display for a covert operative named {argument name="character name" default="Raven"}.
+```
+
+
+---
+
+## 例 361：Professional Chinese Palmistry Analysis Chart
+
+**来源：** awesome-gpt-image-2
+
+```text
+Please generate a high-definition 3:4 ratio Chinese palmistry analysis chart based on the first palm photo I uploaded, combined with the layout style of the second reference image. Core Requirements: Please use the real palm in the first image as the main object of analysis, trying to preserve the original palm's shape, finger proportions, palm type, skin tone, palm line directions, and realistic texture. The second image is for visual style reference only: Refer to its Chinese metaphysics infographic style, cream-white background, brownish-red font, traditional calligraphy titles, red circular numbering, dotted guide lines, palm line markings, right-side text analysis column, and bottom comprehensive conclusion box. Do not copy the palm from the second image, do not copy watermarks, and do not include platform logos. Visual Style: Overall, create a high-end Chinese metaphysics style 'Palmistry Analysis Chart'. Image Ratio: 3:4. Quality: High-definition, clear details, suitable for posting on Xiaohongshu. Background: Cream-white rice paper texture, faint vintage texture. Main Colors: Dark brown, reddish-brown, light gold, cream-white. Font Style: Titles use Chinese calligraphy style, body text uses clear and readable Chinese Songti/Kaiti style. Overall Feeling: Professional, classical, clean, and high-end, like a palmistry analysis card issued by a traditional fortune-telling master. Title Design: Write the main title at the top: 'Palmistry Analysis Chart'. Write the subtitle: 'Traditional Palmistry · Yi Principles Reference · Trend Analysis'. Add a small red seal next to the title with the text: 'Heavenly Mystery'. Write small text at the bottom: 'For traditional culture and entertainment reference only'. Palm Annotation Requirements: Please use thin reddish-brown lines, dotted lines, dots, and numbers on the palm to mark the following 12 key points. Each number must clearly correspond to the analysis content on the right. 12 points to be marked: 1. Life Line, 2. Wisdom Line, 3. Heart Line, 4. Fate Line, 5. Sun Line, 6. Health Line / Mercury Line, 7. Marriage Line, 8. Mount of Venus, 9. Mount of Jupiter, 10. Mount of the Moon, 11. Thumb Spread / Willpower, 12. Finger Morphology and Palm Type. Annotation Requirements: Lines must fit the general direction of the actual palm lines in the first image, do not draw randomly. Numbers and text must not obstruct the main body of the palm. Dotted guide lines must be clear like a professional diagram. There should be reasonable annotations on the left side, right side, and inside the palm. The overall layout should be like the second image, with the palm analysis diagram on the left and text explanations on the right. Right-side Analysis Text Requirements: Please generate 12 Chinese analyses on the right, each corresponding to a number. The text style should be like an analysis combining traditional palmistry, I Ching, and TCM constitution; the language should be professional, have a sense of warning, and a sense of metaphysics, but not too exaggerated. Each item should be controlled within 2-4 lines with clear and readable text. Please use the following analysis content: 1. Life Line: The arc is large and overall continuous, suggesting the basic physical energy is not bad and recovery under pressure is strong; if the middle and later sections appear fragmented, it suggests periodic fatigue and lifestyle imbalance, so be careful of vitality exhaustion. 2. Wisdom Line: The line is long and slants slightly downward, indicating delicate thinking and strong perception, with observation and imagination in doing things; but it is also easy to overthink, leading to repeated internal conflict under emotional stress. 3. Heart Line: The length is fair; if there is a slight split at the end, it represents being serious and slow-to-warm in relationships, valuing both investment and spiritual compatibility; sensitive at heart, prone to disappointment due to high expectations. 4. Fate Line: The vertical line in the palm is faint, indicating the path in early years was not found in one step, relying more on self-exploration and accumulation; it becomes more stable later, belonging to a pattern of trial and error before finalizing. 5. Sun Line: The sun line is thin, reputation and sense of achievement are late-blooming, not an overnight explosion, but gradually seen through works, reputation, and professional ability. 6. Health Line / Mercury Line: This line is relatively hidden; according to traditional TCM concepts, it mostly suggests that spleen, stomach, sleep, and emotional management should be prioritized; once stressed or staying up late, fatigue and a sense of qi and blood deficiency easily appear. 7. Marriage Line: If there is more than one fine line on the side edge, it represents choices and considerations in emotional experiences, not settling down easily; true stability often comes from value compatibility after maturity. 8. Mount of Venus: The base of the thumb is relatively full, indicating a person who values affection and family, with strong vitality and affinity; it also shows that security and realistic warmth are viewed as quite important. 9. Mount of Jupiter: There is a certain rise below the index finger, representing ambition, self-requirement, and a sense of responsibility that is not low; suitable for organizational, driving, and coordinating roles in a team. 10. Mount of the Moon: The texture below the palm edge is soft, indicating that intuition, empathy, and aesthetic sense are not weak; rich imagination, suitable for content, aesthetics, and communication-related matters. 11. Thumb Spread / Willpower: The angle of the thumb opening is natural, representing a clear sense of independence and executive will; not a follower, once the direction is clearly thought out, often able to continue moving forward. 12. Finger Morphology and Palm Type: The overall palm shape is long and the fingers are slender, belonging to a type that is rational with feelings, valuing both experience and logic; does not like to be too rough in doing things, and financial fortune is more suitable for steady progress. Bottom Comprehensive Conclusion: Please design a classical framed information box at the bottom, with the title: 'Comprehensive Conclusion'. Content: • The overall pattern is upper-middle, with much exploration and change in the early years, gradually becoming clear and moving towards stable accumulation in the middle and later periods. • The character is rational and pragmatic with empathy, suitable for establishing value through professionalism, aesthetics, communication, or long-termism. • Relationships value sincerity and spiritual compatibility, slow-to-warm but committed, easier to gain stable relationships after maturity. • The most important recent focus is adjusting routine, emotions, and spleen/stomach; keep your state, and your fortune will be smoother. Layout Requirements: Left side: Enlarge the main body of the palm, occupying 55%-60% of the screen. Right side: Place 12 numbered analyses, occupying 35%-40% of the screen. Bottom: Place the comprehensive conclusion box. Text must be clear, with no garbled characters, no typos, and no distortion. All numbers, lines, titles, and body text must have a unified Chinese aesthetic. The overall image should look like a professional metaphysical analysis chart, not like a standard phone screenshot. Do not include English. Do not include watermarks. Do not change the basic shape of the original palm. Finally, output a high-definition 3:4 Chinese palmistry analysis poster.
+```
+
+
+---
+
+## 例 362：Personal Color Analysis Graphic Generator
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a {argument name="type" default="personal color analysis graphic"} using this portrait. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+
+---
+
+## 例 363：Advanced Technical Space Rocket Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a high-end technical infographic poster for {argument name="rocket name" default="[Space Rocket]"}. The poster should feature a large full-body cross-section in the center with all major components clearly visible, surrounded by detailed exploded views of each module: engine, battery, suspension, motor, drive unit, thermal system, steering system, chassis, electronics, interior systems, and structural frame. Style: clean background, ultra-fine engineering style, premium fonts, luxury product display, highly detailed specifications, collector-grade poster aesthetic, and cinematic artistic effects.
+```
+
+
+---
+
+## 例 364：Minimalist Educational Infographic Template
+
+**来源：** awesome-gpt-image-2
+
+```text
+A clean educational infographic poster explaining "{argument name="topic" default="Topic"}".
+[Overall Style]
+Modern minimalist UI style, background in soft light colors (e.g., cream #FAF7F2 / light gray-blue), restrained and comfortable color palette suitable for long reading sessions.
+[Core Requirements (Key)]
+Naturally organize content modules based on the information structure of the "topic". Do not force a fixed number or order of modules; prioritize clear logical information over formal symmetry.
+[Layout (Adaptive)]
+- Use grid layout (auto-select 2 columns / 3 columns / irregular distribution)
+- Card count adjusts based on content (usually 5–9)
+- High information density modules can be enlarged (higher visual weight)
+- Simple modules can be shrunk or merged
+[Card Design]
+- White cards (#FFFFFF)
+- Rounded corners + subtle shadows (soft layering)
+- Maintain uniform spacing and alignment
+[Each Information Module Includes]
+- Simple illustrations (unified style)
+- Clear headings (strong hierarchy)
+- 1–3 core explanatory sentences (avoid wordiness)
+- Examples / comparisons / summaries provided where necessary
+[Content Organization Principles (Emphasis)]
+Auto-select appropriate structure based on theme, e.g.:
+- Concept type → definition + principle + characteristics + example
+- Contrast type → A vs B (comparative structure)
+- Process type → steps / flowcharts
+- System type → components + relationships
+- Skill type → methods + tips + common mistakes
+[Visual Hierarchy]
+- Title > Module Title > Main Text > Supporting Information
+- Important info can be highlighted with color or icons
+[Color Suggestions]
+- Primary color: Choose based on theme (Tech=Blue, Learning=Green, Warning=Orange)
+- Secondary colors: 1–2 types suffice
+- Avoid high saturation and flashiness
+[Style Requirements]
+- Generous negative space, strong sense of "breathability"
+- Unified icons (linear or flat)
+- High readability as priority
+- Clear educational orientation
+[Extra Optimization (Optional)]
+- Can include: comparison blocks / process arrows / structure diagrams
+- Can have a "Core Summary" module as a visual finale.
+```
+
+
+---
+
+## 例 365：Chibi Kendo Anti-Harassment Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+A bold Japanese anti-harassment awareness poster in a cute but forceful chibi anime style, square social-media graphic composition. In the center, a super-deformed kendo character in full navy blue bogu armor is mid-swing with a shinai, charging forward dynamically. The helmet has a dark indigo men with white grill bars and a red inner rim, the torso armor is deep blue with a red do, and the waist apron has the white hiragana text "けんどう" plus a small pink cherry blossom emblem. The character is striking hostile purple spiky monster balls that represent bad behavior. Show exactly 4 monsters with expressive faces and large Japanese labels on their bodies: top right monster labeled "誹謗中傷", lower right monster labeled "嫌がらせ", lower left monster labeled "差別", and left monster labeled "悪口". Each monster is being knocked away or smashed with explosive yellow-orange impact bursts, scattered black debris, motion lines, dust, and sweat tears on some of the monsters. Add a comic speech bubble on the left side containing the Japanese text "みんなが気持ちよく楽しめる場所を守るよ！". At the top, place a huge energetic headline in Japanese with thick outlined lettering: dark navy text for "誹謗中傷は" and bright red text for "絶対に許さない！". At the bottom, add 2 lines of Japanese text: first line in bold dark blue "ルールを守って、みんなで最高のコミュニティにしよう！" and second line in bold red "違反行為は厳正に対処します。". Place one yellow warning triangle icon on the bottom left and one on the bottom right, exactly 2 total. Use a pale pink radial burst background with manga-style speed lines and light texture. Make the overall look clean, high-contrast, friendly, and motivational, like a polished community guidelines illustration for a {argument name="platform type" default="kendo"} community on social media, with thick white sticker-like outlines around major text and characters.
+```
+
+
+---
+
+## 例 366：Japanese Fashion Point Poster Edit
+
+**来源：** awesome-gpt-image-2
+
+```text
+Using REFERENCE_0, turn the photo into a soft feminine Japanese fashion-check infographic poster while keeping the same person, outfit, indoor window setting, and blurred face censorship. Create a scrapbook/editorial layout on a warm cream background with blush-pink and beige accents. Place the main full-body photo on the left as a slightly tilted printed snapshot with handwritten callouts. Add 4 circular close-up detail crops on the right showing: 1) neckline/chest area, 2) knit shoulder and sleeve texture, 3) waist and jeans area, 4) cardigan hem and pocket area. Add a small extra inset portrait near the bottom center using the same outfit and person in a casual leaning pose. Include Japanese magazine-style typography and decorative doodles throughout. The visible text should include these sections and labels: top headline 「このコーデの Fashion Point ♡」, ribbon subtitle 「ナチュラルに色っぽく見せる大人カジュアル」, right header 「POINT」, point labels 「Point 01」「Point 02」「Point 03」「Point 04」, left photo notes 「柔らかニットで女性らしい優しい印象に♡」「ナチュラルなのに視線を集める抜け感コーデ✨」, a tips box titled 「COORDINATION TIPS」 with 4 bullet lines, a box titled 「Instagrammable」 with 4 checklist lines, and a bottom tagline 「ナチュラルな色気と抜け感で、あなたらしい魅力を引き出して。」. For the point descriptions, write short Japanese copy praising the deep V-neck, soft knit, subtle midriff reveal, and basic color styling. Add small stars, hearts, sparkles, flowers, stitched lines, and a tiny camera icon. Make it look like a polished social-media fashion advice sheet, portrait orientation.
+```
+
+
+---
+
+## 例 367：Technical Cutaway Infographic Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+Create a premium technical infographic poster of 
+[{argument name="subject" default="CAR NAME"}], featuring a giant central full-body cutaway view with all main components visible, plus detailed exploded views of each module around it: engine, battery, suspension, motors, drive unit, thermal system, steering, chassis, electronics, interior systems, and structural frame.
+Clean background, ultra-detailed engineering style, premium typography, luxury product presentation, highly detailed specs, collector poster aesthetic, cinematic masterpiece.
+```
+
+
+---
+
+## 例 368：Bauhaus Pythagorean Theorem Poster
+
+**来源：** awesome-gpt-image-2
+
+```text
+{"type":"educational infographic poster","topic":"{argument name=\"topic\" default=\"勾股定理\"}","subtitle":"PYTHAGOREAN THEOREM","style":"Bauhaus-inspired mathematical explainer poster, clean editorial grid, cream paper background, bold black typography, primary color palette of red, blue, yellow, black, geometric accents, vector shapes, high-contrast print design","canvas":{"orientation":"landscape","aspect_ratio":"16:9"},"layout":{"grid":"multi-panel poster with thin black dividers","sections":[{"title":"header","position":"top-left spanning two rows","count":4,"labels":["large Chinese title","English subtitle","one-line Chinese theorem summary","4 color swatches"]},{"title":"一、定义","position":"left-center","count":3,"labels":["section heading","yellow formula box a² + b² = c²","right-triangle diagram labeled a b c"]},{"title":"二、历史","position":"bottom-left","count":3,"labels":["section heading","Chinese history paragraph","large blue semicircle accent"]},{"title":"BAUHAUS 1919-1933","position":"center-left vertical panel","count":6,"labels":["panel title","3 short Chinese descriptive lines","black rectangle","red circle with blue and yellow blocks"]},{"title":"main theorem diagram","position":"top-center","count":3,"labels":["large formula a² + b² = c² with a in red b in blue c in black","large right triangle","labels a b c on triangle"]},{"title":"四、证明方法：面积法","position":"top-right","count":4,"labels":["section heading","3 square dissection diagrams with colored corner triangles and central white square","1 separate c² square diagram with a and b side labels","Chinese proof text with final formula a² + b² = c² highlighted in red and blue"]},{"title":"五、勾股数","position":"center-bottom","count":7,"labels":["section heading","definition text","(3, 4, 5)","(5, 12, 13)","(8, 15, 17)","(7, 24, 25)","(9, 40, 41)"]},{"title":"dot lattice illustration","position":"right side of Pythagorean triples section","count":2,"labels":["black dot grid","ascending red and blue point pattern"]},{"title":"六、应用","position":"bottom-right","count":5,"labels":["section heading","测量距离","建筑工程","导航定位","计算机图形学"]},{"title":"application icons","position":"bottom-right row","count":4,"labels":["blue square with measuring tool line icon","red square with triangle ruler icon","yellow square with satellite dish icon","black square with computer monitor icon"]},{"title":"footer decorations","position":"bottom edge","count":4,"labels":["black horizontal stripes on left","large red block","large blue semicircle overlapping dark blue block","large yellow block with dotted corner motif on far right"]}]},"typography":{"title_style":"extra bold oversized Chinese characters in black","subtitle_style":"uppercase sans serif","body_style":"clean sans serif Chinese text, neatly aligned columns"},"colors":{"background":"warm cream","primary":["black","red","blue","yellow"],"formula_emphasis":{"a":"red","b":"blue","c":"black"}},"rendering":"flat vector infographic, crisp lines, print-poster aesthetic, balanced negative space, museum graphic design feel"}
+```
+
 
