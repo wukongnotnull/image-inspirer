@@ -1,7 +1,7 @@
 # 商品与电商 — 提示词合集
 
 
-> 54 个案例
+> 103 个案例
 
 ---
 
@@ -556,6 +556,9 @@ functions and usage scenarios
 
 **来源：** awesome-gpt-image-2
 
+![case314.jpg](images/case314.jpg)
+
+
 ```text
 {
   "type": "exploded view product diagram poster",
@@ -979,6 +982,9 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
 
+![case346.jpg](images/case346.jpg)
+
+
 ```text
 {
   "type": "e-commerce landing page hero section",
@@ -1029,6 +1035,9 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
 
+![case347.jpg](images/case347.jpg)
+
+
 ```text
 [中文]
 创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
@@ -1055,6 +1064,9 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 **来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
+![case348.jpg](images/case348.jpg)
+
+
 ```text
 [中文]
 照片级真实感的大胆美妆宣传活动，使用上传的模特作为精确的身份参考。不做面部改变，不做平滑处理。
@@ -1079,6 +1091,9 @@ Lighting: punchy commercial lighting with defined highlights and reflections, cr
 
 **来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
+![case349.jpg](images/case349.jpg)
+
+
 ```text
 [中文]
 超写实高端时尚商业广告大片，使用上传的模特照片作为严格的身份参考。保留精确的面部特征、比例和自然皮肤纹理——无修图，无变形。场景：珊瑚色单色工作室盒，配有光泽反光棋盘格或极简抛光地板。拥有柔和光线渐变的干净几何墙壁。产品：产品放置在前景中心超大位置，因广角透视而占据画面主导地位。包装超清晰，文字完全可读，具有逼真的反射和材质纹理。较小的产品单元可对称放置在背景中。模特姿势：站在产品后方，微蹲或前倾，一只手伸向镜头以创造深度感。强烈自信的表情，时尚态度。相机：低角度 24-35mm 镜头感，戏剧性透视畸变，对产品和模特都进行深焦处理。灯光：明亮的商业影棚灯光，柔和阴影，包装上有光泽高光，高端广告成片质感。4K–8K 写实主义，无水印，无嵌入式文本。纵横比 9:13
@@ -1097,6 +1112,9 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 ## 例 350：沉香玫瑰悬浮幻景
 
 **来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
+
+![case350.jpg](images/case350.jpg)
+
 
 ```text
 [中文]
@@ -1342,6 +1360,9 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
+![case351.jpg](images/case351.jpg)
+
+
 ```text
 生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
 ```
@@ -1352,6 +1373,9 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 
 **来源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
 
+![case352.jpg](images/case352.jpg)
+
+
 ```text
 PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
 PHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds
@@ -1359,6 +1383,1169 @@ PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and enviro
 PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes
 
 Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
+```
+
+
+---
+
+## 例 358：草莓能量饮料商业广告
+
+**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
+
+![case358.jpg](images/case358.jpg)
+
+```text
+A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
+
+Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
+```
+
+
+---
+
+## 例 365：科学家收藏级玩具发布板
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
+
+![case365.jpg](images/case365.jpg)
+
+```text
+2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
+```
+
+
+---
+
+## 例 370：Crumple Chair 概念沙发研发板
+
+**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
+
+![case370.jpg](images/case370.jpg)
+
+```text
+Design Concept: The Crumple Chair Core Philosophy: Translating the "controlled chaos" of a tossed paper ball into a sculptural, high-comfort seating experience.
+
+Stage 1: Observation & Morphological Analysis The goal is to deconstruct the image of the crumpled paper into usable geometric data. Crease Mapping: Identify the primary "valley" and "ridge" lines. These represent potential structural ribs or seams in the chair. Faceted Planes: Break down the sphere into a series of non-uniform polygons. Each flat surface of the paper becomes a potential panel for the chair’s upholstery or shell. Shadow Study: Analyze how the "tossed" form creates deep recesses. These natural pockets guide where the user’s weight will be cradled.
+
+Stage 2: Iterative Form Exploration Moving from a sphere to a seat through "Digital Crumpling." Subtractive Sculpting: Imagine the paper ball as a solid mass. Use Boolean operations to "carve out" a seating cavity that fits the human form while maintaining the external jagged texture. Tension Simulation: Use 3D software (like Rhino or Blender) to simulate a flat sheet of material being compressed. This ensures the folds look authentic and not "modeled." The "Toss" Logic: Experiment with gravity-based simulation dropping a digital mesh to see how it settles naturally, mimicking the "tossed" origin.
+
+Stage 3: Ergonomic Translation & Blueprinting Refining the raw aesthetic into a functional object. The Comfort Core: Overlay a standard ergonomic template (Seating Angle: 105°–110°) over the crumpled form. Adjust the internal "folds" to provide lumbar support and pressure relief. Blueprint Generation: Create technical orthographic views (Front, Side, Top). Map out the dimensions: Seat Height: 450mm Total Width: 850mm Surface Smoothing: Maintain the sharp "paper edges" on the exterior shell while softening the interior contact points for skin comfort.
+
+Stage 4: Structural Integration & Scaling Making the concept physically viable. The Skeleton: Design a hidden internal frame (likely CNC-bent steel rods or a 3D-printed lattice) that follows the most prominent ridges of the paper folds to provide rigidity. Material Selection: * Option A (High-End): Faceted, cast aluminum with a white powder coat. Option B (Soft): Vacuum-formed recycled plastic shell covered in "memory-fold" technical fabric that retains a wrinkled appearance.
+
+Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte, slightly porous finish to the material to mimic the tactile feel of heavy-bond paper. Lighting Contrast: Use directional studio lighting in the final renders to emphasize the "tossed" shadows, making the chair look like a giant piece of discarded inspiration. Design Tip: To keep the "tossed" look authentic, avoid symmetry. The most compelling aspect of a crumpled paper ball is its unique irregularity—ensure the left and right sides of the chair are balance-equivalent but not identical
+```
+
+
+---
+
+## 例 373：高端肉类海鲜品牌英雄图
+
+**来源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
+
+![case373.jpg](images/case373.jpg)
+
+```text
+一、品牌基础设定
+品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]
+品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]
+主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]
+字体风格：
+标题：[请填写，例如：金色衬线体，大写，奢华感]
+正文：[请填写，例如：细衬线体/无衬线体]
+二、核心视觉元素
+台面材质：[请填写，例如：大理石/黑色石板]
+背景调性：[请填写，例如：深色渐变/暗调餐厅环境]
+光线风格：[请填写，例如：聚光/侧光/顶部照明]
+三、主产品定义（必填）
+产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]
+产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]
+呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]
+产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]
+```
+
+
+---
+
+## 例 424：FMCG 棒棒糖霓虹广告
+
+**来源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149)
+
+![case424.jpg](images/case424.jpg)
+
+```text
+Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture.
+
+Scene: a giant glossy Chupa Chups lollipop floating above a vibrant Indian street at night, candy shards and liquid flavor bursts exploding outward mid-air.
+
+Environment: neon-lit urban backdrop inspired by Mumbai nightlife, glowing signage, reflective wet streets, colorful haze.
+
+Subject: oversized strawberry swirl lollipop as the hero object, ultra-detailed glossy texture, cinematic flavor splash motion.
+
+Visual storytelling: iconic Chupa Chups flower logo glowing subtly on wrapper, reflections visible on wet surfaces and candy syrup splashes.
+
+Composition: dramatic low-angle shot, giant centered product dominating frame, dynamic explosion spreading diagonally across billboard composition.
+
+Typography:
+top left — Chupa Chups logo.
+center massive — “UNWRAP THE FUN” ultra bold playful typography.
+behind product (oversized layered text) — “LICK / SPIN / REPEAT”.
+mid-left — “FLAVOR THAT POPS.” bold condensed font.
+bottom left — “STRAWBERRY BURST · GLOBAL ICON · 2026 EDITION”.
+bottom right — “http://chupachups.com”.
+left vertical edge — “FUN · FLAVOR · CANDY CULTURE”.
+
+Typography style: playful bold sans-serif, glossy layered opacity, oversized billboard scale.
+
+Color palette: vibrant reds, yellows, pinks, neon orange accents, glossy candy textures.
+
+Lighting: dramatic neon backlight with glowing highlights and candy reflections.
+
+Atmosphere: sugar particles, mist, syrup splashes, floating candy dust.
+
+Mood: energetic, youthful, addictive, vibrant.
+
+Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG billboard style, 4:5 portrait.
+```
+
+
+---
+
+## 例 438：珠宝微缩城市广告海报
+
+**来源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
+
+![case438.jpg](images/case438.jpg)
+
+```text
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
+
+
+---
+
+## 例 441：WILDCAMP 巨型帐篷广告海报
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
+
+![case441.jpg](images/case441.jpg)
+
+```text
+An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
+```
+
+
+---
+
+## 例 449：奢华机械腕表技术图鉴
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
+
+![case449.jpg](images/case449.jpg)
+
+```text
+2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+class Haute_Horlogerie_DNA:
+    def __init__(self):
+        self.subject = "[TIMEPIECE]"
+        self.parents = {
+            "composition_parent": "Exploded movement diagram with transparent case",
+            "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+            "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+            "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+        }
+        self.mutations = {
+            "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+            "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+            "medium_mutation": "Smooth matte premium paper with embossed logo",
+            "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+        }
+        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+    def generate_subject(self):
+        subject = """
+        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+        and strap float in perfect alignment against a bright, clean background.
+        Every gear and spring is highlighted with exacting clarity.
+        """
+        return render(
+            subject,
+            format="luxury watch advertisement with technical insert",
+            title="[MODEL REFERENCE]",
+            subtitle="[MANUFACTURE / COLLECTION]",
+            constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+        )
+```
+
+
+---
+
+## 例 454：旅行美食薯片广告海报
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+
+![case454.jpg](images/case454.jpg)
+
+```text
+Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
+
+A cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].
+
+Floating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.
+
+Include only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:
+- taking photos
+- exploring landmarks
+- sitting on floating chips
+- riding local transport
+- observing scenery
+- walking through the swirl paths
+
+Include authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].
+
+Background should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.
+
+Elegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.
+
+Composition rules:
+- one dominant centered chips packet
+- floating ridged potato chips throughout composition
+- one continuous upward spiral motion
+- landmarks layered vertically
+- miniature people sparse and intentional
+- no duplicate landmarks
+- no overcrowding
+- clean premium hierarchy
+- cinematic storytelling through scale contrast
+- premium advertising composition matching high-end chips commercials
+```
+
+
+---
+
+## 例 455：巨型舒适洞洞鞋 Campaign
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
+
+![case455.jpg](images/case455.jpg)
+
+```text
+Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
+
+Backdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading "STEP INTO EASE" stretched vertically, partially tucked behind the subject.
+
+Lighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.
+
+Composition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.
+
+Small minimal copy at the bottom: "Designed for all-day comfort. Made to move with you."
+
+Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.
+```
+
+
+---
+
+## 例 462：复古日系迷你橡皮商品包装
+
+**来源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
+
+![case462.jpg](images/case462.jpg)
+
+```text
+添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
+
+■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。
+
+■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」
+
+■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
+
+■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
+
+■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾
+
+■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記
+
+■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
+
+■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置
+
+■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感
+
+■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ
+
+■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔
+
+■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷
+
+■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度
+```
+
+
+---
+
+## 例 470：本地生活小店异形展架
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364)
+
+![case470.jpg](images/case470.jpg)
+
+```text
+《餐饮异形展架/立牌物料》提示词：
+
+请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
+
+【基础信息】
+品牌名：【品牌名】
+主标题：【主标题】
+副标题：【副标题】
+辅助短句：【短句1】｜【短句2】｜【短句3】
+主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】
+主色调：【主色调】
+辅助色：【辅助色】
+点缀色：【点缀色】
+画幅比例：【建议 3:4 竖版】
+
+【产品内容】
+主推产品：【主推产品】
+辅助产品1：【辅助产品1】
+辅助产品2：【辅助产品2】
+辅助产品3：【辅助产品3】
+辅助产品4：【辅助产品4】
+加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】
+
+【卖点标签】
+【卖点1】
+【卖点2】
+【卖点3】
+【卖点4】
+【卖点5】
+【卖点6】
+
+【促销信息】
+【促销信息1】
+【促销信息2】
+【促销信息3】
+
+【最重要要求】
+避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”：
+- 背景必须为纯白色
+- 画面中只保留一个完整的异形餐饮立牌主体
+- 不要餐厅环境
+- 不要商场背景
+- 不要玻璃门、桌椅、墙面、人物、地面透视场景
+- 不要任何真实空间背景
+- 立牌主体必须完整显示
+- 异形轮廓必须完整清晰
+- 底座必须完整露出
+- 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图
+
+【画面形式】
+这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。
+整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。
+立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。
+
+【构图结构】
+整体采用竖版、中心聚焦、信息分层清楚的结构：
+
+1. 顶部区域：
+放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。
+字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。
+标题是整张图的第一视觉焦点。
+
+2. 中部核心区域：
+中间放最大主推产品，作为主视觉主体。
+主菜必须最大、最饱满、最诱人，突出食欲感。
+围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。
+
+3. 周边信息区域：
+在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。
+但要控制层级，做到“热闹但不乱”。
+
+4. 底部促销区域：
+底部放价格信息、套餐信息、活动信息或新品尝鲜信息。
+价格数字要相对突出，易读清晰。
+如果没有特别要求，默认不要二维码。
+
+【视觉风格要求】
+整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”：
+- 强调食欲感
+- 强调信息可读性
+- 强调商业落地感
+- 强调门店物料感
+- 强调异形轮廓感
+
+避免极简杂志海报、电商详情页、纯平面插画海报方向。
+
+【食物表现要求】
+所有食物必须采用真实商业美食摄影质感：
+- 食物清晰真实
+- 有食材颗粒感
+- 有酱汁、汤汁、油光、热气、层次感
+- 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等
+- 主食要饱满，不能扁平
+- 看起来必须“能激发食欲”
+禁止过度插画化、卡通化、低质拼贴化。
+
+【版式与信息层级】
+整张立牌的阅读顺序应为：
+主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息
+
+信息量可以较丰富，但必须有明确层级：
+- 主标题最大
+- 主菜次大
+- 辅助菜稍小
+- 卖点标签较小
+- 底部促销清晰醒目
+
+【适配范围】
+该模板需要适用于不同主题餐饮内容，例如：
+- 面 / 饭 / 粉 / 小吃
+- 火锅 / 菌汤 / 地方菜
+- 轻食 / 沙拉 / 咖啡简餐
+- 早餐 / 套餐 / 快餐
+- 茶饮 / 甜品 / 下午茶
+- 节日促销 / 新品上市 / 爆品推荐 / 双人套餐
+
+【输出要求】
+请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件：
+- 白色背景
+- 完整异形轮廓
+- 完整底座
+- 只展示立牌本体
+- 不带真实场景环境
+- 不带人物
+- 不带门店背景
+- 默认不带二维码
+- 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
+```
+
+
+---
+
+## 例 475：企鹅造型包装结构板
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664)
+
+![case475.jpg](images/case475.jpg)
+
+```text
+Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
+```
+
+
+---
+
+## 例 485：时尚目录电商拼贴
+
+**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
+
+![case485.jpg](images/case485.jpg)
+
+```text
+Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
+```
+
+
+---
+
+## 例 517：杯内鱼眼夏日冰饮广告
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375)
+
+![case517.jpg](images/case517.jpg)
+
+```text
+主題：
+氷越しの夏
+
+主体：
+縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
+
+人物・表情：
+自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。
+
+服装・ポーズ：
+白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。
+
+背景・光：
+背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。
+
+構図・カメラ：
+カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。
+
+質感・スタイル：
+プロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。
+
+ネガティブ：
+実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
+```
+
+
+---
+
+## 例 519：薄荷玫瑰香水电商图
+
+**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893)
+
+![case519.jpg](images/case519.jpg)
+
+```text
+100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
+```
+
+
+---
+
+## 例 532：六宫格柠檬饮料微缩广告
+
+**来源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
+
+![case532.jpg](images/case532.jpg)
+
+```text
+Create a Cannes-level premium summer beverage campaign poster for a fictional lemon drink brand called "LIMORA", using a strict 2-column by 3-row grid layout with six perfectly aligned panels. Preserve the exact structural logic of the composition: each panel shows the same tiny ultra-realistic young woman on a bright sandy beach interacting with oversized lemons, lemon slices, lemon juice, or the final branded drink, while selected panels include a giant realistic human hand entering from above. The full poster must feel like one unified high-end advertising storyboard in motion, where the eye flows continuously from fresh citrus fruit to crafted beverage desire. The lemon product world must remain the absolute visual hero across all six panels.
+
+Overall composition:
+Use a clean six-panel grid with thin white dividers, equal panel proportions, consistent horizon line, consistent beach-ocean background, and unified lighting. Every panel should feel self-contained yet rhythmically connected, as if six consecutive scenes from the same luxury summer commercial were frozen at their most iconic moments. Keep the miniature woman and the oversized lemon-related object centered in each frame, with the sea softly blurred in the background and the sand sharply rendered in the foreground. The full page must read instantly from a distance, with strong commercial clarity and polished editorial control.
+
+Orbit visual flow:
+Design the entire set around one strong circulation of motion from panel 1 to panel 6. The action should escalate visually: touch, recline, squeeze, travel, embrace, taste. Use repeating directional rhythms in hair movement, arm gestures, leg angles, juice droplets, spoon angle, lemon slice placement, straw tilt, and the position of the entering hand so the eye naturally sweeps across the poster in a flowing wave. Build subtle diagonal energy inside every panel, making the citrus world feel alive, breezy, sparkling, and in motion. The whole set should feel like summer energy orbiting around the brand’s lemon drink.
+
+Narrative panel sequence:
+Panel 1: the tiny woman hugs a giant whole lemon on the sand while a giant adult hand descends from above, delicately positioning the lemon. Her pose is lively and slightly off-balance, as if the scene has just begun.
+Panel 2: she reclines elegantly inside a halved lemon as though it were a luxury beach chaise, wearing dark sunglasses and holding a tiny parasol drink pick, while a floating lemon slice is lowered from above like a radiant citrus sun.
+Panel 3: a giant hand squeezes a vertically cut lemon from above, sending translucent juice streams and droplets downward in a sparkling arc. The woman reacts dynamically beneath it, arms raised, body tilted, caught in the middle of the citrus action.
+Panel 4: she rides in a small refined wooden cart piled with lemons, being pulled by a whimsical premium lemon-shaped creature or rolling lemon harness. The cart must feel physically grounded, artisanal, and stylish rather than cartoonish.
+Panel 5: the hero climax panel. A tall branded LIMORA lemonade glass dominates the frame, packed with ice cubes, lemon slices, pale sparkling liquid, condensation, a fresh green straw, and a refined cocktail umbrella. The tiny woman hugs the cold glass joyfully, and this panel must be the strongest product-selling moment in the entire composition.
+Panel 6: she sits inside a halved lemon while a large polished spoon descends from above carrying glossy lemon sorbet or crushed lemon ice, creating a final delicious serving beat with playful anticipation.
+
+Hero product focus:
+The real hero is the lemon beverage system: whole citrus fruit, sliced fruit, squeezed juice, ice, sparkling drink, sorbet, and premium serving details. Every lemon must feel hyper-real, fragrant, sunlit, juicy, and tactile, with detailed skin pores, subtle waxy oil sheen, translucent membranes, wet cut surfaces, and bright natural citrus pulp. The branded glass in panel 5 must be the most visually dominant product object in the set, with crystal-clear glass, refined original English branding reading "LIMORA", elegant condensation, premium ice refraction, and luminous pale-yellow drink clarity.
+
+Character design:
+Depict one recurring ultra-realistic miniature young woman across all six panels, wearing the same fitted green floral mini dress and white sandals, with long dark wavy hair and naturally expressive features. She must look like a real scaled-down human placed into a surreal oversized citrus world. Keep anatomy coherent and believable in every frame: correct head-to-body proportion, realistic shoulders, collarbones, arms, waist, hips, thighs, knees, calves, ankles, and feet, with perfectly formed hands and five fingers clearly visible. Her expressions should shift panel by panel: surprised delight, relaxed confidence, playful alarm, exhilaration, joyful refreshment, amused anticipation. Skin must remain photorealistic with pores, natural tonal shifts, faint knee and elbow texture, realistic skin elasticity, and no plastic AI beauty finish.
+
+Lighting:
+Use bright premium seaside daylight with a soft upper-left sun direction and gentle atmospheric diffusion. Maintain luminous fresh summer lighting across all six scenes, with short, soft-edged shadows and crisp dimensional highlights. Juice droplets, lemon pulp, ice cubes, spoon edges, sunglasses, glass rim, and condensation should all catch clean sparkling highlights. Lighting must feel luxurious, refreshing, and physically consistent from panel to panel.
+
+Materials:
+Lemons: ultra-detailed peel pores, subtle dimpling, natural rind thickness, glistening wet pulp, believable cut translucency, realistic juice behavior.
+Drink glass: high-clarity premium glass, accurate refraction, heavy base, condensation beads, crisp logo print, ice transparency, sparkling carbonated liquid feel.
+Sorbet and juice: glossy, semi-translucent, cold, wet, appetizing, physically accurate.
+Dress: lightweight summer cotton with tiny green floral print, natural wrinkles, fabric tension, and wind-responsive edges.
+Hair and skin: realistic strands, fine flyaways, natural shine, believable skin texture.
+Large hand: realistic adult fingers, soft skin compression, natural nails, coherent scale perspective.
+Cart and props: refined warm wood grain, polished wheels, believable joints and harness elements.
+Beach environment: fine sunlit sand with miniature footprints and pressure marks, soft shoreline blur, clean turquoise sea with pale foam.
+
+Color system:
+Build the palette around lemon yellow, fresh citrus green, turquoise sea, pale sky blue, warm beach beige, crisp white highlights, and restrained natural skin tones. Yellow must remain the dominant hero color, supported by green and turquoise. Keep the image bright, appetizing, summery, clean, and internationally commercial. Avoid random accent colors.
+
+Typography and branding:
+Do not copy any text from the sample. Keep typography minimal and original. Place refined English branding only on the hero glass and optionally a tiny campaign line below the full grid, such as: "LIMORA — Bright in Motion". Typography must feel premium, modern, minimal, and secondary to the visual storytelling.
+
+Art direction:
+Hyper-real premium surreal advertising photography, luxury FMCG campaign, storyboard energy, elegant humor, cinematic micro-world illusion, high-end beverage styling, global summer launch poster, polished magazine-grade finish, sharp product realism, strong narrative rhythm, premium brand coherence.
+
+Negative prompt:
+copied text, Chinese text, existing brand names, cartoon style, toy-like figure, grotesque oversized head, deformed anatomy, extra fingers, missing fingers, fused fingers, twisted wrists, broken limbs, distorted feet, AI plastic skin, over-smoothed skin, fake citrus texture, unrealistic juice physics, muddy lemon pulp, cloudy glass, weak product focus, inconsistent lighting, inconsistent horizon, messy grid, cluttered props, meme aesthetic, cheap humor, childish illustration, low-resolution detail, oversaturated colors, dead black patches, distorted giant hand perspective
+```
+
+
+---
+
+## 例 543：旅行纪念珐琅徽章
+
+**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
+
+![case543.jpg](images/case543.jpg)
+
+```text
+Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
+
+Subject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the original spatial relationship and scale between the figure and the surroundings.
+
+How to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing.
+
+Styling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle.
+
+Background: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame.
+
+Avoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.
+```
+
+
+---
+
+## 例 544：Industrial Packaging Design Sheet
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063735848257167383) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case544.jpg](images/case544.jpg)
+
+```text
+Full prompt: 
+
+Using the attached image, create a professional industrial packaging design illustration sheet.
+
+Feature a centered hero 3D render with realistic materials, soft studio lighting, and commercial-grade finish quality. Surround the hero render with technical views: front, side, top, bottom, angled perspective, and flat layout.
+
+Include structural construction sketches, fold lines, seam details, and dimension arrows with measurements in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) using handwritten-style annotations. Add color swatches, realistic product illustrations, and subtle shadows.
+
+Background should resemble clean sketchbook paper, combining realistic rendering with pencil sketch overlays. Modern industrial design aesthetic, ultra-detailed, portfolio-ready presentation.
+```
+
+
+---
+
+## 例 545：E-commerce Main Image - Luxury Amber Perfume Ad
+
+**来源：** [@Polanco_IA](https://x.com/Polanco_IA/status/2047689647967609037) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case545.jpg](images/case545.jpg)
+
+```text
+A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name="brand label" default="N°5 CHANEL PARIS PARFUM"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass with a large transparent crystal stopper, filled with rich amber-gold perfume that glows from within. Tiny condensation droplets cover the glass, adding texture and realism. Dramatic warm lighting from the upper left creates golden highlights, deep reflections on the marble, and a soft luminous bloom in the background. Wisps of elegant smoke curl around the bottle on both sides, enhancing a moody high-end advertisement feel. Dark background, shallow depth of field, ultra-detailed studio product photography, luxury beauty campaign aesthetic, crisp focus on the bottle, realistic reflections, warm black-and-gold color palette. Add a small white {argument name="corner logo" default="Pollo.ai"} in the top-right corner. Square composition, premium commercial ad, photorealistic, high contrast, refined and sophisticated.
+```
+
+
+---
+
+## 例 546：E-commerce Main Image - Skincare Product Studio Shot
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2047636636847231222) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case546.jpg](images/case546.jpg)
+
+```text
+A soft {argument name="bottle color" default="cream-colored"} bottle with a {argument name="pump color" default="pastel yellow"} pump stands on a matte podium, surrounded by silky foam and {argument name="flowers" default="chamomile blossoms"}. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.
+```
+
+
+---
+
+## 例 547：E-commerce Main Image - Industrial Design Presentation Sheet
+
+**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2047627860752621647) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case547.jpg](images/case547.jpg)
+
+```text
+Core Subject: [{argument name="reference" default="use the uploaded image"}, keep the details, typography and structure locked 100%]
+
+Layout & Composition: A {argument name="presentation type" default="professional industrial design presentation sheet"}. The image should be organized into a clean grid system.
+
+Top Row: A 3x3 layout showing top-down flat lay views and close-up macro details of materials.
+
+Middle Section: Three hero shots of the product standing upright in different color ways (Matte Black, Arctic White, and accented variants). The products should be slightly tilted to show depth and form.
+
+Bottom Section: A dynamic "floating" composition featuring two products overlapping at opposing angles to showcase the front and side profiles simultaneously.
+
+Environment & Lighting: Set against a minimalist, neutral studio gray background. Soft top-down lighting with realistic contact shadows. High-end product photography aesthetic.
+
+Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for "Placeholder Branding" and "Graphic Mockups." 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.
+```
+
+
+---
+
+## 例 548：E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo
+
+**来源：** [@dynamicwangs](https://x.com/dynamicwangs/status/2047580984342925545) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case548.jpg](images/case548.jpg)
+
+```text
+A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.
+```
+
+
+---
+
+## 例 549：E-commerce Main Image - Luxury Perfume Ad on Marble Vanity
+
+**来源：** [@MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2047555836252151831) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case549.jpg](images/case549.jpg)
+
+```text
+A luxury e-commerce advertising photo of a premium perfume bottle on a polished gray-and-white marble vanity, shot in a warm cinematic studio style with soft golden lighting, shallow depth of field, and elegant reflections. The composition is square and high-end, with the perfume bottle centered slightly right of frame and promotional text on the left. The bottle is a tall sculpted hourglass-shaped glass flacon with smoky transparent gray glass fading darker at the base, a glossy gold spherical cap, a gold collar engraved with fine branding, and a large metallic gold interlocking monogram on the front. Keep the branding-inspired feel but do not add extra products. In the foreground left, include 1 cut-crystal bowl with a gold rim, partially cropped. In the background right, include 1 brushed gold cylindrical vase holding 1 bouquet of soft white flowers, blurred. Behind the bottle, add 1 black marble rectangular box with subtle white veining and gold trim. In the lower right foreground, include 1 draped piece of champagne-colored satin fabric, softly out of focus. The background should be dark, luxurious, and softly blurred, with rich brown-black tones and a vertical shadowed panel on the left to support typography. Add elegant serif headline text on the upper left reading {argument name="headline text" default="Premium Perfume,"} in large warm beige letters, with a smaller serif subheading beneath reading {argument name="tagline" default="Subtlety and Elegance"}, plus a thin short gold horizontal line below the subheading. Place a small white logo in the top-right corner reading {argument name="brand logo" default="Pollo.ai"}. Emphasize premium materials, realistic glass refraction, gold metallic highlights, luxury product photography, refined composition, soft bokeh, and upscale beauty-ad aesthetics.
+```
+
+
+---
+
+## 例 550：E-commerce Main Image - 9-Panel Product TVC Storyboard
+
+**来源：** [@Magncsans](https://x.com/Magncsans/status/2047876253898903594) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case550.jpg](images/case550.jpg)
+
+```text
+Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text “产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)” and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
+```
+
+
+---
+
+## 例 551：Premium product studio shot template
+
+**来源：** [@PrometheanAIX](https://x.com/PrometheanAIX/status/2049141839882522707) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case551.jpg](images/case551.jpg)
+
+```text
+Create a premium product studio image of a [PRODUCT] for [BRAND], designed in line with [BRAND REFERENCE]. Show the [PRODUCT] floating against a clean light gray to soft white gradient background with a minimal high-end tech aesthetic. The [PRODUCT] should feel sleek, modern, refined, and premium, with subtle illuminated accents in [LIGHTING COLOR]. Use a three-quarter front angle so both earcups are visible, with detailed industrial design elements. Include the [BRAND] name cleanly on the product. Lighting should be soft, controlled, and editorial, with crisp highlights, soft shadows, and a subtle colored rim light or glow in [LIGHTING COLOR]. Emphasize material realism and clean geometric forms. Keep the background uncluttered and minimal. No extra props, no people, no text overlays, no packaging, and no distracting elements. Focus entirely on the [PRODUCT] as the hero product.
+```
+
+
+---
+
+## 例 552：Premium food photography template
+
+**来源：** [@PrometheanAIX](https://x.com/PrometheanAIX/status/2049122713722106161) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case552.jpg](images/case552.jpg)
+
+```text
+Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden board. The dish should look hot, glossy, spicy, and freshly served, with bite-sized pieces of browned protein, dried red chilies, green scallions, white onion, garlic, chili flakes, and visible Sichuan peppercorns coated in a deep red, oily Szechuan sauce. Use a slightly elevated close-up camera angle with shallow depth of field. Make the food the clear hero of the image, centered and richly detailed. Add visible steam rising naturally from the dish. Surround the bowl with subtle restaurant-style props like a dark red tray, scattered dried chilies, peppercorns, a small sauce bowl, or a blurred teapot in the background. Lighting should feel warm, moody, and editorial, like a high-end restaurant food shoot. Emphasize realistic textures and keep the image appetizing, realistic, cinematic, and polished. Avoid text, logos, hands, people, utensils covering the food, cartoon styling, fake plastic textures, excessive symmetry, or an overly clean stock-photo look.
+```
+
+
+---
+
+## 例 553：Döner Commercial Food Photography Set
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063094917774086510) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case553.jpg](images/case553.jpg)
+
+```text
+prompt:
+
+8K UHD hyper-realistic commercial food photography, 3:4 aspect ratio. 6 scenes, each on its own solid or gradient background:
+
+Scene 1, Döner slice explosion: Traditional Turkish döner (beef and lamb mix), paper-thin ribbons spiraling outward mid-air, white garlic sauce and red chili sauce splashing, fresh parsley leaves floating. Deep crimson red background.
+
+Scene 2, Dürüm wrap floating: Premium dürüm cut in half and floating vertically, cross-section revealing döner meat, lettuce, tomatoes, onions layered inside, white garlic yogurt sauce drizzling elegantly, subtle spice particles drifting. Warm terracotta orange background.
+
+Scene 3, Sauce pour drama: Mound of freshly sliced döner with crispy charred edges, thick creamy garlic yogurt sauce pouring from above frozen mid-flow, spicy red chili sauce drizzling alongside in thin crimson streams, sliced tomatoes and parsley below, heat vapor rising. Dark charcoal black background.
+
+Scene 4, Deconstructed composition: Toasted lavash bread pieces, döner slices, tomato slices, lettuce leaves, and onion rings all suspended separately at varying heights, glossy sauce ribbons connecting elements artistically, ultra-fine spice dust in the air. Muted sage green background.
+
+Scene 5, Rotating spit close-up: Extreme close-up of vertical döner tower on spit, large döner knife frozen mid-slice, fresh slice falling away, charred bits and seasoning particles in air, heat vapor rising from the fresh cut. Rich golden amber background.
+
+Scene 6, Overhead plate explosion: Top-down view, all ingredients bursting upward in circular pattern, döner slices, french fries, grilled peppers and tomatoes, fresh parsley, sumac, lemon wedges, sauce droplets spraying, elements at varying heights with some rotating. Deep burgundy red background with vignette.
+
+Global: controlled studio lighting emphasizing meat texture and char marks, shallow to medium depth of field, rich contrast, warm savory tones, natural shine, appetizing color grading. No text, logos, people, hands, cartoon style, or plastic-looking food.
+```
+
+
+---
+
+## 例 554：Plush Soda Can Product Shot
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063261665207239055) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case554.jpg](images/case554.jpg)
+
+```text
+prompt:
+
+A soda can featuring the label [BRAND NAME], constructed entirely from soft, colorful plush material, centered against a matching plush background in [BRAND NAME]'s brand colors.
+
+Pop Art and Memphis-inspired style, vibrant and premium at the same time.
+
+Crisp studio lighting that highlights every fiber, the plush texture, and the tactile softness of the material.
+
+Razor-sharp focus, vivid color saturation, clean shadows, sleek commercial product photography, minimalist composition, ultra-high resolution.
+```
+
+
+---
+
+## 例 555：VOLT Goal Celebration Ad
+
+**来源：** [@RuzainaMeer](https://x.com/RuzainaMeer/status/2063513621754491039) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case555.jpg](images/case555.jpg)
+
+```text
+Prompt 1:
+A high-energy commercial product advertisement for VOLT Energy Drink. A beautiful young woman in her mid-20s, wearing a green and white football jersey, is caught in a euphoric goal celebration — arms wide open, head thrown back, screaming with pure joy. She is holding a sleek VOLT Energy Drink can in one raised hand, electric blue liquid splashing dramatically around it. Stadium packed with roaring fans, golden confetti raining down, floodlights blazing. Bold text "FEEL THE VOLT" in electric yellow. Cinematic lighting, photorealistic commercial quality, 9:16 vertical format.
+
+Prompt 2:
+A beautiful young woman in a green and white football jersey is sitting in a packed stadium, casually drinking from a sleek VOLT Energy Drink can. Suddenly a goal is scored — she explodes into euphoric celebration, jumping up, arms wide open, screaming with pure joy, still holding the VOLT can high in the air. Electric blue liquid splashes dramatically around the can in slow motion. Golden confetti rains down from above. Camera starts wide on stadium, pushes in close on her face mid-celebration, then pulls back to reveal VOLT can glowing with electric blue energy trails and sparks. Bold text "FEEL THE VOLT" flashes on screen at the end. Sound: stadium ambient noise building → crowd erupting into massive roar at goal moment → electric bass hit when VOLT can is revealed → crowd cheer fading out. Cinematic quality, slow-motion moments mixed with real-time, 9:16 vertical format, 15 seconds.
+```
+
+
+---
+
+## 例 556：Lightning Storm Supercar Ad
+
+**来源：** [@iamrealsnow](https://x.com/iamrealsnow/status/2063649073819959502) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case556.jpg](images/case556.jpg)
+
+```text
+Sports Car Made of Lightning
+Prompt: Supercar emerging from a storm cloud, body formed entirely from blue lightning bolts, wet reflective road, thunder exploding in background, cinematic action advertising, high-speed energy trails, ultra-detailed automotive render, luxury commercial photography, 8K.
+```
+
+
+---
+
+## 例 557：Luxury Jewelry Contrast Campaign
+
+**来源：** [@aziz4ai](https://x.com/aziz4ai/status/2063737218003333288) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case557.jpg](images/case557.jpg)
+
+```text
+Use the uploaded image as the one and only product reference. Preserve the jewelry exactly as it is, with high fidelity to its original design, shape, proportions, gemstone arrangement, metal tone, craftsmanship, setting, texture, and identity. Do not redesign, simplify, or alter the jewelry itself in any way. Keep the product accurate, luxurious, and instantly recognizable.
+
+Create an extraordinary luxury jewelry campaign image where the product is the absolute visual hero. Build a bold, artistic, and premium scene around it that feels cinematic, elegant, and visually unforgettable. The result must never feel like a basic catalog shot or a repetitive product render.
+
+For every generation, create a different visual concept so the outputs do not look similar to one another. Vary the composition, environment, supporting element, texture, background structure, framing, angle, and styling approach each time. Each image should feel unique, fresh, and creatively elevated while still maintaining a refined luxury identity.
+
+Include one or more strong supporting natural or tactile elements that help frame and enhance the jewelry, such as a branch, hand, leaf, stone, bark, flower petal, sand texture, silk fold, glass reflection, water ripple, smoke, shell, or sculptural organic form. These elements should not distract from the product, but should artistically support it and make it feel more premium, emotional, and visually magnetic.
+
+Use color contrast intelligently. Place the jewelry within a scene that uses an opposite or contrasting color tone to make the piece stand out strongly, while still keeping the palette harmonious, tasteful, and luxurious. The contrast should feel intentional and sophisticated, never random or harsh. The product must pop clearly from the scene through contrast in color, texture, light, or material.
+
+Use strong visual hierarchy, elegant negative space, and a striking focal composition that makes the jewelry dominate the frame. The product should feel iconic, powerful, and highly desirable. Emphasize macro-level detail, realistic sparkle, gemstone brilliance, polished metal reflections, fine craftsmanship, prongs, edges, texture, and premium material depth.
+
+Lighting should be cinematic and refined, with soft directional light, controlled highlights, elegant shadows, subtle rim light, atmospheric glow, and beautiful depth. Use shallow depth of field and macro product-photography aesthetics to keep the jewelry crisp and visually commanding.
+
+The final image should feel like a world-class luxury editorial ad from a top creative studio: visually bold, highly refined, emotionally captivating, and far beyond ordinary product photography.
+
+Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, weak framing, visual clutter, cheap styling, generic catalog presentation, text, watermark, and logos.
+```
+
+
+---
+
+## 例 558：Miniature Brand Universe Shoe
+
+**来源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2064034557352202253) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case558.jpg](images/case558.jpg)
+
+```text
+A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
+```
+
+
+---
+
+## 例 559：Romantic Smartphone Couple Scene Product Shot
+
+**来源：** [@hmontilla_](https://x.com/hmontilla_/status/2065072437398589669) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case559.jpg](images/case559.jpg)
+
+```text
+Create a cozy cinematic romantic scene featuring two black smartphones standing vertically on a rustic wooden table, positioned side by side and slightly angled inward. Each phone displays a video call.
+
+On the left phone screen, show a smiling young woman with long brown hair, light skin, wearing a cream knitted sweater and a beige winter beanie with a pom-pom. She is looking warmly toward the other phone while raising her hand to form one half of a heart shape.
+
+On the right phone screen, show a smiling young man with light skin, subtle facial hair, wearing a gray winter beanie and a denim jacket with a soft shearling collar. He is looking toward the woman while raising his hand to form the other half of the heart shape.
+
+The hands from both screens should visually meet in the center between the two phones, creating a perfect heart shape, symbolizing long-distance love and connection.
+
+Set the scene in a warm indoor room during golden hour, with a large softly blurred window in the background, subtle potted plants, a cozy coffee mug, soft knitted fabric, floating dust particles, and warm cinematic bokeh lights. Use shallow depth of field, realistic glass reflections, soft rim lighting, warm amber highlights, and natural wooden table textures.
+
+Include minimal video-call UI elements on each phone screen: small video camera icon, green call button, microphone icon, and a subtle white home indicator bar. Keep the UI clean, modern, and realistic.
+
+Style and quality:
+
+Ultra-realistic cinematic digital art, premium lifestyle photography aesthetic, cozy winter romance mood, warm golden-hour sunlight, soft atmospheric haze, realistic skin texture, realistic knit fabric, detailed phone reflections, elegant composition, sharp focus on phones and faces, dreamy romantic bokeh, high-end editorial visual quality.
+
+Aspect ratio: 1:1 square composition.
+
+Negative prompt:
+
+Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic reflections, blurry faces, messy composition, unreadable UI, fake lighting, harsh shadows, low resolution, overexposed highlights, warped phones, text errors, AI artifacts, plastic skin, unnatural facial expressions.
+```
+
+
+---
+
+## 例 560：Spicy Chili Chutney Product Shot
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2068032837610356989) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case560.jpg](images/case560.jpg)
+
+```text
+Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
+```
+
+
+---
+
+## 例 561：Levitating Food Photography Set
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2067851560168931394) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case561.jpg](images/case561.jpg)
+
+```text
+A professional studio food photography series showcasing deconstructed dishes captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the ingredients burst and float in dynamic formations. Featured dishes include a suspended tiramisu with its components (scoops of gelato, ladyfingers, mascarpone cream, and coffee beans) hovering in the air, borscht elements (beets, rye bread slices, fresh herbs) floating above a ceramic bowl of soup resting on a wooden board, and a sourdough toast topped with mashed avocado and a runny poached egg caught mid-split. Fine details like flying crumbs, spice particles, scattered herbs, and liquid droplets should be razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements.
+```
+
+
+---
+
+## 例 562：SQL Collectible Toy Packaging Grid
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2063254078269137330) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case562.jpg](images/case562.jpg)
+
+```text
+SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Grid' AND targets = ARRAY['[IP_1]', '[IP_2]', '[IP_3]', '[IP_4]'] AND quadrant_structure = ARRAY[     (Zone: 'Left_Column', Material: 'Printed_Cardboard', Content: 'Massive_Typography_Title_And_Inferred_Creator_Metadata'),     (Zone: 'Center_Stage', Material: 'confection candy', Content: 'infer_main_character_and_diorama(target)'),      (Zone: 'Right_Column', Material: 'Transparent_Glossy_Vacuum_Plastic_Blister_Pack', Content: 'infer_three_iconic_props(target)_As_3D_Miniatures_With_Text_Labels') ] AND color_grading = 'Vintage_Retro_Palette_Matching_Inferred_IP_Era' AND camera = 'Product_Photography_Front_Orthographic_View';
+```
+
+
+---
+
+## 例 563：Luxury Miniature Dubai City Model
+
+**来源：** [@silentempiredev](https://x.com/silentempiredev/status/2048086378383384773) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case563.jpg](images/case563.jpg)
+
+```text
+A hyper-detailed cinematic isometric miniature city model of {argument name="landmark tower" default="Burj Khalifa"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one dominant ultra-tall silver skyscraper in the exact center, surrounded by a dense ring of modern high-rise towers, illuminated roads, bridges, and glowing warm city lights. Curving turquoise-blue water features and artificial lakes wrap around the central district in multiple connected pools and canals, with one large circular fountain-like feature near the tower base and several small island shapes visible in the water. In the lower right quadrant, include a large low-rise complex with rounded geometric roofs and subtle green-lit sections, connected by multilane roads and looping interchanges. The entire city sits on one square beige map board engraved with faint street grids and planning lines, with the board edges clearly visible and slightly raised. Viewpoint is a high three-quarter isometric angle, centered and symmetrical, with the tower extending far upward into negative space. Lighting is dramatic and luxurious: warm golden edge lights on buildings and roads, cool reflections in the water, crisp metallic highlights on the central tower, and a deep black void surrounding the model. Style should feel like a photorealistic architectural visualization mixed with a premium collectible scale model, extremely intricate, sharp, polished, and elegant.
+```
+
+
+---
+
+## 例 564：Luxury chocolate campaign system
+
+**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049459155086500321) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case564.jpg](images/case564.jpg)
+
+```text
+Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”
+```
+
+
+---
+
+## 例 565：Energy Drink Stadium Ad
+
+**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2055570197973799376) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case565.jpg](images/case565.jpg)
+
+```text
+Ultra realistic premium product advertising shot of a sleek aluminum energy drink can standing upright on a wet reflective surface inside a futuristic football stadium at night. The can design features vivid swirling rainbow brushstroke patterns in red, orange, yellow, green, and blue wrapping around the entire can, with a large glossy black and white soccer ball graphic in the center. Bold white distressed typography on the front reads “GOAL” with smaller clean modern text below saying “ENERGY DRINK”. Tiny premium icon details for energy, focus, and endurance near the bottom, along with “250 ml”.
+
+The can is covered in realistic cold water droplets and condensation, highly detailed metallic texture, cinematic reflections, ultra sharp focus, luxury beverage commercial aesthetic, professional studio lighting.
+
+Background filled with explosive colorful powder smoke clouds in blue, red, orange, green, and yellow bursting dramatically behind the can, combined with glowing football stadium floodlights, floating particles, water splashes, sparks, mist, and bokeh light effects. Dark moody environment with intense contrast and neon glow atmosphere.
+
+Composition centered and symmetrical, low angle hero shot, shallow depth of field, hyper realistic, cinematic color grading, ultra detailed advertising photography, sports branding campaign aesthetic, IMAX quality, 8k resolution, volumetric lighting, premium commercial product render, high energy dynamic mood.
+```
+
+
+---
+
+## 例 566：Luxury Watch Dramatic Beam Product Shot
+
+**来源：** [@meng_dagg695](https://x.com/meng_dagg695/status/2065078841765458040) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case566.jpg](images/case566.jpg)
+
+```text
+A luxury watch emerges from darkness. Extreme macro shot of ticking gears and moving hands. Golden sparks and floating particles surround the watch. The camera circles the timepiece while dramatic light streaks reflect across the sapphire crystal. Slow-motion water splash freezes in midair around the watch. Mechanical components assemble themselves automatically. Cinematic black-and-gold environment, premium commercial lighting, ultra-realistic reflections, luxury lifestyle advertisement, powerful orchestral atmosphere, smooth camera motion, product hero shot, brand reveal, Hollywood-level commercial, 8K photorealism.
+```
+
+
+---
+
+## 例 567：Invisible Shield Sunscreen Ad
+
+**来源：** [@iamrealsnow](https://x.com/iamrealsnow/status/2066200217347854445) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case567.jpg](images/case567.jpg)
+
+```text
+SUNSCREEN AD, “THE INVISIBLE SHIELD”
+
+Luxury skincare advertising masterpiece, a colossal premium sunscreen bottle standing on a pristine tropical shoreline at golden hour, powerful beams of sunlight crashing down from the sky and splitting apart upon contact with a transparent protective energy dome radiating from the sunscreen, millions of sparkling UV particles dissolving into golden dust before reaching flawless skin, crystal clear ocean reflections, flowing water suspended in mid air around the product, microscopic droplets catching cinematic sunlight, ultra realistic textures revealing every detail of the bottle surface, luxury beauty campaign aesthetics, dramatic volumetric lighting, glowing atmospheric haze, premium white and gold color palette, futuristic protection technology visualized as elegant light waves, hyper detailed environment, commercial photography perfection, award winning advertising design, photorealistic rendering, 16K ultra resolution, global skincare brand campaign, masterpiece quality.
+
+Text Overlay:
+SUNSCREEN
+
+Tagline:
+“Protect Every Ray. Reveal Every Glow.
+```
+
+
+---
+
+## 例 568：Coconut Paradise Skincare Ad
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2067445760325734734) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case568.jpg](images/case568.jpg)
+
+```text
+Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
+```
+
+
+---
+
+## 例 569：Reverse-Assembly Product VFX
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2067399156596175345) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case569.jpg](images/case569.jpg)
+
+```text
+[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
+```
+
+
+---
+
+## 例 570：Grape Reveal Can Product Shot
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2067750180724855280) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case570.jpg](images/case570.jpg)
+
+```text
+Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
+```
+
+
+---
+
+## 例 571：Ray-Ban Giant Aviator Ad
+
+**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2068024611074367579) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case571.jpg](images/case571.jpg)
+
+```text
+Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”
+```
+
+
+---
+
+## 例 572：Noir Elixir Perfume Ad
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069238367792112016) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case572.jpg](images/case572.jpg)
+
+```text
+Ultra-cinematic luxury fragrance advertising photography of "NOIR ÉLIXIR – Midnight Reserve" perfume bottle. Faceted geometric crystal bottle with sharp elegant edges, deep smoked black gradient glass, polished reflective surfaces with subtle matte facets. Magnetic brushed gold metal cap with engraved emblem. Minimal serif typography etched directly into glass with gold inlay. Dark amber liquid with golden undertones.
+
+Bottle floats mid-air at a dramatic diagonal hero angle with slight forward tilt. Atomized perfume mist trails and fluid fragrance ribbons suspended in motion. Background: deep black velvet gradient fading into shadow. Surrounding elements: atomized perfume droplets suspended mid-air, shattered crystal glass fragments catching highlights, dark orchid petals drifting slowly, glossy black citrus peel curls, fine gold dust particles sparkling in light. Micro condensation beads and polished reflections enhancing realism.
+
+Lighting: dramatic low-key studio with soft directional key light sculpting glass facets, strong rim lights outlining silhouette and edges, gold-toned specular highlights on cap and engraved details, deep cinematic shadows, high contrast with controlled reflections and luminous highlights.
+
+Color palette: obsidian black, smoked charcoal, deep amber with metallic gold and warm champagne glow accents.
+
+Macro cinema prime lens, shallow depth of field isolating product from background, smooth cinematic bokeh from reflective particles, extreme micro-detail clarity. 8K ultra high definition, hyper-realistic luxury commercial render, accurate glass refraction and internal reflections, physically accurate fluid dynamics, ultra-detailed crystal, metal, mist, and micro-droplet textures. Vertical 4:5 aspect ratio.
+```
+
+
+---
+
+## 例 573：Glossier Brand World Collage
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069120574287392978) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case573.jpg](images/case573.jpg)
+
+```text
+Act as a world-class creative director, brand strategist, and editorial art director with deep expertise in high-impact campaign systems for global brands.
+
+Create a bold, visually explosive, densely layered editorial moodboard collage that captures an entire brand identity system in a single frame. The result should feel raw, expressive, and intentionally chaotic, like a brand world exploding on the canvas.
+
+BRAND INPUTS:
+
+BRAND NAME: GLOSSIER
+PRODUCT TYPE: beauty / skincare
+PRIMARY COLOR: soft pink
+SECONDARY COLOR: white
+ACCENT: translucent gloss
+PERSONALITY: fresh, minimal, youthful, clean
+SLOGAN: SKIN FIRST
+
+COMPOSITION:
+
+Build a dense, overlapping collage that mixes:
+
+• real product photography and lifestyle imagery
+• packaging elements: bags, boxes, labels, stickers
+• typography snippets and brand phrases
+• hand-drawn doodles and illustrated graphics
+• icons, symbols, and badge / stamp elements
+• abstract blobs, squiggles, and starbursts
+• UI-style cards, menus, and label panels
+• editorial cutouts layered with depth
+
+The layout should feel:
+
+• asymmetrical, not grid-based
+• intentionally messy but visually balanced
+• like a Pinterest board crossed with a high-end campaign shoot
+• expressive, youthful, and saturated with brand identity
+
+VISUAL EXECUTION:
+
+Include elements such as:
+
+• product packaging mockups (bags, boxes, tags)
+• a lifestyle shot of someone interacting with the brand
+• bold headline typography blocks
+• illustrated objects interacting with real photography
+• merch items: t-shirt, tote bag, cap
+• playful graphic overlays and brand-consistent texture
+
+COLOR RULES:
+
+• strictly adhere to the brand palette
+• dominant use of soft pink throughout
+• white for contrast and layering
+• avoid introducing off-brand colors
+• high contrast and visually commanding
+
+TYPOGRAPHY:
+
+• mix of editorial serif and clean sans-serif
+• bold headlines paired with small UI-style text
+• brand name and slogan integrated naturally into the layout
+
+FINAL FEEL:
+
+This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
+```
+
+
+---
+
+## 例 574：Monumental Timepiece Fashion Ad
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069387162425205211) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case574.jpg](images/case574.jpg)
+
+```text
+Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
 
 

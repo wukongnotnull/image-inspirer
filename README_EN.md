@@ -4,7 +4,7 @@
 
 <br>
 
-> **668+ battle-tested GPT-Image2 image prompt case library, covering 13 major categories — your inspiration source and creative reference for AI image generation**
+> **1538+ battle-tested GPT-Image2 image prompt case library, covering 13 major categories — your inspiration source and creative reference for AI image generation**
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
@@ -152,21 +152,21 @@ Install this skill: https://github.com/wukongnotnull/image-inspirer
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
-| UI & Interface | 122 | App UI, web pages, livestream screenshots, components |
-| Posters & Layout | 91 | Commercial posters, movie posters, event posters, covers |
-| Other Applications | 82 | Creative composites, fun scenarios, crossover mashups |
-| Illustration & Art | 78 | Anime, Chinese ink, watercolor, doodle, sci-fi |
-| Infographics & Data Viz | 76 | Infographics, flowcharts, exploded diagrams, data visualization |
-| Photography & Realism | 55 | Portraits, product photography, fashion editorials |
-| E-commerce & Products | 54 | Product hero images, detail pages, product ads |
-| Characters & Roles | 36 | Character design, cards, action breakdowns |
-| Branding & Logos | 21 | Logo design, brand visuals, icon fonts |
-| Architecture & Space | 17 | Interior design, architectural renders, city scenes |
-| Scenes & Narrative | 14 | Cinematic scenes, story frames, storyboards |
-| Historical & Ancient Styles | 13 | Dynastic styles, historical figures, Chinese chic |
-| Documents & Publications | 9 | Magazine layouts, menus, newspapers, textbooks, notes |
+| UI & Interface | 161 | App UI, web pages, livestream screenshots, components |
+| Posters & Layout | 344 | Commercial posters, movie posters, event posters, covers |
+| Other Applications | 94 | Creative composites, fun scenarios, crossover mashups |
+| Illustration & Art | 206 | Anime, Chinese ink, watercolor, doodle, sci-fi |
+| Infographics & Data Viz | 149 | Infographics, flowcharts, exploded diagrams, data visualization |
+| Photography & Realism | 258 | Portraits, product photography, fashion editorials |
+| E-commerce & Products | 103 | Product hero images, detail pages, product ads |
+| Characters & Roles | 65 | Character design, cards, action breakdowns |
+| Branding & Logos | 51 | Logo design, brand visuals, icon fonts |
+| Architecture & Space | 36 | Interior design, architectural renders, city scenes |
+| Scenes & Narrative | 37 | Cinematic scenes, story frames, storyboards |
+| Historical & Ancient Styles | 14 | Dynastic styles, historical figures, Chinese chic |
+| Documents & Publications | 20 | Magazine layouts, menus, newspapers, textbooks, notes |
 
-**Total: 668 battle-tested cases, each with a finished image reference**
+**Total: 1538 battle-tested cases, each with a finished image reference**
 
 ---
 

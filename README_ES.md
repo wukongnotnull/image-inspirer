@@ -4,7 +4,7 @@
 
 <br>
 
-> **668+ casos de prompts de imagen GPT-Image2 verificados en combate, cubriendo 13 categorías principales — tu fuente de inspiración y referencia creativa para la generación de imágenes con IA**
+> **1538+ casos de prompts de imagen GPT-Image2 verificados en combate, cubriendo 13 categorías principales — tu fuente de inspiración y referencia creativa para la generación de imágenes con IA**
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-orange.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
@@ -152,21 +152,21 @@ Instalar este skill: https://github.com/wukongnotnull/image-inspirer
 
 | Categoría | Cant. | Descripción |
 |-----------|:-----:|-------------|
-| UI e Interfaces | 122 | UI de apps, páginas web, capturas de streaming, componentes |
-| Pósters y Maquetación | 91 | Pósters comerciales, de cine, de eventos, portadas |
-| Otras Aplicaciones | 82 | Composiciones creativas, escenas divertidas, mashups |
-| Ilustración y Arte | 78 | Anime, tinta china, acuarela, garabato, sci-fi |
-| Infografía y Visualización | 76 | Infografías, diagramas de flujo, despieces, visualización de datos |
-| Fotografía y Realismo | 55 | Retratos, fotografía de producto, editoriales de moda |
-| E-commerce y Productos | 54 | Imágenes principales, páginas de detalle, anuncios de producto |
-| Personajes y Roles | 36 | Diseño de personajes, cartas, desgloses de acción |
-| Branding y Logos | 21 | Diseño de logos, visuales de marca, fuentes de iconos |
-| Arquitectura y Espacio | 17 | Diseño de interiores, renders arquitectónicos, escenas urbanas |
-| Escenas y Narrativa | 14 | Escenas cinematográficas, marcos de historia, guiones gráficos |
-| Estilos Históricos y Antiguos | 13 | Estilos dinásticos, figuras históricas, chic chino |
-| Documentos y Publicaciones | 9 | Maquetación de revistas, menús, periódicos, libros de texto, notas |
+| UI e Interfaces | 161 | UI de apps, páginas web, capturas de streaming, componentes |
+| Pósters y Maquetación | 344 | Pósters comerciales, de cine, de eventos, portadas |
+| Otras Aplicaciones | 94 | Composiciones creativas, escenas divertidas, mashups |
+| Ilustración y Arte | 206 | Anime, tinta china, acuarela, garabato, sci-fi |
+| Infografía y Visualización | 149 | Infografías, diagramas de flujo, despieces, visualización de datos |
+| Fotografía y Realismo | 258 | Retratos, fotografía de producto, editoriales de moda |
+| E-commerce y Productos | 103 | Imágenes principales, páginas de detalle, anuncios de producto |
+| Personajes y Roles | 65 | Diseño de personajes, cartas, desgloses de acción |
+| Branding y Logos | 51 | Diseño de logos, visuales de marca, fuentes de iconos |
+| Arquitectura y Espacio | 36 | Diseño de interiores, renders arquitectónicos, escenas urbanas |
+| Escenas y Narrativa | 37 | Escenas cinematográficas, marcos de historia, guiones gráficos |
+| Estilos Históricos y Antiguos | 14 | Estilos dinásticos, figuras históricas, chic chino |
+| Documentos y Publicaciones | 20 | Maquetación de revistas, menús, periódicos, libros de texto, notas |
 
-**Total: 668 casos verificados, cada uno con imagen de referencia**
+**Total: 1538 casos verificados, cada uno con imagen de referencia**
 
 ---
 

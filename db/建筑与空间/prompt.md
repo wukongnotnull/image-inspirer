@@ -1,7 +1,7 @@
 # 建筑与空间 — 提示词合集
 
 
-> 17 个案例
+> 36 个案例
 
 ---
 
@@ -345,6 +345,9 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
 
+![case129.jpg](images/case129.jpg)
+
+
 ```text
 [中文]
 9:16 竖版 — 杂志人像，单一主体  柔和的黑色迷雾滤镜，微妙的薄雾，柔和的高光泛光，柔和的色调  极简的室内空间，干净的背景，轻微的纹理  年轻韩国女性，淡妆，自然的皮肤纹理  服装：贴身的罗纹针织上衣或柔软的吊带背心叠穿在宽松衬衫下，搭配高腰短裤或裙子；面料轻微贴合身体曲线，柔软自然，无暴露元素  头发：略显凌乱，自然的蓬松度  姿势：坐在地板上，一条腿弯曲，另一条腿放松，身体微微倾斜，肩膀不对称，头部倾斜  构图：主体略微偏离中心，存在留白  表情：平静，略显疏离，自然的嘴唇  光线：柔和的侧光，温和的阴影衰减  氛围：低调，安静，通过自然的身体线条展现微妙的性感，放松且非摆拍  画质：细腻颗粒，轻微的柔和感，写实外观
@@ -358,6 +361,9 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 ## 例 130：昏暗室内纯真少女的意外回眸
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
+
+![case130.jpg](images/case130.jpg)
+
 
 ```text
 [中文]
@@ -393,6 +399,9 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
 
+![case131.jpg](images/case131.jpg)
+
+
 ```text
 [中文]
 模拟35毫米胶片摄影，柔和轻盈的日系美学，温柔漫射的自然窗户光，轻微过曝，柔和色调，低对比度，柔和的高光，靠近窗户配有白色窗帘的极简室内环境，干净的浅色墙壁，自然构图，平视视角，略微紧凑的全身取景（大腿中部到头部），年轻东亚女性，自然极简妆容，柔和真实的皮肤纹理，长长的微乱黑发，超大号白色纽扣衬衫，浅色休闲短裤，赤脚，简单放松的造型，自然站立姿势放松，双臂自然下垂或略微放在身后，面朝镜头，温柔柔和的微笑，微妙的静止感，专注于光线、空气和安静的日常氛围，柔和的胶片颗粒，梦幻而低调的氛围 --ar 9:16
@@ -406,6 +415,9 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ## 例 132：琉璃透明画眉鸟飞舞羊城墨卷
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
+
+![case132.jpg](images/case132.jpg)
+
 
 ```text
 [中文]
@@ -491,6 +503,9 @@ ratio 9:16
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
 
+![case133.jpg](images/case133.jpg)
+
+
 ```text
 [中文]
 极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。
@@ -513,6 +528,9 @@ Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-whit
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
+![case134.jpg](images/case134.jpg)
+
+
 ```text
 [中文]
 以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
@@ -531,6 +549,9 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
 
+![case135.jpg](images/case135.jpg)
+
+
 ```text
 [中文]
 一位时尚年轻女子坐在老式复古巴士的前缘，身穿红色长风衣、羊毛无檐小便帽、圆形蓝色反光太阳镜、叠层项链和粗犷的棕色皮靴。她有着波浪状金发，带着自信而梦幻的表情，仰望天空。巴士漆面剥落，呈青绿色与铁锈红色调。明亮清澈的蓝天，城市背景建筑极少，柔和日光，电影级色彩分级，浅景深，高端时尚旅行氛围，编辑摄影，超写实，4K分辨率，锐利对焦，自然肌肤质感，戏剧性构图，电影静帧美学。
@@ -545,8 +566,429 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
+![case136.jpg](images/case136.jpg)
+
+
 ```text
 生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
+```
+
+
+---
+
+## 例 381：90 年代公寓场景参考板
+
+**来源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888)
+
+![case381.jpg](images/case381.jpg)
+
+```text
+{
+  "type": "scene reference board — 90s apartment living room, cinematic night",
+  "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality",
+  "layout": {
+    "main_panel_center_left": {
+      "label": "CAMERA A — FRONT VIEW",
+      "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain."
+    },
+    "main_panel_center_right": {
+      "label": "CAMERA B — REVERSE VIEW",
+      "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow."
+    },
+    "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery",
+    "top_right_inset": "SOURCE REF thumbnail — original photo",
+    "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM"
+  },
+  "background": "deep charcoal #1a1a1a, thin white separators",
+  "dimensions": "wide landscape 3:1, high resolution"
+}
+```
+
+
+---
+
+## 例 411：极简建筑地标海报
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
+
+![case411.jpg](images/case411.jpg)
+
+```text
+Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
+```
+
+
+---
+
+## 例 489：城市地图微缩旅行海报
+
+**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
+
+![case489.jpg](images/case489.jpg)
+
+```text
+Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
+
+Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered.
+
+Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama.
+
+Aspect ratio 1:1.
+```
+
+
+---
+
+## 例 490：Heliotropic Architecture Board
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2055773537257034007) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case490.jpg](images/case490.jpg)
+
+```text
+16:9 autonomous kinetic architecture, the heliotropic tracking mechanics of [aerospace/solar tracking array] shaping an adaptive, luxury [outdoor architectural structure], sequence from [astronomical/solar path diagrams] to [robotic kinematic wireframes] to a programmable louvre abstraction to the final architectural installation, ai to infer smart-motor integration and weather-responsive materials utilizing [material 1] and [material 2], featuring time-lapse shadow projection diagrams, [aesthetic style] aesthetic, presentation layout: solar path charts at the top, robotic hinge details in the margins, stunning photorealistic architectural render below, [lighting style].  input: [deep space network satellite dish array], [smart kinetic patio pergola], [equatorial solar trajectory mapping], [multi-axis pivoting joint schematics], [photovoltaic-coated tinted glass], [extruded matte bronze aluminum], [contemporary silicon valley billionaire estate], [golden hour sunlight casting intricate geometric shadows]
+```
+
+
+---
+
+## 例 491：Architectural Product Catalog Page
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2066447564132745574) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case491.jpg](images/case491.jpg)
+
+```text
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+
+---
+
+## 例 492：Ancient Civilization Miniature Diorama
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2054221110372405534) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case492.jpg](images/case492.jpg)
+
+```text
+A highly detailed miniature diorama of an ancient civilization under construction, displayed directly on top of large rolled-out architectural blueprints spread across a realistic wooden drafting table. The scene features iconic historical architecture from [CIVILIZATION OR LOCATION], including partially completed monuments, temples, towers, walls, palaces, streets, or ceremonial structures at different stages of construction. Tiny craftsmen, builders, engineers, and workers interact naturally throughout the scene using historically accurate tools, scaffolding, ramps, cranes, carts, stone blocks, timber frameworks, and construction platforms.
+The miniature terrain blends seamlessly into the printed engineering drawings beneath, combining realistic sand, stone, earth, marble, vegetation, or desert textures with visible architectural floor plans, elevation sketches, measurements, annotations, and cross-sections. Surrounding the workspace are drafting instruments, compasses, rolled parchment plans, books, rulers, brass weights, candles, maps, carving tools, and historical reference materials that enhance the workshop atmosphere.
+Soft cinematic lighting with warm natural sunlight from a nearby window, shallow depth of field, ultra realistic textures, handcrafted museum-quality scale model aesthetic, intricate miniature detailing, photoreal materials, atmospheric realism, editorial architectural photography style, clean composition, immersive world-building, vertical composition, extremely high detail, realistic shadows, authentic historical mood.
+```
+
+
+---
+
+## 例 493：Isometric Landmark Diorama
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2065737739589615987) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case493.jpg](images/case493.jpg)
+
+```text
+Generate an isometric miniature 3D diorama of [COUNTRY NAME]'s iconic [FAMOUS STRUCTURE] landmark from a 45-degree top-down perspective.
+
+Use clean soft textures and realistic PBR materials with balanced, natural lighting. The elevated base features surrounding streets, landscape elements, and cultural details unique to the structure. Include tiny stylized figures of locals and tourists with detailed facial features.
+
+Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold text at the top center with [STRUCTURE NAME] on the next line, followed by a minimal architecture icon below. Adjust text color to ensure contrast.
+```
+
+
+---
+
+## 例 494：Wind-Up Miniature World
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2066192943887630372) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case494.jpg](images/case494.jpg)
+
+```text
+create a charming but ultra-refined scene centered on [wind-up toy / mechanical miniature world] where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for [main scene], [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on [mood], hyper-detailed miniature realism, no watermark. variables: [wind-up toy / mechanical miniature world], [main scene], [secondary scene], [moving prop], [character action], [secret detail / easter egg], [mood]
+```
+
+
+---
+
+## 例 495：Jellyfish City Above the Dunes
+
+**来源：** [@92digitalartArt](https://x.com/92digitalartArt/status/2066176419038683562) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case495.jpg](images/case495.jpg)
+
+```text
+The Jellyfish City Above the Dunes
+
+On a desert world too hot to live on, entire cities float just above the dunes—built from colossal jellyfish that weave their own architecture in the sky.
+
+Soft solarpunk alien vibes, no horror.
+
+Prompt below for anyone exploring gentle alien worlds.
+
+PROMPT:
+
+A serene daylight scene on an alien desert planet, wide cinematic shot of a floating city made from enormous translucent jellyfish creatures drifting just above endless dunes; each jellyfish (Aeromedusae) is house‑sized, with a bulbous semi‑transparent dome filled with pale turquoise gas, long trailing tendrils weaving together into suspended walkways, platforms and hammock‑like membranes that form an aerial village; nacreous plates and chitin ribs have grown along their undersides to create skeletal arches and open “rooms,” shimmering with opalescent highlights; several Aeromedusae cluster together in a loose line, casting soft, organic shadows on the sand below; tiny silhouettes of ground caravans with insect‑like vehicles and fabric canopies move through the dunes, clearly dwarfed by the floating city overhead; distant rusted anchor towers and cables rise from the sand, hinting at a human or alien attempt to tether these living buildings; palette of warm sand beige, pale turquoise, dusty coral and soft white, with high noon sunlight, subtle heat haze and gentle lens bloom; the camera sits at a medium distance, slightly low angle, capturing both the jellyfish city and the ground caravans in one frame, 35mm lens, peaceful solarpunk‑like atmosphere, painterly yet detailed, no horror, one frame from a larger alien desert universe.
+
+NEGATIVE PROMPT:
+human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyberpunk neon, dark horror tone, gore, tentacle monster cliché, cheap sci-fi armor, guns, war scene, cartoon, anime chibi, bad anatomy, cluttered composition, oversaturated colors, heavy bloom, low detail, blurry image, noisy grain, HUD, UI, readable text, watermark, logo, plastic toy look, realistic Earth desert animals, Earth buildings, spaceships dogfighting
+```
+
+
+---
+
+## 例 496：Isometric Machine Cutaway Diorama
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069014486707798113) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case496.jpg](images/case496.jpg)
+
+```text
+Generate a crisp isometric 3D diorama at a 45° top-down angle revealing the interior of [MACHINE / DEVICE] as a miniature cutaway model.
+
+Apply smooth refined surface textures, physically-based (PBR) materials, and sharp clean technical lighting.
+
+Build a raised platform exposing internal parts, circuitry, mechanical gears, or energy pathways.
+Add tiny stylized worker figures interacting with the equipment (omit facial details).
+
+Set against a flat solid [BACKGROUND COLOR] background.
+
+Position [MACHINE NAME] in large bold typography at the top-center, followed by a concise technical tagline, with a minimalist engineering icon placed just below.
+
+All text color must automatically adapt for maximum contrast against the background (white or black as needed).
+```
+
+
+---
+
+## 例 497：写实感人物竖版照片
+
+**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2057371613059002495) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case497.jpg](images/case497.jpg)
+
+```text
+生成一张 9:16 竖版写实感人物照片，参考高级手机自拍质感，但不要完全普通生活照。整体像是用 iPhone 前置摄像头在温馨卧室中拍摄的精致自拍，保留柔和美型、干净构图和自然高级感。画质为真实手机照片质感，有轻微噪点、轻微柔焦和自然光感，但人物依然精致、漂亮、肤质自然干净，不要变成粗糙低质照片。
+
+画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。
+
+人物拥有浅蓝色或冰蓝色长发，发丝自然蓬松，有轻微凌乱感，部分头发垂落在脸侧和肩颈周围。人物保持精致写实美型，脸型柔和自然，五官清秀，皮肤白皙但不过度磨皮，可保留少量真实肤质纹理、细小毛孔、轻微肤色不均和几处很淡的小黑痣，但整体仍然干净、柔和、好看。不要明显暗沉，不要粗糙脏感。
+
+人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。
+
+背景为温馨卧室，有床铺、浅色床品、木质床头柜、暖黄色床头灯、窗帘和柔和室内光。背景轻微虚化，保留真实居家空间感。光线为室内暖光与自然光混合，略微偏暖，画面柔和、亲密、生活化，但保持干净高级。
+
+整体风格：写实手机自拍、高级自然美型、轻微 iPhone 前置摄像头质感、柔和暖光、自然肤质、真实比例、温馨卧室、精致但不过度商业修图。
+
+负面要求：
+不要二次元，不要3D CG，不要摄影棚大片，不要低质粗糙照片，不要过度噪点，不要明显脏感，不要过度磨皮，不要塑料皮肤，不要畸形手指，不要多余手指，不要背景纯白。
+```
+
+
+---
+
+## 例 498：Toy Camera Balcony Candid
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2068501129059783072) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case498.jpg](images/case498.jpg)
+
+```text
+A quiet summer morning in a European apartment. A woman sits on the floor next to open balcony doors, absorbed in a book, one leg stretched toward the railing, a cream knitted blanket draped loosely over her lap. She wears a simple orange bralette and delicate jewelry, completely unaware of the camera. A cup of tea and an open book rest on the wooden floor beside her. The balcony overlooks classic European architecture: cream stone facades, wrought-iron railings, flowering balconies, leafy trees.
+
+Photographed from an awkward handheld angle, as if someone walked past the room and snapped a photo without slowing down. The framing is tilted and accidental. The subject is not centered. Parts of the balcony doors, blanket, floor, and foreground objects are cut off by the frame edges.
+
+Captured on a cheap 2000s low-resolution toy digital camera. 0.3-megapixel quality. Heavy motion blur. Intentionally crooked and tilted framing. Harsh pop-up flash despite bright daylight. Overexposed white highlights. Intense digital noise and heavy sensor grain. Low-fidelity faded colors. Chromatic aberration at the edges. Lens flare. Looks like an extremely blurry candid photo uploaded from an old toy camera. Raw and amateurish. Authentic nostalgic texture.
+
+Slight focus miss, motion smear, low-resolution facial details, sensor noise, JPEG artifacts, and compression damage visible across the face — exactly as a cheap toy camera would produce.
+
+Do not preserve modern clarity. Do not protect facial sharpness. The subject remains recognizable despite image degradation. Subject occupies 65% of the frame.
+
+Large foreground obstructions from a partially clipped teacup, book, blanket folds, and balcony door frame. Extreme off-balance composition. Camera not leveled. Subject positioned awkwardly near one edge. Parts of the room, railing, and foreground elements are clipped.
+
+The image should feel like a forgotten candid uploaded to an old social media site in the mid-2000s. Raw, amateurish, imperfect, accidental, nostalgic, unpolished. Captured-memory realism, not aesthetic photography.
+
+Super thick plastic toy-lens softness, motion smear, focus miss, smeared highlights, low-resolution detail loss, heavy JPEG compression, sensor noise, and degraded detail across the face, hair, hands, blanket, books, teacup, balcony, buildings, and sky.
+
+--ar 4:5
+
+Negative prompt: beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR photography, professional composition, studio lighting, ultra sharp face, perfect skin, flawless focus, fashion editorial, influencer photo, polished digital rendering, AI perfection, hyper-detailed eyes, premium camera quality, luxury portrait photography
+```
+
+
+---
+
+## 例 499：Interior Design Mood Board Generator
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2052949583563784620) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case499.jpg](images/case499.jpg)
+
+```text
+GPT Image 2 室内设计情绪板生成器
+
+提示词：
+（室内设计情绪板生成器 / Interior Design Mood Board Generator）
+你是一名专业的室内设计 Mood Board 创作者。请基于用户提供的 [Space Type] 室内设计照片，生成一张 竖版 3:4 的高端室内设计情绪板。整体视觉参考专业室内设计提案图，呈现 [Style Keywords] 的审美特征，画面应具备 [Mood Keywords] 的空间氛围，并符合 [Branding Tone] 的高级设计表达。
+场景类型（Space Type）：[Space Type]
+画面布局要求
+上半部分：呈现一张高分辨率、照片级真实感的 [Space Type] 室内设计效果图。
+
+该效果图需要在空间结构、家具语言、材质关系、色彩搭配、光影氛围上与用户输入照片保持一致，同时提升为更完整、更精致、更具设计提案感的视觉呈现。
+
+重点体现：[Key Furniture Elements]、[Material Keywords]、[Color Palette]、[Lighting Style]。
+下半部分：展示与上方空间设计严格对应的材质与软装样本，包括：
+材料样板
+面料样本
+色卡
+饰面样本
+与该空间相关的木材、石材、金属、玻璃、织物、皮革或涂料样本
+
+所有样本必须与上方空间保持一致，并准确反映该设计方案中的核心材质与色彩逻辑。
+右下角：设置一个 Design Legend / Color Palette 信息框，统一展示本方案的：
+主色
+辅助色
+点缀色
+核心材质
+饰面说明
+风格关键词
+风格与输出要求
+专业室内设计公司级别的 Mood Board 版式
+极简、整洁、克制、有秩序的排版
+明确的视觉层级与留白控制
+材质、色彩、面料、饰面与上方空间完全匹配
+标签清晰、现代、简洁，具有高级编辑设计感
+整体气质需符合 [Style Keywords]
+呈现 [Render Quality]
+竖版 3:4 构图
+4K Ultra HD
+超高细节
+写实渲染
+直接用于图像生成
+标签要求
+每个材质或色彩样本配有清晰标签，标签内容围绕以下信息组织：
+
+[Label Language] 的材质名称、颜色名称、饰面名称或织物类型。
+
+标签风格应简洁、专业、排版规整，不喧宾夺主。
+主题定义
+[Space Type] Interior Design Mood Board
+
+风格方向：[Style Name]
+
+关键词：[Style Keywords], [Material Keywords], [Color Palette], [Mood Keywords]
+负面约束
+避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层
+```
+
+
+---
+
+## 例 500：Solar Desert Worldbuilding Kit
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059335346861781102) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case500.jpg](images/case500.jpg)
+
+```text
+Build a full visual worldbuilding kit for a futuristic solar-powered desert civilization. Include multiple images covering architecture, characters, clothing, vehicles, and maps, all sharing one cohesive design language, with cinematic realism and ultra detailed finish.
+```
+
+
+---
+
+## 例 501：Pixar Banana Hero Character
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2068003049600380972) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case501.jpg](images/case501.jpg)
+
+```text
+Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
+```
+
+
+---
+
+## 例 502：Berry Loud Acai Bowl Food Ad
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2053312926141005835) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case502.jpg](images/case502.jpg)
+
+```text
+Prompt 1: Vibrant lifestyle food advertisement, smiling woman in a bright hot pink blazer sitting inside a colorful trendy café, holding a spoon and eating an acai berry bowl topped with strawberries, blueberries, banana slices, and granola, branded "Berry Loud" jar on wooden table, playful retro typography reading "BERRY LOUD" in large cream bubble letters, tropical café interior with hanging plants, warm natural sunlight, cheerful atmosphere, bold pink and teal color palette, shallow depth of field, cinematic food photography, ultra realistic, high detail, commercial ad campaign style, 4k
+
+Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend, acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, granola, dramatic berry juice splashes and floating fruits in mid air, branded jar beside bowl, vivid hot pink background, large retro cream typography saying "NEW DROP BERRY LOUD", glossy lighting, hyper realistic food photography, energetic composition, vibrant colors, commercial product shoot, ultra detailed textures, splash effect, studio lighting, 4k, advertising poster style
+```
+
+
+---
+
+## 例 503：Berry Splash Cafe Campaign
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054248552294158350) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case503.jpg](images/case503.jpg)
+
+```text
+Prompt 1:
+Create a vibrant lifestyle food ad set inside a colorful, trendy cafe. Show a smiling woman in a bright hot pink blazer seated at a wooden table, lifting a spoon as she eats an acai berry bowl topped with strawberries, blueberries, banana slices, and granola. Keep a clearly branded "Berry Loud" jar on the table. Add playful retro cream bubble-letter typography that reads "BERRY LOUD". Use a tropical cafe interior with hanging plants, warm natural sunlight, a cheerful mood, a bold pink-and-teal palette, shallow depth of field, cinematic food-photography realism, high detail, and a polished commercial campaign finish. Format: vertical 9:16. Quality: ultra realistic, 4k.
+
+Prompt 2:
+Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. Feature an acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, and granola. Surround it with dramatic berry juice splashes and floating fruit frozen midair. Place a branded jar next to the bowl. Use a vivid hot pink background and large retro cream typography that says "NEW DROP BERRY LOUD". Keep the lighting glossy, the composition energetic, the colors vibrant, the textures ultra detailed, and the overall look like a polished studio-shot commercial poster with hyper-realistic food photography and splash-effect motion. Format: vertical 9:16. Quality: 4k.
+```
+
+
+---
+
+## 例 504：Kinder Joy Swing Chair Scene
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2066312771978092587) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case504.jpg](images/case504.jpg)
+
+```text
+Hyper-realistic 8k medium shot photograph with shallow depth of field, surreal indoor scene with cinematic lighting. A normal-sized woman sits cross-legged inside a massive, highly detailed Kinder Joy egg that's been converted into a swing chair. The egg is split open, its white interior forming the seat and orange textured exterior visible, suspended by dark metal chains from a curved metal stand.
+
+She wears a black t-shirt and blue-and-white plaid pajama pants, holding a small white teacup with both hands, gazing directly at the viewer with a calm, relaxed expression. Use uploaded face as reference.
+
+On a polished wooden table to the left foreground: another gigantic fully wrapped Kinder Joy egg with intricate foil texture and branding details. To the right of the swing base: a vintage-style wooden radio with white dials, and a tiny bonsai tree in a small pot.
+
+Soft warm directional lighting from the left casts subtle shadows, highlighting the detailed egg wrapper textures, clothing, and wooden surface. Background is a softly blurred warm-toned interior wall with pleasing bokeh. Standard lens, shot from mid-height.
+```
+
+
+---
+
+## 例 505：Metro CCTV Thriller Frame
+
+**来源：** [@frametheory058](https://x.com/frametheory058/status/2071605430858756121) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case505.jpg](images/case505.jpg)
+
+```text
+Create a cinematic surveillance-thriller image set inside a massive multi-level underground metro station. The camera should feel like a ceiling-mounted CCTV positioned high above at roughly a 40-degree angle, looking down over a long industrial escalator and the complex architecture of the station.
+The composition should use a 4:5 vertical frame, with the escalator cutting diagonally through the image to create strong depth and scale. The station is crowded with hundreds of commuters moving in both directions, forming a chaotic flow of people with subtle motion blur.
+At the center of the frame, a single person matching the uploaded reference image is descending the escalator. The subject appears to be moving quickly, slightly leaning forward. One hand holds the escalator handrail for balance, while the other carries a small glossy black mini bag with realistic reflections.
+At a dramatic moment, the subject suddenly turns their head over their shoulder and looks directly into the camera, creating an intense fourth-wall-breaking moment, as if they know they are being watched.
+Add a realistic CCTV interface overlay, including:
+Live recording indicators
+Timestamp and camera ID
+A facial-tracking square locked onto the subject
+A secondary zoomed-in facial recognition panel in one corner
+Minimal technical HUD elements and surveillance graphics
+Lighting should be cold and fluorescent, typical of a modern subway station, with realistic reflections on the metallic escalator surfaces and polished handrails. Keep the surrounding crowd slightly blurred while the subject remains sharp and in focus.
+Overall mood: high-end documentary surveillance thriller, ultra-photorealistic, cinematic composition, realistic skin textures, natural crowd behavior, detailed environmental reflections, and professional movie-grade realism.
 ```
 
 
