@@ -1,7 +1,7 @@
 # UI与界面 — 提示词合集
 
 
-> 122 个案例
+> 161 个案例
 
 ---
 
@@ -2433,6 +2433,9 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 **来源：** awesome-gpt-image-2
 
+![case351.jpg](images/case351.jpg)
+
+
 ```text
 {
   "type": "live stream UI mockup",
@@ -2653,6 +2656,9 @@ Make a wallpaper portrait size cellphone about the beauty of ({argument name="co
 
 **来源：** 小红书号989137706
 
+![case367.jpg](images/case367.jpg)
+
+
 ```text
 特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。
 ```
@@ -2662,6 +2668,9 @@ Make a wallpaper portrait size cellphone about the beauty of ({argument name="co
 ## 例 368：电影感叙事场景图
 
 **来源：** [@danieldmai](https://x.com/danieldmai)
+
+![case368.jpg](images/case368.jpg)
+
 
 ```text
 Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs"}. Apply heavy dark makeup, specifically {argument name="lip color" default="black"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name="necklace pendants" default="an inverted cross and a pentagram"}.
@@ -2673,6 +2682,9 @@ Using REFERENCE_0, transform the subject's appearance to a {argument name="style
 
 **来源：** [@opc\_8838](https://x.com/opc_8838)
 
+![case369.jpg](images/case369.jpg)
+
+
 ```text
 Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
 ```
@@ -2682,6 +2694,9 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 ## 例 370：电商商品展示设计
 
 **来源：** [@yurunekofree](https://x.com/yurunekofree)
+
+![case370.jpg](images/case370.jpg)
+
 
 ```text
 A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
@@ -2693,6 +2708,9 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
 
+![case371.jpg](images/case371.jpg)
+
+
 ```text
 Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
 ```
@@ -2702,6 +2720,9 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 ## 例 372：写实摄影风格图
 
 **来源：** [@blanplan](https://x.com/blanplan)
+
+![case372.jpg](images/case372.jpg)
+
 
 ```text
 Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
@@ -2713,6 +2734,9 @@ Express {argument name="subject" default="a powerful AI builder"} in a graffiti 
 
 **来源：** [@Kurt\_Rousey466](https://x.com/Kurt_Rousey466)
 
+![case373.jpg](images/case373.jpg)
+
+
 ```text
 Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
 ```
@@ -2722,6 +2746,9 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 ## 例 374：插画艺术风格创作
 
 **来源：** [@masapark95](https://x.com/masapark95)
+
+![case374.jpg](images/case374.jpg)
+
 
 ```text
 {
@@ -2791,6 +2818,9 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX)
 
+![case375.jpg](images/case375.jpg)
+
+
 ```text
 A breathtaking and extremely complex world-building infographic masterpiece conceptualizing the "{argument name="theme" default="Fundamental Differences between Confucianism, Buddhism, and Taoism"}", designed as a profound {argument name="style" default="ancient Oriental mythological manuscript"}.
 Background: Pure white vintage textured canvas with a light beige aged parchment base color, subtle frayed edges, and water stain textures.
@@ -2819,6 +2849,9 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 ## 例 376：绘画艺术风格图
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
+
+![case376.jpg](images/case376.jpg)
+
 
 ```text
 {
@@ -2877,6 +2910,9 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 **来源：** [@wtry1102](https://x.com/wtry1102)
 
+![case377.jpg](images/case377.jpg)
+
+
 ```text
 {
   "type": "VTuber debut stream thumbnail",
@@ -2928,6 +2964,9 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
+![case378.jpg](images/case378.jpg)
+
+
 ```text
 A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
 ```
@@ -2937,6 +2976,9 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 ## 例 379：插画艺术创作图
 
 **来源：** [@Luvune](https://x.com/Luvune)
+
+![case379.jpg](images/case379.jpg)
+
 
 ```text
 {
@@ -3005,6 +3047,9 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 **来源：** [@studiomasakaki](https://x.com/studiomasakaki)
 
+![case380.jpg](images/case380.jpg)
+
+
 ```text
 {
   "type": "manga page",
@@ -3072,6 +3117,9 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 **来源：** [@TlanoVRC](https://x.com/TlanoVRC)
 
+![case381.jpg](images/case381.jpg)
+
+
 ```text
 A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
 ```
@@ -3081,6 +3129,9 @@ A watercolor illustration of a children's picture book cover. The main subject i
 ## 例 382：封面排版设计图
 
 **来源：** [@aiehon\_aya](https://x.com/aiehon_aya)
+
+![case382.jpg](images/case382.jpg)
+
 
 ```text
 {
@@ -3141,6 +3192,9 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 **来源：** [@Gc\_qube](https://x.com/Gc_qube)
 
+![case383.jpg](images/case383.jpg)
+
+
 ```text
 A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading "{argument name="brand name" default="BRICKLY"} BUILDING SETS". The box features text reading "8+", "540 PCS", "5 FIGURES", and the main large title "{argument name="set title" default="WATTERSON FAMILY HOUSE"}". A red circular badge on the box reads "CUSTOM SET FAN DESIGN", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name="house color" default="blue"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name="car color" default="pink"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.
 ```
@@ -3151,6 +3205,9 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 **来源：** [@TanShilong](https://x.com/TanShilong)
 
+![case384.jpg](images/case384.jpg)
+
+
 ```text
 Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
 ```
@@ -3160,6 +3217,9 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 ## 例 385：封面排版设计图
 
 **来源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
+
+![case385.jpg](images/case385.jpg)
+
 
 ```text
 [中文]
@@ -3253,6 +3313,9 @@ English only
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
+![case386.jpg](images/case386.jpg)
+
+
 ```text
 [中文]
 苏轼被贬第一天小红书截图
@@ -3266,6 +3329,9 @@ Su Shi's first day of exile Xiaohongshu screenshot
 ## 例 387：潮流视角重塑精致商品广告
 
 **来源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
+
+![case387.jpg](images/case387.jpg)
+
 
 ```text
 [中文]
@@ -3282,6 +3348,9 @@ Please redesign this product advertisement from the perspective of a professiona
 
 **来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
 
+![case388.jpg](images/case388.jpg)
+
+
 ```text
 [中文]
 帮我生成一张特朗普对战哈梅内伊在英雄联盟中路对线的截图。
@@ -3295,6 +3364,9 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 ## 例 389：金瓶梅古风开放世界游戏截图
 
 **来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
+
+![case389.jpg](images/case389.jpg)
+
 
 ```text
 [中文]
@@ -3310,6 +3382,9 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
 
+![case390.jpg](images/case390.jpg)
+
+
 ```text
 [中文]
 结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》
@@ -3323,6 +3398,9 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 ## 例 391：夏日柑橘苏打高转化广告图
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
+
+![case391.jpg](images/case391.jpg)
+
 
 ```text
 [中文]
@@ -3338,6 +3416,9 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
+![case392.jpg](images/case392.jpg)
+
+
 ```text
 [中文]
 生成一套运动类app的iconfont
@@ -3351,6 +3432,9 @@ Generate a set of iconfont for a sports app
 ## 例 393：精致女孩背后的网贷真相
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+
+![case393.jpg](images/case393.jpg)
+
 
 ```text
 [中文]
@@ -3366,6 +3450,9 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 
 **来源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
 
+![case394.jpg](images/case394.jpg)
+
+
 ```text
 [中文]
 在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄
@@ -3379,6 +3466,9 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 ## 例 395：宋朝文人的赛博朋友圈
 
 **来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
+
+![case395.jpg](images/case395.jpg)
+
 
 ```text
 [中文]
@@ -3394,6 +3484,9 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
 
+![case396.jpg](images/case396.jpg)
+
+
 ```text
 [中文]
 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名"BlanPlan"，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
@@ -3407,6 +3500,9 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 ## 例 397：Apple 风格自然科普海报
 
 **来源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+
+![case397.jpg](images/case397.jpg)
+
 
 ```text
 你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。
@@ -3512,6 +3608,9 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 
 **来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
+![case398.jpg](images/case398.jpg)
+
+
 ```text
 Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
 ```
@@ -3521,6 +3620,9 @@ Please create a mathematical visualization infographic about "[math concept / to
 ## 例 399：高定时尚杂志封面
 
 **来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
+
+![case399.jpg](images/case399.jpg)
+
 
 ```text
 Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.
@@ -3544,8 +3646,1072 @@ Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy
 
 **来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 
+![case400.jpg](images/case400.jpg)
+
+
 ```text
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
+```
+
+
+---
+
+## 例 401：Netflix 首页主视觉 UI
+
+**来源：** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
+
+![case401.jpg](images/case401.jpg)
+
+```text
+Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
+```
+
+
+---
+
+## 例 402：多风格签名选择海报
+
+**来源：** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md)
+
+![case402.jpg](images/case402.jpg)
+
+```text
+你是一个高端签名设计系统 + 风格人格视觉系统。
+
+任务：
+仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。
+目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。
+
+输入信息：
+姓名：[输入你的昵称]
+禁止要求额外信息，必须自动完成气质与风格推断。
+
+隐藏执行逻辑：
+1. 字形与笔势分析：
+- 结构：疏密、横竖比例、重心位置
+- 节奏：连贯、停顿、爆发、收束
+- 适配：连笔程度、草写程度、变形空间
+
+2. 气质推断：
+清冷、张扬、克制、商业、文艺、松弛、锋利、高级。
+
+3. 生成 6 个签名分支：
+- 全部适配该姓名
+- 每一个都有明确书写风格
+- 差异来自笔势、节奏、结构和收笔方式
+
+整体画面：
+9:16 竖版海报，极简、高级、干净、有设计感、适合传播。
+背景使用纯白或极浅灰渐变，留白不少于 40%。
+
+顶部标题区：
+主标题可用：
+「你的名字，适合哪种签名？」
+或：
+「[姓名] · 签名风格选择」
+副标题：
+「不同笔势，不同气场」
+排版为黑色与灰色，高级字距，留白充足。
+
+签名卡片区域：
+使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。
+每个卡片统一尺寸、统一间距、整体对齐干净。
+
+卡片样式：
+- 轻微圆角 8-16px
+- 无明显边框，或极细描边
+- 极轻阴影
+- 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感
+视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。
+
+签名生成规则：
+签名必须基于书写动作生成，避免只做字体变形。
+每一个签名风格在生成前，先确定一套明确书写行为规则：
+1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。
+2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。
+3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。
+4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。
+5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。
+
+6 种签名方向：
+1. 极简理性：接近品牌签名
+2. 狂放张力：强烈连笔和拉伸
+3. 松弛随性：手写感强
+4. 东方行草：飞白和墨感
+5. 锋利结构：几何感和断裂
+6. 实验风格：允许部分不可读，但需要强设计感
+
+色彩策略：
+整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。
+避免大面积色块和花哨配色。
+
+底部互动区：
+底部居中加入小号灰字：
+「选一个，作为你的专属签名。」
+或：
+「你是第几种？」
+
+光影与质感：
+高级棚拍光、柔光环境、细腻阴影、干净空气感。
+质感参考 Apple 发布会视觉和高端品牌视觉。
+
+禁止项：
+不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。
+
+最终目标：
+生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。
+用户一眼能选出最像自己的一款签名。
+```
+
+
+---
+
+## 例 403：3D 小红书个人资料卡
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
+
+![case403.jpg](images/case403.jpg)
+
+```text
+一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+
+---
+
+## 例 404：小红书数字破屏 3D 女孩
+
+**来源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051)
+
+![case404.jpg](images/case404.jpg)
+
+```text
+将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。
+
+手机屏幕边缘出现真实细腻的玻璃裂纹与数字粒子效果，大量发光的像素碎片与光粒向外扩散，形成富有未来感的“数字破屏”视觉特效。所有碎片与光效自然围绕人物运动方向展开，具有电影级空间层次感。
+
+整体画面采用温暖米色、柔粉色与梦幻紫色渐变背景，结合金粉色夕阳光斑与电影级柔光渲染。Pixar风格与半现实主义融合，超精细材质，柔和景深，电影感光影，8K超高清品质。
+
+将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。
+```
+
+
+---
+
+## 例 405：豪华社媒破屏商业广告
+
+**来源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
+
+![case405.jpg](images/case405.jpg)
+
+```text
+动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+
+构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+
+明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+
+超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+
+宽高比：3:4。
+```
+
+
+---
+
+## 例 437：面部美学分析报告
+
+**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
+
+![case437.jpg](images/case437.jpg)
+
+```text
+Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo.
+Design style:
+Ultra-modern black and white interface, premium editorial aesthetic, thin elegant divider lines, soft rounded cards, subtle shadows, spacious layout, luxury skincare / fashion magazine vibe, monochrome palette, Apple-style UI refinement.
+Include:
+– A simple contour line-art drawing of the face based on the subject
+– Facial symmetry analysis
+– Face shape identification
+– Proportional analysis (eyes, nose, jawline, lips, forehead)
+– Skin texture observations
+– Hairstyle compatibility suggestions
+– Grooming and fashion recommendations
+– Honest attractiveness evaluation with balanced critique
+– Strengths and weaker facial areas explained objectively
+– Actionable glow-up recommendations
+– Confidence score and facial harmony score shown with elegant charts or meters
+Style notes:
+Keep the report data-driven, visually refined, realistic, and not overly flattering.
+Avoid exaggerated praise.
+Use clean typography, premium spacing, modern infographics, subtle geometric accents, and professional cosmetic consultation aesthetics.
+Visual composition:
+Magazine-quality presentation, luxury beauty report dashboard, highly organized layout, cinematic monochrome feel, minimalist infographic design, realistic facial structure interpretation, modern masculine beauty analytics.
+Rendering:
+Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated editorial presentation, high-end branding aesthetic, 4K quality.
+```
+
+
+---
+
+## 例 440：手机拍摄 FaceTime 工作屏幕
+
+**来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+
+![case440.jpg](images/case440.jpg)
+
+```text
+Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+```
+
+
+---
+
+## 例 441：Japanese AI Game Dev Overview Slide Prompt
+
+**来源：** [@ailovedirector](https://x.com/ailovedirector/status/2046905387274891296) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case441.jpg](images/case441.jpg)
+
+```text
+横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で
+
+ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
+```
+
+
+---
+
+## 例 442：based on the generated character help me generate a screenshot of screenshot ...
+
+**来源：** [@khaiinit](https://x.com/khaiinit/status/2047219694130827273) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case442.jpg](images/case442.jpg)
+
+```text
+based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
+```
+
+
+---
+
+## 例 443：Create a landing page using this image as a reference for style and color gra...
+
+**来源：** [@D_studioproject](https://x.com/D_studioproject/status/2047212826264211540) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case443.jpg](images/case443.jpg)
+
+```text
+Create a landing page using this image as a reference for style and color grading.
+```
+
+
+---
+
+## 例 444：Beauty Product Commercial Marketing Photograph
+
+**来源：** [@AIwithSarah_](https://x.com/AIwithSarah_/status/2047904483359760677) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case444.jpg](images/case444.jpg)
+
+```text
+A high-resolution commercial marketing photograph features a young woman with sleek dark hair and a pink ribbed top in a neutral grey studio setting, centered behind a glossy Ellie Beauty spray bottle held prominently in the foreground. The composition is energized by vibrant, lime-green graphic "swooshes" and floating pill-shaped callouts that highlight product features like "glossy finish" and "upto 450°F protection" in bold black sans-serif text. The lighting is professionally diffused, casting soft highlights on the model’s face while creating a sharp, vertical reflection on the metallic green-to-gold gradient bottle label. Topping the scene is a large, lime-green headline in the upper right asking, "What does it do?", altogether creating a clean, modern, and high-contrast aesthetic with a shallow depth of field that keeps the product and the model's focused expression in sharp relief.
+```
+
+
+---
+
+## 例 445：AAA Video Game Screenshot Concept Design
+
+**来源：** [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike/status/2047828814580138156) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case445.jpg](images/case445.jpg)
+
+```text
+generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj
+```
+
+
+---
+
+## 例 446：Celebrity Livestream Concept
+
+**来源：** [@SelenaGmzIN](https://x.com/SelenaGmzIN/status/2047185882009198865) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case446.jpg](images/case446.jpg)
+
+```text
+{argument name="celebrity" default="selena gomez"} started a surprise {argument name="platform" default="youtube"} livestream.
+```
+
+
+---
+
+## 例 447：Tropical Parrot Pixel Mosaic
+
+**来源：** [@erikmackinnon](https://x.com/erikmackinnon/status/2048190288179675290) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case447.jpg](images/case447.jpg)
+
+```text
+A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown branch in the middle of dense rainforest foliage. The entire image is rendered as a tight grid of tiny square tiles with visible black outlines, creating a stained-glass or LED-screen effect. The bird is shown in side profile facing right, with a large curved black beak, a pale cream face, a bright red-orange forehead and throat, vivid green upper body, and long wings and tail in saturated blue and cyan. The surrounding jungle is filled edge to edge with layered green leaves in many shades, with a soft light green glow behind the parrot to separate it from the background. High color contrast, rich tropical palette, crisp tile pattern, centered composition, decorative digital mosaic aesthetic.
+```
+
+
+---
+
+## 例 448：Golden Cocktail in Greenhouse Bar
+
+**来源：** [@FernandesK47117](https://x.com/FernandesK47117/status/2048183925294371147) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case448.jpg](images/case448.jpg)
+
+```text
+A cinematic vertical photo of a hand holding up a large balloon wine glass filled with a sparkling golden-yellow citrus cocktail in a lush indoor greenhouse bar. The drink is backlit by warm late-afternoon sunlight, making it glow translucent amber. Inside the glass there is 1 visible citrus wedge, and at the rim there is 1 fresh mint garnish cluster. The hand enters from the lower left, delicately gripping the stem, wearing 1 chunky translucent amber bracelet. The setting is dense with tropical greenery, hanging ferns, and vine-covered walls, with a bright greenhouse roof structure visible overhead and 2 warm exposed hanging bulbs softly glowing in the background. Use shallow depth of field with creamy bokeh, strong sun rays filtering through leaves, soft haze, and rich green-and-gold color contrast. Add a blurred foreground leaf or plant along the right edge to frame the composition. The lower background should suggest a busy café or cocktail lounge with indistinct people, but keep them heavily out of focus. Photorealistic, elegant lifestyle photography, moody yet sun-drenched, shot from a low angle looking upward at the raised glass, high detail on condensation, glass reflections, and the luminous drink.
+```
+
+
+---
+
+## 例 449：Multi-Panel Image Board Template
+
+**来源：** [@aimikoda](https://x.com/aimikoda/status/2048183782876778821) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case449.jpg](images/case449.jpg)
+
+```text
+Create a {argument name="grid layout" default="4x3"} borderless grid where each panel is an independent image of the {argument name="subject" default="a young woman"}. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict {argument name="theme" default="childhood memories"} with a {argument name="mood" default="warm, nostalgic"} mood in {argument name="style" default="nostalgic cinematic realism"} style. No text. No gap.
+```
+
+
+---
+
+## 例 450：Handwritten Realistic Letter
+
+**来源：** [@mosthssan](https://x.com/mosthssan/status/2048160477658980711) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case450.jpg](images/case450.jpg)
+
+```text
+Create a highly realistic image of a handwritten letter containing a ({argument name="message" default="message or reflection carrying meanings of affection and loyalty to my account followers"}) on lined paper, with very touching words written in liquid ink pen
+```
+
+
+---
+
+## 例 451：Luxury Lifestyle Mustang Shot
+
+**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2048095904138485962) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case451.jpg](images/case451.jpg)
+
+```text
+A stylish young woman with {argument name="hair style" default="long wavy blonde hair"}, defined cheekbones, and a confident expression, wearing black sunglasses and a {argument name="clothing" default="thick white puffer jacket"} over a fitted black top, standing confidently in front of a {argument name="car" default="vibrant hot-pink Ford Mustang"}. She is posing with one hand slightly raised near her chest, exuding effortless attitude and elegance. The car is parked on a scenic coastal road lined with blooming pink cherry blossom trees and tall palm trees. Behind them is a calm sea under a dramatic overcast sky with soft clouds. Pink petals are scattered on the wet asphalt. A wooden bench is visible on the left side near the water. Cinematic lighting, photorealistic, ultra-detailed skin texture, natural lighting reflections, Instagram-style luxury lifestyle shot, vibrant colors, moody atmosphere, 8k resolution --ar 9:16 --stylize 250
+```
+
+
+---
+
+## 例 452：Anime Characters in Real Izakaya Photo
+
+**来源：** [@sub_raw_jin](https://x.com/sub_raw_jin/status/2048066779835220392) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case452.jpg](images/case452.jpg)
+
+```text
+A candid indoor restaurant photo in a realistic anime-inspired style, showing two young women seated at a small worn wooden table inside a cozy Japanese izakaya with vertical wood-paneled walls and a clear plastic tent-like curtain on the right side. The camera is slightly above table height and angled diagonally toward the table, creating a casual snapshot feeling. One woman is in the left foreground with her back mostly to the viewer, leaning forward over the table; she has long straight dark hair and wears a bulky dark navy or black puffer jacket with a large hood. The second woman sits across from her on the right, facing the camera with a relaxed posture and one arm bent on the table; she has shoulder-length dark brown to black hair, a center part, a black puffer jacket, and a light inner shirt. Replace only the people with clean, natural-looking anime characters while keeping the restaurant environment photorealistic and unchanged. Preserve the mixed-media look of anime characters composited believably into a real photo. On the table, include 2 stainless steel mugs, 2 pairs of chopsticks, 1 smartphone with a bright blue case near the center-left edge of the table, 1 cigarette pack near the right woman, 1 large oval plate with thinly sliced white onions and a lemon wedge, 1 small dish of green vegetables, 1 small plate of brown food, 1 small plate with toast or grilled bread, 1 small dark bowl, 2 small empty white bowls, and 1 printed handwritten Japanese menu sheet lying on the lower right corner of the table. In the upper left background, include a wooden counter with white ceramic bottles and dishes, plus 1 handwritten Japanese wall menu poster. Warm indoor lighting, everyday nightlife atmosphere, documentary realism, detailed wood grain, slightly cluttered tabletop, authentic casual dining scene in Japan.
+```
+
+
+---
+
+## 例 453：Nostalgic 16-Photo Couple Grid
+
+**来源：** [@zenkaiAI](https://x.com/zenkaiAI/status/2048051889460437351) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case453.jpg](images/case453.jpg)
+
+```text
+{"type":"16-photo nostalgic contact sheet collage","style":"dreamy film photography, soft blur, slightly underexposed, candid youthful romance, flash snapshots mixed with ambient dusk light, subtle grain, sentimental and bittersweet mood","subject":{"people_count":2,"relationship":"young couple or former lovers spending time together","ages":"early 20s","appearance":{"male":{"build":"slim","hair":"short dark hair","clothing":"loose white short-sleeve shirt, camera strap around neck in several shots"},"female":{"build":"slim","hair":"shoulder-length dark hair","clothing":"light sleeveless tops or soft casual summer clothes"}},"faces":"intentionally obscured by soft rectangular blur blocks over every visible face"},"layout":{"grid":{"rows":4,"columns":4,"count":16,"border":"thin white dividers, equal square cells"},"images":[{"position":"row 1 col 1","description":"close cropped portrait of the woman in a white top at night, soft flash, dark background"},{"position":"row 1 col 2","description":"close cropped blurred two-person selfie framing, both subjects partially visible, dark nighttime setting"},{"position":"row 1 col 3","description":"young man standing at night and holding a compact silver camera up to his face, white shirt, distant lights behind him"},{"position":"row 1 col 4","description":"woman on a beach or shoreline in low light, softly blurred, ocean horizon behind her"},{"position":"row 2 col 1","description":"street candid of the man holding a camera near his face while walking outdoors in the evening, urban background with motion blur"},{"position":"row 2 col 2","description":"close-up of the woman indoors or in a dim warm setting, hand raised near her face, flash-lit snapshot"},{"position":"row 2 col 3","description":"blurred two-shot of the couple sitting close together by water at dusk, intimate candid composition"},{"position":"row 2 col 4","description":"young man outdoors in greenery during daytime or early evening, looking down at a camera in his hands, white shirt and camera strap visible"},{"position":"row 3 col 1","description":"woman close to the camera giving a peace sign, casual sleeveless top, sandy or beachlike background"},{"position":"row 3 col 2","description":"back view of the man in a white shirt looking out over a cityscape at night from a high vantage point"},{"position":"row 3 col 3","description":"woman indoors at night holding a compact camera directly toward the viewer, city lights beyond a window, flash aesthetic"},{"position":"row 3 col 4","description":"tight cropped two-person selfie-like frame with both subjects partially visible, dark background"},{"position":"row 4 col 1","description":"young man at the waterfront at dusk holding a camera to his eye, cloudy blue sky and distant shoreline behind him"},{"position":"row 4 col 2","description":"soft night portrait of the woman on a city street with warm bokeh lights in the background"},{"position":"row 4 col 3","description":"close intimate couple snapshot with both faces near each other, one subject making a peace sign, heavy blur and flash look"},{"position":"row 4 col 4","description":"rear view of the woman walking alone down a warmly lit narrow street at night, shoulder-length hair and light top visible"}]},"composition":"each square feels like a memory fragment from one summer evening and a few nearby outings, varied framing, natural imperfection, casual amateur photography","color_palette":"muted blues, warm tungsten yellows, soft skin tones, dark greens, charcoal night shadows, faded white clothing","camera_look":"35mm point-and-shoot or disposable camera feel, shallow focus, motion blur, bloom around lights, occasional flash overexposure","quality":"high-resolution collage with authentic analog softness, emotionally evocative and realistic"}
+```
+
+
+---
+
+## 例 454：Brand Collage Social Template
+
+**来源：** [@aiistudiocom](https://x.com/aiistudiocom/status/2051241633921049024) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case454.jpg](images/case454.jpg)
+
+```text
+[BRAND NAME = CHANGE TO YOUR BRAND].
+Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement. PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose - Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing) - Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled - Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor - Photography Style: Editorial fashion cutout – model extracted from background with clean edges - Camera Angle: Slight low angle to empower subject (hero perspective) - Crop: Full body or 3/4 body showing hero product clearly - Background Removal: Model cut out cleanly for layering over collage elements PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model - Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes) - Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette: - Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills - Placement: Blob positioned to frame model without obscuring key product details PHASE 4: GRAPHIC ELEMENTS LAYER Add 3-5 abstract graphic elements scattered across composition: - Element Types: - Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette) - Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding) - Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering - Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width) - Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using: - Supporting Copy: Optional 1-line descriptor (e.g., "A MOMENT OF YOUR STYLE") in smaller uppercase sans-serif - Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy - Hierarchy: Logo largest → Slogan medium → Copy smallest PHASE 6: TEXTURE & BACKGROUND - Base Layer: Off-white or light gray textured background (NOT pure white) - Texture Options (Autonomous selection): - Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth - Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance – model off-center, graphic elements counter-balance - Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia - Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer - Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%) - Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa) PHASE 8: BRAND INTELLIGENCE (AUTONOMOUS) Autonomously adapt composition based on [BRAND NAME] personality: - Streetwear/Sportswear (Nike, Adidas, Supreme): - Luxury Streetwear (Balenciaga, Off-White, Gucci): - Beauty/Lifestyle (Glossier, Fenty, Skims): - Tech/Modern (Apple, Tesla, Beats): PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) - Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame - Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif - Layout: Three-column grid with platform icons or text handles - Aesthetic: Minimal and professional – contrast with chaotic collage above TECHNICAL SPECS: - Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post) - Resolution: 2400x3000px minimum (high-quality for zoom and detail) - Color Mode: sRGB, vibrant saturation (Instagram-optimized) - File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid) - Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout) - Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs - Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish
+```
+
+
+---
+
+## 例 455：Futuristic Hall Fashion Shot Sequence
+
+**来源：** [@weiinberg](https://x.com/weiinberg/status/2049730563393884265) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case455.jpg](images/case455.jpg)
+
+```text
+Frame 1 (Top-Down Establishing)
+Extreme top-down shot in futuristic white curved hall, subject centered but compressed against smooth reflective floor, body aligned straight but slightly angled, arms close to body with subtle tension, head tilted upward toward camera, gaze directed straight up, strong circular architectural lines framing composition, soft studio lighting creating gentle gradients, shallow depth of field at f/1.2, smartphone-like proximity despite height, clean minimal atmosphere, dynamic opening frame, subtle athletic readiness, wearing full beige suit with white t-shirt and white sleek sneakers, Peter Lindbergh influence
+Frame 2 (Low Angle Power)
+Extreme low angle from floor level, subject towering above camera, legs forming strong base, torso slightly leaning forward, shoulders squared, arms slightly away from body, head angled downward, gaze into lens, strong vertical distortion, reflective floor amplifying silhouette, soft studio lighting with controlled highlights, shallow depth f/1.2, powerful dominance frame, subtle athletic tension, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 3 (Wide Isolation)
+Wide long shot, subject very small within vast futuristic hall, surrounded by curved white architecture, large negative space dominating composition, subject standing still, body straight, arms relaxed but structured, head slightly turned, gaze outward into space, minimal reflections, soft even lighting, shallow depth f/1.2 isolating subject despite distance, cinematic silence, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 4 (Dynamic Close-Up Tilt)
+Close-up with strong diagonal tilt, subject leaning into frame, shoulders sharply angled, one arm crossing body, head tilted sideways, gaze slightly off camera, tight crop cutting part of body, soft lighting wrapping contours, shallow depth f/1.2 isolating face plane, intense proximity and tension, full beige suit, white t-shirt visible, Peter Lindbergh influence
+Frame 5 (Motion Step Forward)
+Mid shot, subject stepping forward dynamically, one leg extended, weight shifting, arms slightly swinging with controlled motion, shoulders rotated, head facing forward, gaze ahead, slight motion blur on edges, futuristic curved walls passing behind, soft studio lighting, shallow depth f/1.2, transitional energy frame, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 6 (Final Grounded Frame)
+Full body frontal shot, subject standing firmly, legs slightly apart, arms held with controlled tension, shoulders squared, head facing forward, gaze into camera, symmetrical composition slightly offset, minimal futuristic background, soft lighting emphasizing structure, shallow depth f/1.2, strong final impact frame, subtle athletic readiness, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+
+Negative Commands (apply to all frames):
+no text, no watermark, no low quality, no cartoonish style
+
+Aspect Ratio: 3:4
+```
+
+
+---
+
+## 例 456：Annotated Coffee Table Mood Board
+
+**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2049721047696732550) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case456.jpg](images/case456.jpg)
+
+```text
+Use the uploaded photo as the main base image.
+
+Based on the coffee, drinks, desserts, plates, props, table setting, and overall composition shown in the image, create an aesthetic and emotional result that naturally reflects the real elements in the photo. Do not add any people. Stay true to the actual types of food and drinks, their arrangement, and the atmosphere captured in the original image.
+
+Then, carefully observe each element in the photo and add hand-drawn style annotations that match each subject:
+
+Use white pen-style sketch lines with a rough, slightly uneven, hand-drawn feel
+
+Include object outlines, arrows, and dotted lines to guide visual flow
+
+Add short handwritten Korean notes in a casual, introspective, emotional tone
+
+For drinks: describe taste, temperature, and mood
+
+For desserts: describe texture and flavor
+
+For the space: describe the ambiance
+
+Include a short overall summary of the scene
+
+Subtly incorporate small details like steam, sparkles, hearts, or tiny emotive symbols
+
+Maintain a clean, spacious layout with an Instagram story or magazine memo-like aesthetic
+
+The final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it
+```
+
+
+---
+
+## 例 457：Brand Identity Moodboard System
+
+**来源：** [@SaasJunctionHQ](https://x.com/SaasJunctionHQ/status/2054666436698845299) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case457.jpg](images/case457.jpg)
+
+```text
+Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 1 — DECODE THE BRAND Extract from real brand guidelines only: - Colors: full official palette (primary, secondary, neutrals, accents) — exact, no approximations - Type: weight, width, tracking, capitalization character — applied identically across all cards - Copy: real slogans, campaigns, product names, manifesto phrases — zero invented text - World: the domain (sport / tech / fashion / music / etc.) — all imagery stays inside it STEP 2 — OUTPUT Single 16:9 flat image. Black (#000–#0A0A0A) background. 8 cards in an asymmetric 3-column grid. Uniform 8–12px gaps. Rounded corners 8–12px. Every card uses only Step 1 colors, type, and copy. CARDS — in order: 1. LOGO LOCKUP (wide, top-left) — brand color BG, official logo/wordmark, oversized cropped logo mark as structural graphic. No photo. 2. EDITORIAL PHOTO (mid-left) — dark photo from brand world, manifesto headline in brand type over image, wordmark small at bottom. 3. CAMPAIGN BANNER (wide, bottom-left) — flat accent color BG, real event/campaign headline bold-condensed left side, action photo cropped into right side. 4. STORY FORMAT (tall, center full-height) — full-bleed photo, oversized display type partially cropped by edges, date/location detail top. Mobile story proportions. 5. TYPOGRAPHIC POSTER (upper center-right) — vivid accent BG, campaign headline with one letter replaced by a real brand-world object, edition tag below. 6. COLOR PALETTE (center-right) — vertical equal stripes, one per brand color, color name labeled bottom each stripe. No photo. Zero decoration. 7. PRODUCT MOCKUP (upper right) — studio photo of real brand product or branded device/interface, neutral BG, accurate logo/color/type placement. 8. TYPE PATTERN (lower right) — brand name/slogan repeated as all-over pattern at varied sizes/angles, editorial photo overlaid and color-treated to integrate. RULE: A person who knows this brand must immediately confirm every card belongs to it. Output quality: Behance brand identity case study / agency pitch deck.
+```
+
+
+---
+
+## 例 458：Exploded Vehicle View
+
+**来源：** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2056049620753449271) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case458.jpg](images/case458.jpg)
+
+```text
+Create an ultra detailed exploded view of the iconic [vehicle name].
+[Vehicle] is suspended in mid-air with all mechanical parts separated and floating in perfect alignment, showing the full internal structure of the vehicle. White background
+```
+
+
+---
+
+## 例 459：Rider-Waite Tarot Card
+
+**来源：** [@itsphotogptai](https://x.com/itsphotogptai/status/2056400494709690591) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case459.jpg](images/case459.jpg)
+
+```text
+Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
+```
+
+
+---
+
+## 例 460：Venice Travel Vlogger Collage
+
+**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2063432414945591594) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case460.jpg](images/case460.jpg)
+
+```text
+Young female travel vlogger exploring Venice, Italy across 13 wildly candid, chaotic, funny, and uniquely Venetian moments, stunning with long windswept hair, effortless luxury European summer fashion, playful adventurous personality, authentic handheld iPhone collage aesthetic with natural imperfections, unfiltered travel energy, social media realism, spontaneous vacation chaos.
+
+Frame Breakdown Includes: — accidentally boarding the wrong vaporetto and enthusiastically waving at the dock before realizing she's headed in the opposite direction — struggling to drag an oversized suitcase over a steep stone canal bridge, laughing at the absurdity of it — getting completely lost in Venice's labyrinth of narrow alleys and emerging into a deserted hidden courtyard with a confused expression — chasing a paper city map as the wind sends it flying toward a canal — being unexpectedly surrounded by a massive flock of pigeons in Piazza San Marco while clutching a half-eaten pastry — attempting an elegant gondola selfie but getting caught off guard when the gondola suddenly rocks — discovering a tiny hidden bookstore and reacting dramatically to a sleeping cat curled up among the books — squeezing through an impossibly narrow Venetian alleyway and realizing halfway through that it's much tighter than expected — trying to pose gracefully in a beautiful Venetian carnival mask while struggling not to laugh — caught in a sudden rain shower as historic squares become reflective and crowded with umbrellas — confidently following a shortcut only to reach a dead-end canal with no bridge, staring in disbelief — accidentally walking into the background of an extravagant luxury wedding photoshoot near a historic palace — Final frame: sitting beside a quiet canal at blue hour, surrounded by shopping bags, a melting gelato, and a crumpled city map, laughing uncontrollably after spending the entire day hopelessly lost, candid shaky capture, motion blur, authentic Venice travel chaos
+
+Style: ultra-realistic travel vlog collage, Venice street photography, handheld smartphone camera aesthetic, imperfect framing, accidental photobombs, candid expressions, genuine laughter, iconic Venetian architecture, canals, gondolas, historic bridges, hidden alleyways, European summer atmosphere, natural lighting, motion blur, lens flares, overexposed highlights, authentic memories, cinematic storytelling, high-detail realism, viral travel content, no studio polish, no posing, spontaneous documentary-style moments, social media realism, chaotic vacation energy, luxury travel influencer aesthetic.
+```
+
+
+---
+
+## 例 461：Early Internet Portfolio Page
+
+**来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2065992579502747850) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case461.jpg](images/case461.jpg)
+
+```text
+Design a minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, place a black-and-white editorial portrait of [SUBJECT], featuring soft film grain, subtle scanner texture, and low-contrast photographic tones.
+
+Surround the portrait with scattered profile metadata labels and small star-bullet elements arranged asymmetrically, resembling a playful personal résumé. Include descriptors such as:
+
+✦ creator
+✦ model
+✦ stylist
+✦ DJ
+✦ girl
+✦ photographer
+✦ collector
+✦ dreamer
+
+In the top-left corner, create a colorful hand-drawn logo or personal brand mark. Beneath it, add a tiny timestamp and date in a small system font, mimicking an old personal homepage.
+
+In the top-right corner, place irregular sticker-like navigation tabs in bright accent colors (pink, cyan, purple, yellow, and green). Use simple labels such as:
+
+HOME
+ABOUT
+WORK
+DIARY
+LINKS
+
+Scatter handwritten marker-style notes, introductions, personal thoughts, and lifestyle captions throughout the empty space. Examples:
+
+"currently making things online"
+"welcome to my homepage"
+"music, fashion, internet"
+"updated today"
+"living between projects"
+
+Maintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.
+```
+
+
+---
+
+## 例 462：Mascot Brand Identity Sheet
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2066568983453880412) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case462.jpg](images/case462.jpg)
+
+```text
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+
+---
+
+## 例 463：The King Still Breathes Masthead
+
+**来源：** [@NeuralAIInsight](https://x.com/NeuralAIInsight/status/2067291988953567706) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case463.jpg](images/case463.jpg)
+
+```text
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: THE KING STILL BREATHES
+META LINE: empty night stadium / a buried crown remembers / three triumphs and one hope
+PRIORITY: the four-jewel crown — three jewels lit certain and complete (blue, white, blue) and a fourth softly awakening with hope; crown stays buried until it rises; pitch resolves into a giant number 10; one realistic field, restraint throughout
+MICRO BRIEF: After a legendary hat-trick, a buried crown awakens beneath an empty Argentina-blue stadium — three jewels light for three World Cups, a fourth begins to glow with hope, and the pitch briefly forms a giant number 10.[CONTINUITY HEADER]
+SEQUENCE ID: king_still_breathes_4jewel_12p
+REFERENCE PRIORITY: No image references provided (Brief-Only). No character — environment-led and symbolic. This storyboard controls stadium geography, the waking pitch lines, the buried crown, the four-jewel sequence, the crown rise, the number-10 reveal, and panel order.
+BEAT NAME LOCK (generate once, use identically in panel headers, action path, state track, and the director-strip beat labels): P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel (blue) / P05 Second Jewel (white) / P06 Third Jewel (blue) / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel Awakens / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. Do not relabel or reorder these anywhere on the board
+[SCENE PACKET]
+PREMISE: An empty but still-charged football stadium at night remembers a legendary hat-trick; the pitch wakes, a buried crown stirs and lights three historic jewels one by one, rises in ceremony, and a fourth jewel softly begins to glow with hope as the field geometry briefly forms a giant number 10.
+LOCATION: A single realistic modern football stadium at night after a major match, empty stands, floodlights over an Argentina sky-blue atmosphere, dark emerald grass, white pitch markings, silver floodlight haze, one goal net. Normal football geography only. The pitch surface and the crown buried beneath it are the active stage.
+START -> END: empty charged stadium, one net swaying, lines beginning to wake -> a quiet hold on the still field, the crown settled, three jewels fading but the fourth jewel remaining faintly alive — the future has begun to breathe.
+ACTION CHAIN: empty stadium, one net sways -> the white pitch lines begin glowing softly, the field waking -> beneath the grass the crown stirs, sensed through buried light and pressure (no visible crown) -> the first jewel lights blue (first World Cup) -> the second jewel lights white (second World Cup) -> the third jewel lights blue (third World Cup) -> the crown rises with ceremonial weight from beneath the pitch -> we see the crown clearly, three jewels glowing blue-white-blue -> a fourth dark jewel stirs, flickers, breathes, and softly begins to glow (hope, not yet a triumph) -> the white lines connect and spread with living light -> from an elevated view the field geometry resolves into a giant number 10 -> the glow fades toward stillness, the crown settles, the fourth jewel remaining faintly alive.
+PROP / EFFECT STATE: a buried crown made by the pitch — gold edges partly formed from the white pitch lines, soil and grass clinging, elegant and football-mythic, never medieval-prop or fantasy-clean. It has four jewel settings. The first three jewels ignite one by one, certain and complete, in Albiceleste rhythm: blue, white, blue. The crown is NOT clearly visible before P07. The fourth jewel is visually distinct: dormant, then flickering and breathing, a soft fragile glow that never fully ignites like the others. The number 10 forms organically and half-found from real field geometry (penalty box, center circle, touchlines, glowing trails), never a graphic overlay. The fourth jewel remains faintly lit at the end. Subtle gold and jewel light only; otherwise blues, whites, silver.
+MUST READ: the hat-trick lights history (three certain jewels) and awakens belief in what comes next (the fragile fourth). Reverent, epic, restrained; pride turning to hope.
+[CHARACTER SANITIZATION]
+No characters. No player, face, body, silhouette, portrait, or likeness of any real person. No Messi depiction of any kind. The subject is the stadium, the pitch, and the crown. The crown is a symbol, not worn; no king, throne, or robes.
+[IDENTITY CONSISTENCY]
+Keep stadium geometry, floodlight positions, the single net position, and pitch-line layout consistent across all panels. Keep the crown design consistent once revealed, and keep the four jewel positions consistent (three that light historic, one that awakens). Argentina connection through color and atmosphere only — sky blue, white, deep night blue — never text, crests, or a depicted person.
+[STORYBOARD PURITY]
+Full-color panel artwork (polished pitch board). Panel numbers, beat names, and lens tags in the header strip outside each panel. The beat names in the headers must match the BEAT NAME LOCK and the director-strip beat labels exactly. No captions, subtitles, signage, logos, crests, brand marks, trophy replicas, readable text, arrows, or overlays inside the artwork. The number 10 appears ONLY as illuminated field geometry within the image, never a graphic label. One clear visual idea per panel.
+[MASTER SHOT RULE]
+P01 establishes the geography: the empty night stadium, floodlights over Argentina-blue haze, dark emerald pitch with white markings, one goal net, empty stands. One realistic field, normal geography. The sacred charged emptiness is set here.
+[EMOTIONAL ARC]
+post-match silence -> recognition -> awakening -> pride (three historic jewels and the coronation) -> hope (the fragile fourth jewel and the lingering glow); carried by the environment — the swaying net, waking lines, buried stir, the one-by-one jewels, the ceremonial rise, the breathing fourth jewel, the connecting geometry, the number 10, and a quiet hopeful hold.
+[STYLE LOCKS]
+STYLE LOCK: mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged; full-color; deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewel moments. Reverent, epic, restrained, poetic rather than literal. Not a match recap, not a fan edit, not abstract art-film.
+EFFECT LOCK: the white pitch lines wake with a soft living glow like a nervous system; the crown stirs as buried light and pressure under the turf before any reveal; the first three jewels ignite one by one with clear punctuation, certain and complete, blue then white then blue; the crown, once revealed, rises slow and ceremonial and heavy, pitch-made with soil and grass clinging, never a clean prop; the fourth jewel is softer, fragile, flickering and breathing into a gentle glow, never a full bright ignition; the lines connect and spread with living light; the number 10 resolves organically and half-found from real field geometry, discovered by the camera; the fourth jewel remains faintly alive at the end.
+ENVIRONMENT LOCK: one realistic night stadium throughout — floodlights, blue atmosphere, emerald pitch, white lines, a single net, empty stands; normal football geography only; no three-net or impossible layouts; no crowd, no players, no symbolic clutter.
+CROWN REVEAL LOCK: the crown is NOT clearly visible in P01-P06. In P03-P06 show only buried glow, pressure under the turf, and the jewels lighting beneath/through the grass — never a readable crown. The first clear crown reveal is P07 when it rises. The crown is pitch-made: gold edges partly formed from white pitch lines, soil and grass clinging, elegant and football-mythic, not medieval-prop, not fantasy-clean.
+JEWEL LOCK: four jewel settings, consistent positions. Three light one-by-one as historic and complete in Albiceleste rhythm — P04 blue, P05 white, P06 blue. The fourth (P09) is visually distinct: dormant then awakening, a soft fragile breathing glow that never matches the full certainty of the first three. It must read as hope, not a won trophy.
+[SPATIAL CONTINUITY LOCK]
+All panels share one stadium geography: pitch, white-line layout, floodlight positions, the single net, the crown's central buried location and its four jewel positions. The jewels light in fixed positions; the crown rises from one fixed central point (only from P07); the number 10 forms from the established white-line geometry seen from a widening elevated angle (not a new location or overlay). The camera starts close and textural and gradually widens and elevates toward the reveal. Allowed changes: camera height/angle/distance, which jewel is lit, buried-glow state, crown emergence state (none before P07), the fourth jewel's awakening state, glow spread, line illumination, net sway.
+[DIRECTOR STRIP]
+Animatic track board aligned to panel columns. Shot chips, rhythm blocks, intensity bars, short labels. No seconds or timestamps. BEAT LABEL row must read exactly: P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel / P05 Second Jewel / P06 Third Jewel / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. These must match the panel header beat names.
+PANEL HEADERS:
+P01 / 24mm wide / Empty stadium
+P02 / macro low / Lines wake
+P03 / macro low / Crown stirs (buried)
+P04 / 50mm low / First jewel: blue
+P05 / 50mm low / Second jewel: white
+P06 / 50mm low / Third jewel: blue
+P07 / 35mm low / Crown rises
+P08 / 50mm / Three jewels lit
+P09 / macro / Fourth jewel awakens
+P10 / 35mm rising / Lines connect
+P11 / 24mm crane high / Number 10
+P12 / 24mm wide / Hopeful stillness
+CAMERA + LENS PLAN:
+P01: high wide establishing hold on the empty stadium and single net, patient
+P02: macro low as the white pitch lines begin to glow softly, the field waking
+P03: macro low on the turf as the buried crown stirs — light and pressure under the grass, no visible crown
+P04: low push as the first jewel lights blue beneath the surface, certain and clear
+P05: low push as the second jewel lights white, matching punctuation
+P06: low push as the third jewel lights blue, the historic three now complete
+P07: low angle as the pitch-made crown rises with ceremonial weight from beneath the pitch, soil and grass clinging — first clear reveal
+P08: held medium on the risen crown, three jewels glowing blue-white-blue in Albiceleste rhythm
+P09: macro on the fourth, previously dark jewel as it stirs, flickers, breathes, and softly begins to glow — fragile, hopeful, distinct from the other three
+P10: rising angle as the white lines connect and spread with living light across the field
+P11: high crane / elevated wide as the field geometry resolves half-found into a giant number 10
+P12: wide hold as the glow fades toward stillness and the crown settles, the fourth jewel remaining faintly alive
+ACTION PATH:
+P01: the empty stadium sits charged under floodlights, one net swaying slightly
+P02: the white pitch lines begin glowing softly, the field waking and remembering
+P03: beneath the grass the crown stirs, sensed only through buried light and pressure; no crown visible
+P04: the first jewel lights blue — Argentina's first World Cup
+P05: the second jewel lights white — the second World Cup
+P06: the third jewel lights blue — the third World Cup, the historic three complete
+P07: the crown rises with ceremonial weight from beneath the pitch, soil and grass clinging
+P08: the crown is seen clearly, three jewels glowing blue-white-blue
+P09: a fourth dark jewel stirs, flickers, breathes, and softly begins to glow — hope for a fourth, not yet a triumph
+P10: the white lines connect and spread with living light through the pitch geometry
+P11: from the elevated view, the field geometry resolves into a giant number 10
+P12: the glow fades toward stillness, the crown settles, the fourth jewel remains faintly alive
+RHYTHM TRACK:
+RHY P01: hold / long block / held beat
+RHY P02: slow reveal / medium block / clean beat
+RHY P03: slow reveal / medium block / held beat
+RHY P04: build / short block / clean beat
+RHY P05: build / short block / match beat
+RHY P06: impact / short block / smash beat
+RHY P07: build / long block / held beat
+RHY P08: pause / medium block / held beat
+RHY P09: slow reveal / long block / held beat
+RHY P10: build / medium block / match beat
+RHY P11: final hit / long block / smash beat
+RHY P12: pause / long block / held beat
+ESCALATION MAP:
+ESC P01: L1 calm / flat
+ESC P02: L2 tension / rise
+ESC P03: L2 tension / rise
+ESC P04: L3 rise / rise
+ESC P05: L3 rise / rise
+ESC P06: L4 surge / spike
+ESC P07: L5 peak / surge
+ESC P08: L4 surge / held
+ESC P09: L3 rise / rise
+ESC P10: L4 surge / rise
+ESC P11: L5 peak / spike
+ESC P12: L2 tension / release
+STATE TRACK:
+P01: empty stadium, one net sways, no glow
+P02: white lines waking, soft glow
+P03: buried crown stirs, pressure under turf, no crown
+P04: first jewel blue, beneath surface
+P05: second jewel white
+P06: third jewel blue, historic three complete
+P07: crown rises, soil clinging (first reveal)
+P08: crown clear, three jewels blue-white-blue
+P09: fourth jewel flickering, breathing, soft glow
+P10: lines connected, living light spreading
+P11: geometry resolves into number 10
+P12: glow fades, crown settled, fourth jewel faintly alive STYLE TRACK:
+P01: blue floodlit haze
+P02: waking line glow
+P03: buried stir, turf pressure
+P04: blue jewel light
+P05: white jewel light
+P06: blue jewel light
+P07: rising pitch-made gold
+P08: Albiceleste three-jewel glow
+P09: fragile fourth-jewel breath
+P10: connecting line veins
+P11: half-found number 10
+P12: fading glow, one jewel alive [NEGATIVE / AVOID]
+Panel header beat names must match the
+
+Seedance 2.0 Prompt:
+
+Based on the storyboard , create this short film — do not include any movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings.
+
+THE KING STILL BREATHES — beneath an empty Argentina-blue stadium, a buried crown lights three jewels for three triumphs and a fourth begins to glow with hope.
+
+IMAGE REFERENCE INSTRUCTION
+= the locked 12-panel storyboard, the authoritative director-approved blueprint for composition, staging, motion, timing, and pacing across the full 15 seconds. Follow the panel order exactly. Do not render the storyboard sheet itself. Do not invent alternative coverage. This is an environment-led symbolic piece with no character — no player, face, body, or likeness anywhere.
+Color bible (definitive): deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze; selective gold only on the crown and jewel moments. The crown is pitch-made — gold edges partly formed from the white pitch lines, soil and grass clinging to it, elegant and football-mythic, never a clean prop or medieval cosplay. The number 10 forms only from real field geometry, half-found, never a graphic overlay. One realistic football field, one net, normal geography only.
+
+TASK
+Create a 15-second mythic cinematic football short built from deliberate, elegant cuts. An empty night stadium, still charged after a legendary hat-trick, slowly awakens: the white pitch lines begin to glow, a buried crown stirs beneath the turf, and three jewels light one by one — blue, white, blue — for Argentina's three World Cup triumphs. The crown rises in ceremony, revealing those three certain jewels, and then a fourth dark jewel softly stirs, flickers, and begins to glow with fragile hope for what comes next. The field lines connect and spread with living light until the pitch geometry resolves, for one brief unforgettable moment, into a giant number 10 — then the glow fades toward stillness, the crown settles, and the fourth jewel remains faintly alive. Football history turning to myth, and pride turning to hope.
+
+STYLE
+Mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged — not a match recap, not a fan edit, not abstract art-film. Reverent, epic, restrained, poetic rather than literal, as if the stadium itself remembers. Deep night blues with sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewels. Everything moves with weight and intention; restraint over spectacle.
+
+SHOT STRUCTURE: 12 shots / 15s / 16:9 — deliberate cinematic cuts (not one continuous take)
+
+SEQUENCE
+Shot 01 — EMPTY STADIUM [0–1.5s] WIDE / STATIC / PATIENT HOLD: the empty night stadium under floodlights, Argentina-blue haze, dark emerald pitch, a single goal net swaying faintly. Still, but charged with the memory of what just happened. Post-match silence.
+Shot 02 — LINES WAKE [1.5–3s] MACRO / LOW / SLOW TRACK ALONG A LINE: the white pitch lines begin to glow softly, light running along the painted markings like the field's nervous system waking and remembering. Recognition.
+Shot 03 — CROWN STIRS [3–4s] MACRO / LOW / SLOW PUSH: in the turf, a buried glow and faint pressure stir beneath the grass — something royal sensed but not yet seen. No visible crown.
+Shot 04 — FIRST JEWEL [4–5s] CLOSE / LOW / CUT IN: beneath the surface the first jewel lights a deep blue — Argentina's first World Cup. Certain, clear, historic.
+Shot 05 — SECOND JEWEL [5–6s] CLOSE / LOW / MATCHING CUT: the second jewel lights white — the second triumph. The same confident punctuation.
+Shot 06 — THIRD JEWEL [6–7.5s] CLOSE / LOW / MATCHING CUT: the third jewel lights blue — the third triumph. The historic three now complete, glowing in Albiceleste rhythm.
+Shot 07 — CROWN RISES [7.5–9.5s] MEDIUM / LOW / SLOW CEREMONIAL RISE: the pitch-made crown rises with heavy ceremonial weight from beneath the turf, soil and grass clinging to its gold edges. Earned, mythic, powerful. The first clear reveal.
+Shot 08 — THREE JEWELS LIT [9.5–11s] MEDIUM / SLOW PUSH: the crown seen clearly, its three jewels glowing blue-white-blue. A held moment of pride. The king's history made visible.
+Shot 09 — FOURTH JEWEL AWAKENS [11–12.5s] MACRO / SLOW PUSH: a fourth, previously dark jewel stirs — it flickers, breathes, and softly begins to glow. It does not blaze like the other three; it is fragile, tentative, hopeful. Belief in a fourth triumph, not yet won.
+Shot 10 — LINES CONNECT [12.5–13.5s] HIGH / RISING: the white pitch lines connect and spread with living light across the field, the geometry beginning to mean something.
+Shot 11 — NUMBER 10 [13.5–14.5s] CRANE HIGH / ELEVATED WIDE: from above, the glowing field geometry resolves, half-found and broken-edged, into a giant number 10 — discovered by the camera, pitch memory rather than a drawn symbol. The unforgettable image.
+Shot 12 — HOPEFUL STILLNESS [14.5–15s] WIDE / STATIC / HOLD: the glow fades toward stillness, the crown settles back into the grass, the stadium quiets — but the fourth jewel remains faintly alive, breathing. The future has begun to breathe. Hold.
+
+CAMERA RULES
+Deliberate, elegant cinematic cuts between shots — not one continuous take. The camera is patient and confident, uncovering something sacred: it begins close and textural (macro grass, low jewel angles) and gradually widens and elevates toward the reveal, ending on a held wide. One primary move per shot; no shaky handheld, no snap zooms, no hyper-editing. The number 10 is discovered by the elevated camera, never presented as a flat graphic. Let the piece breathe.
+
+HARD RULES
+- No character of any kind: no player, face, body, silhouette, or Messi likeness. The subject is the stadium, the pitch, and the crown.
+- The crown is NOT visible before Shot 07; Shots 03–06 show only buried glow, turf pressure, and the jewels lighting beneath the grass.
+- The crown is pitch-made, soil and grass clinging, elegant and football-mythic — never a clean prop, medieval cosplay, or ornate fantasy.
+- The first three jewels light one by one, certain and complete, in Albiceleste rhythm: blue, white, blue.
+- The fourth jewel must look different from the first three — dormant then awakening, fragile, flickering, a soft glow that never fully blazes. It reads as hope, not a won trophy.
+- One realistic football field, one net, normal geography only — never three nets or impossible layouts.
+- The number 10 appears only as illuminated field geometry, half-found with broken edges, never a graphic overlay or label.
+- No readable logos, crests, sponsor marks, brand marks, or trophy replicas. Argentina connection through color and atmosphere only.
+- Not a match-highlight recap. Reverent aftermath, memory, myth, and hope. Power through restraint — no symbolic clutter.
+
+AUDIO
+No dialogue, no commentary. Reverent, charged, slightly supernatural sound design. Begin with the deep ambience of an empty stadium — distant floodlight hum, a faint wind, the soft creak of the swaying net. The lines waking add a delicate glassy shimmer running across the field. The crown stirring is a low buried throb under the turf. Each of the three jewels lights with a clear, resonant chime — three certain, complete tones, the same confident punctuation each time. The crown rising lands with a heavy, sacred low impact and a slow rising shimmer of gold. The three-jewel moment holds on a proud sustained chord. The fourth jewel is different — a soft, fragile, flickering tone that breathes rather than rings, tentative and tender. The lines connecting add a spreading living hum; the number 10 resolves on a held, awe-struck swell. Then it falls back toward near-silence — the empty stadium hum, and one last faint breathing shimmer from the fourth jewel. Music: sparse, mythic, restrained — deep cinematic drones, a slow sacred build through the coronation, a single restrained peak at the number-10 reveal, then a quiet hopeful fade that does not fully resolve, leaving the fourth jewel's note hanging. Never bombastic, never a sports anthem; aura and hope, not hype.
+
+Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
+```
+
+
+---
+
+## 例 464：Douyin Livestream Screenshot
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2068123767994523857) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case464.jpg](images/case464.jpg)
+
+```text
+Vertical 9:16 aspect ratio. Create a realistic Douyin (TikTok China) live broadcast screenshot. The scene shows Liu Yifei hosting a live stream, holding up a sign that reads: "Streaming live tonight, join the chat with Yifei!" Capture the authentic look of a Chinese mobile livestreaming interface.
+```
+
+
+---
+
+## 例 465：Expedition Planning Command Board
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069104692098130014) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case465.jpg](images/case465.jpg)
+
+```text
+A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
+```
+
+
+---
+
+## 例 466：Livestream Commerce UI Mockup
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069090579355668501) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case466.jpg](images/case466.jpg)
+
+```text
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, dressed in a black t-shirt featuring a white technical schematic print",
+    "background": "left side displays a screen showing '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark-colored car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, host name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '556k likes this stream', red 'Follow' button",
+      "rank_badge": "gold coin icon labeled 'No.1 Site-wide'",
+      "viewer_stats": "3 top viewer avatars with counts '123k', '86k', '57k', total viewers '687k', 'X' close button",
+      "right_links": "'More streams >', 'Gift Hall 0/24' with blue 'Classic' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar 'TechFan', 'sent a Little Heart', heart icon x 1314",
+        "avatar 'SeaOfStars', 'sent a Rocket', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge 'CosmicWanderer joined the stream'",
+      "message_count": 7,
+      "messages": [
+        "LittleRocket: Musk! The future is bright! 🚀",
+        "future: When is Tesla Model 2 coming out?",
+        "StarryDreamer: Will SpaceX reach Mars this year?",
+        "AIExplorer: What's the latest on Neuralink?",
+        "HandsomeNetizen: Hello Boss Ma!",
+        "Mars: First time watching your stream, super excited!",
+        "User123: Talk about AI — will it replace humans?"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange 'Hot Sale x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"Tesla Cybertruck Electric Pickup\"}",
+      "price": "{argument name=\"product price\" default=\"¥1,618,000\"}",
+      "button": "red 'Buy' button",
+      "floating_animation": "translucent hearts drifting up along the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'Say something...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
+
+
+---
+
+## 例 467：Flash Chat App Icon
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069900481770737707) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case467.jpg](images/case467.jpg)
+
+```text
+Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
+```
+
+
+---
+
+## 例 468：Nine-Frame Product Campaign
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069628865044254934) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case468.jpg](images/case468.jpg)
+
+```text
+Generate a 3×3 image grid (3:4 aspect ratio) for a luxury commercial campaign centered on the uploaded product.
+
+Each of the nine frames should deliver a unique visual concept while keeping the product visually identical throughout.
+
+The nine concepts:
+1. Hero still life with a bold, iconic arrangement
+2. Extreme macro revealing surface texture and material detail
+3. Liquid or particle dynamics wrapping around the product
+4. Minimalist sculptural staging with abstract geometry
+5. Floating elements that convey lightness and forward-thinking design
+6. Close-up sensory shot focused on tactile realism
+7. Color-concept scene drawn from the product's own palette
+8. Symbolic ingredient or component abstraction
+9. Surreal but refined blend of realism and imagination
+
+Product rules: maintain 100% fidelity to the product's shape, proportions, label, type, color, and branding. No distortion or redesign. Clean product-to-background separation.
+
+Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
+
+Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```
+
+
+---
+
+## 例 469：3D Music Player Icon Set
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071108428563697756) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case469.jpg](images/case469.jpg)
+
+```text
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
+
+
+---
+
+## 例 470：Y2K Harajuku Brand Badge
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071683274725028140) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case470.jpg](images/case470.jpg)
+
+```text
+[BRAND NAME]
+
+You are a senior vector designer specializing in Y2K Harajuku badge art. Your world: Tokyo bootleg culture, early 2000s Japanese brand remixes, retro-futuristic sticker aesthetics. Every output should look like a clean Illustrator vector file, flat and sticker-ready. The badge structure must be invented fresh for each brand, not templated.
+
+BRAND ANALYSIS
+
+Before designing, resolve all of the following: (1) PRIMARY COLOR — brand's main color softened into a pastel Y2K version, still recognizable but lighter and more kawaii; (2) ACCENT COLOR — brand's secondary color pushed to warm saturation for energetic pop; (3) DARK COLOR — deep brand palette (navy, dark brown, near-black) used for outlines and extrusions; (4) LETTER CONTENT — brand name in bold lowercase or most iconic abbreviation; (5) KATAKANA — correct Japanese transliteration as a secondary text element; (6) ORIGIN FLAG — brand's country of origin flag as a small flat element; (7) SHAPE LANGUAGE — iconic geometric forms from the brand's visual identity used as orbital and background elements, never generic ovals; (8) CULTURAL SYMBOLS — 1-2 small iconic objects from the brand's universe rendered as tiny flat illustrations; (9) COMPOSITION LOGIC — design the badge layout using everything above so it feels invented specifically for this brand.
+
+CANVAS
+
+1:1 square. Flat off-white or warm light grey background. Completely empty, no texture, no gradient.
+
+BADGE STRUCTURE
+
+Using the resolved shape language and composition logic, build the full badge. Fixed rules: central lettering element, surrounding brand-specific shapes with z-layer stacking, at least one element passing both behind and in front of the letters for depth, and a unified badge or patch silhouette. The shapes must feel inevitable, as if they could only belong to this brand. Everything else is determined by the brand's own visual DNA.
+
+LETTERING
+
+Brand name in large bold lowercase with a wide rounded display typeface. Flat PRIMARY COLOR fill. Thick DARK COLOR extrusion offset down-right at 8-12% of letter height. Bold DARK COLOR outline. No gradients, no rendering.
+
+Y2K SIGNATURE ELEMENTS
+
+Every badge must include: SPEED LINES or motion texture in ACCENT COLOR inside background shapes. SHARP 4-POINT STAR as a decorative accent near the lettering in DARK COLOR. KATAKANA transliteration tucked naturally into the composition. ORIGIN FLAG as a small accurate flat element. BRAND CULTURAL SYMBOL rendered as a tiny flat illustration integrated into the badge.
+
+TECH SPECS
+
+Flat vector only. Zero gradients, effects, blur, or rendering. Clean crisp edges throughout. Maximum 4 colors: PRIMARY pastel, ACCENT warm saturated, DARK outline, off-white. Must feel like a collectible sticker or embroidered patch. Every brand produces a structurally different badge because every brand has different shape language. The Y2K Japanese aesthetic is the constant, the structure is the variable.
+```
+
+
+---
+
+## 例 471：Nostalgic Memory Grid Layout
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071561442013118600) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case471.jpg](images/case471.jpg)
+
+```text
+Generate a {argument name="grid layout" default="4x3"} seamless grid layout where every panel shows a separate scene featuring the {argument name="subject" default="a young woman"}. Keep subject appearance, colors, and lighting perfectly consistent across all panels. Theme: {argument name="theme" default="childhood memories"}, mood: {argument name="mood" default="warm, nostalgic"}, style: {argument name="style" default="nostalgic cinematic realism"}. No text, no gaps.
+```
+
+
+---
+
+## 例 472：A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...
+
+**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2047179669011616172) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case472.jpg](images/case472.jpg)
+
+```text
+A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
 ```
 
 

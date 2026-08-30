@@ -1,7 +1,7 @@
 # 图表与信息可视化 — 提示词合集
 
 
-> 76 个案例
+> 149 个案例
 
 ---
 
@@ -2341,6 +2341,9 @@ Important: all stats must be realistic and proportional to the player's real car
 
 **来源：** awesome-gpt-image-2
 
+![case351.jpg](images/case351.jpg)
+
+
 ```text
 Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
 ```
@@ -2351,6 +2354,9 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 ## 例 352：3D Stone Staircase Evolution Infographic
 
 **来源：** awesome-gpt-image-2
+
+![case352.jpg](images/case352.jpg)
+
 
 ```text
 {
@@ -2619,6 +2625,9 @@ Clean background, ultra-detailed engineering style, premium typography, luxury p
 
 **来源：** [@AmberPromptai](https://x.com/AmberPromptai)
 
+![case369.jpg](images/case369.jpg)
+
+
 ```text
 {
   "type": "e-commerce product infographic",
@@ -2687,6 +2696,9 @@ Clean background, ultra-detailed engineering style, premium typography, luxury p
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
 
+![case370.jpg](images/case370.jpg)
+
+
 ```text
 [中文]
 （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
@@ -2700,6 +2712,9 @@ Clean background, ultra-detailed engineering style, premium typography, luxury p
 ## 例 371：品牌口红推荐报告信息图
 
 **来源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
+
+![case371.jpg](images/case371.jpg)
+
 
 ```text
 一、系统角色
@@ -2833,6 +2848,2337 @@ Tom Ford：
 
 ———
 品牌：YSL
+```
+
+
+---
+
+## 例 372：长发造型分析信息图
+
+**来源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
+
+![case372.jpg](images/case372.jpg)
+
+```text
+Create a professional "HAIRSTYLE ANALYSIS" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.
+
+Style should be clean, modern, premium grooming guide (similar layout but not identical).
+
+TOP TITLE:
+"HAIRSTYLE ANALYSIS - Long Hair Edition"
+
+LEFT PANEL (Key Features with icons):
+Face Shape: Oval
+Hair Type: Thick
+Texture: Wavy
+Length: Long
+
+BEST OPTIONS (Top row with green indicators):
+Layered Flow Cut (Adds movement & volume)
+Modern Curtain Hair (Stylish & balanced)
+Textured Long Waves (Natural & full)
+Loose Slick Back (Controlled but not flat)
+
+LESS FLATTERING (Bottom row with red indicators):
+Flat Straight Long Hair (No volume)
+Overly Oily Slick Back (Too heavy)
+Uneven Long Layers (Messy shape)
+Excessively Frizzy Look (Uncontrolled)
+
+BEST HAIR LENGTH SECTION:
+Ideal: 6-10 inches with layers
+Avoid: Too flat or too heavy bottom
+
+BEST HAIR COLORS:
+Dark Brown
+Natural Black
+Warm Brown
+Ash Brown
+
+DESIGN STYLE:
+Clean grid infographic
+White/beige background
+Soft shadows
+Premium magazine look
+Realistic face and hair detail
+Consistent spacing and typography
+High resolution, 4K
+```
+
+
+---
+
+## 例 373：手机爆炸拆解图
+
+**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
+
+![case373.jpg](images/case373.jpg)
+
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+```
+
+
+---
+
+## 例 374：奢华个人色彩档案信息图
+
+**来源：** [@meng_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
+
+![case374.jpg](images/case374.jpg)
+
+```text
+LUXURY PERSONAL COLOR PROFILE — EDITORIAL LAYOUT
+Studio portrait of subject as anchor — skin retouched to luminous glass-like perfection, preserved natural structure, realistic pore texture, soft directional key lighting, no facial alteration. Background: warm ecru parchment with subtle linen grain texture. Layout reads like a Vogue Italia beauty supplement printed on heavyweight matte stock. Structured editorial grid, 3-column asymmetric, wide negative space, serif condensed display headers, all labels in spaced uppercase tracking, cohesive warm ivory/sand/ecru background system throughout all panels, ultra-photorealistic 8K, soft diffused studio lighting, flat elegant surfaces, no drop shadows.
+PANELS:
+① UNDERTONE DIAGNOSIS — Tonal spectrum bar from cool ash to warm amber, precision needle marker on subject's reading. Labels: Cool / Neutral-Cool / Neutral / Neutral-Warm / Warm. Fine annotation text.
+② SEASONAL COLOR PALETTE — 10–12 fabric-textured swatches in subject's optimal season. Each labeled with poetic color name and HEX. Grouped: Power Colors / Softest Options / Harmonizing Neutrals.
+③ COLORS TO AVOID — Desaturated row of clashing tones with fine editorial strikethrough. Clean, non-harsh presentation.
+④ MAKEUP CARTOGRAPHY — Eyeshadow gradient dust swatches / blush tones fanned on skin strip / lip spectrum barely-there to bold / highlighter finishes labeled: champagne, rose gold, pearlescent ivory.
+⑤ HAIR COLOR SPECTRUM — Curved gradient strip: base, dimension, highlight, contrast tones. Gold bracket indicators on best options.
+⑥ JEWELRY & METAL GUIDE — Flat-lay editorial render: yellow gold, rose gold, oxidized silver, platinum finishes alongside complementary stone tones. Minimal styling.
+⑦ YOU IN YOUR PALETTE — 3–4 editorial lookbook frames, subject in palette-correct outfits. Mood labels: Quiet Luxury / Off-Duty Editorial / Evening Presence.
+⑧ CAPSULE WARDROBE GRID — Outfit flatlay: tops, bottoms, outerwear, shoes, bag — all palette-correct. Coordinating lines showing interchangeability. Net-a-Porter editorial aesthetic.
+⑨ PRINTS & PATTERNS — 4 fabric print thumbnails: micro geometric, tonal abstract, classic stripe, floral scale. One-line styling note per print.
+⑩ STYLE ARCHETYPE — Single typographic panel. Style identity title set large (e.g. "Modern Romantic / Warm Classicist"). Three defining aesthetic words. Four-line editorial wardrobe philosophy note.
+RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm neutral color grading, soft diffused studio lighting consistent across all panels, one serif display font + one fine sans-serif body font, no gradients, flat matte surfaces only.
+```
+
+
+---
+
+## 例 375：古希腊三哲时间轴城市图
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
+
+![case375.jpg](images/case375.jpg)
+
+```text
+二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
+
+背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
+```
+
+
+---
+
+## 例 380：冠状病毒尺度缩放科学信息图
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
+
+![case380.jpg](images/case380.jpg)
+
+```text
+instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
+```
+
+
+---
+
+## 例 407：Neuro-AI 混合系统信息图
+
+**来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
+
+![case407.jpg](images/case407.jpg)
+
+```text
+Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.
+
+Visual Direction:
+• 1:1 composition
+• dark neutral background with glowing neural network overlays
+• palette: electric blue, violet, soft white, silver
+• elegant scientific typography and modular panels
+• central ultra-detailed human brain + AI circuit fusion render
+
+Main Subject:
+A realistic human brain merging with AI neural networks and digital circuitry.
+
+Include callouts:
+• memory encoding system
+• AI augmentation layer
+• cognitive signal pathways
+• emotional response mapping
+• sensory integration nodes
+• neural data transfer system
+• learning adaptation loops
+
+Modules:
+• Brain Function Overview
+• AI Enhancement Layers
+• Signal Flow Diagram
+• Cognitive Performance Metrics
+• Human vs AI Comparison Chart
+• Neural Safety Protocols
+• Future Evolution Path
+
+Style:
+“neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
+```
+
+
+---
+
+## 例 443：塔可爆炸拆解信息图
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
+
+![case443.jpg](images/case443.jpg)
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of tacos.
+
+Top → Bottom structure:
+Fresh Lettuce (crisp green texture with natural folds)
+→ Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)
+→ Melted Cheese (smooth cheddar texture)
+→ Grilled Meat Filling (juicy seasoned meat detail)
+→ Taco Shell Base (crispy golden shell texture)
+Perfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.
+
+Add clean infographic text labels with thin pointer lines using these exact labels:
+“Lettuce”
+“Salsa”
+“Cheese”
+“Meat”
+“Shell”
+Ultra-detailed food textures, premium commercial aesthetic, 8K.
+```
+
+
+---
+
+## 例 447：现代地铁工程信息图
+
+**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+
+![case447.jpg](images/case447.jpg)
+
+```text
+Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays
+• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting
+• Refined editorial typography hierarchy with modern transportation aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal transit-system iconography
+• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station
+• Thin precision annotation lines pointing toward transportation systems and smart engineering features
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.
+
+Surround the metro with scientific and engineering callouts explaining:
+
+• regenerative braking system
+• smart signalling & CBTC control
+• electric propulsion system
+• passenger information systems
+• safety and surveillance technology
+• platform screen doors
+• energy-efficient design
+• smart ventilation systems
+• accessibility features
+• track and infrastructure engineering
+
+Include modular infographic sections such as:
+
+• Metro System Overview
+• Technical Specifications
+• Train Dimensions & Layout
+• Passenger Capacity & Flow
+• Smart Control Systems
+• Sustainability Features
+• Track & Infrastructure Engineering
+• Signalling & Automation
+• Station Design & Facilities
+• Safety & Emergency Systems
+• Passenger Experience Features
+• Urban Connectivity & Network Map
+• Energy Efficiency Comparison
+• Construction & Expansion Timeline
+• “Top 5 Smart Innovations” section
+• Built for Future Smart Cities
+
+Add small premium visualization modules like:
+
+• metro network maps
+• train blueprint diagrams
+• station layout graphics
+• passenger flow visualizations
+• signalling workflow diagrams
+• energy-efficiency comparison charts
+• train configuration illustrations
+• smart-city connectivity graphics
+• platform safety diagrams
+• infrastructure cross-section visuals
+
+Style Keywords:
+
+“premium urban mobility encyclopedia”
+“editorial metro engineering handbook”
+“high-end transportation infographic”
+“scientific railway infrastructure poster”
+“museum-quality transit reference page”
+“modular smart-city knowledge system”
+“clean transportation editorial design”
+“ultra-detailed metro visualization”
+
+Avoid:
+
+• cluttered public advertisement aesthetics
+• cartoon transportation styling
+• unrealistic sci-fi levitating trains
+• excessive cyberpunk neon overload
+• chaotic city scenes
+• generic subway poster layouts
+
+The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.
+```
+
+
+---
+
+## 例 456：历史事件 2x2 可视化地图
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+
+![case456.jpg](images/case456.jpg)
+
+```text
+2x2 grid, 16:9, do this for 4 famous historical events:
+
+Render_Target =
+  ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )
+  + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )
+  + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )
+  + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )
+  - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )
+  - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )
+  - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+
+---
+
+## 例 457：运动轨迹舞者光绘海报
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
+
+![case457.jpg](images/case457.jpg)
+
+```text
+<instructions>
+input = 3 legendary dancer/choreographer
+input = ai inferred signature movement sequence
+
+function render_kinesphere ($ dancer, $ movement)
+  anchor:
+    [figure composed entirely of motion trails] :: [the $ movement sequence traced as continuous luminous bands that coalesce into a portrait of $ dancer]::5
+
+  morphology:
+    the arabesque trails weave the skull, a grand jeté arc forms the cheekbone, the arms' sweep creates the jaw, stillness is implied by negative spaces::4
+
+  material physics:
+    blackened silver gelatin print, faint chemical residue, slight motion blur, glowing filament traces like a Marey wheel photograph::3
+
+  illumination:
+    complete darkness with bioluminescent-like light trails, no external light sources, high contrast::2
+
+  render stack:
+    chronophotography, fine art dance study, 8k, kinetic sculpture concept::1
+
+  negative:
+    [still body parts, studio lights, solid silhouettes]::-1
+</instructions>
+```
+
+
+---
+
+## 例 463：黑色吊带袜单款图鉴展示
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245)
+
+![case463.jpg](images/case463.jpg)
+
+```text
+《黑色丝袜图鉴款式单图》提示词：
+
+请基于同一套「黑色丝袜 / 吊带袜图鉴」系列风格，继续生成 8 张对应单款的独立展示图。
+
+【系列要求】
+- 这些图片必须和已完成的总览图鉴属于同一个系列
+- 整体版式、字体、色调、背景、质感、排版逻辑保持一致
+- 都是竖版、高完成度、暖白 / 浅灰白背景、轻奢女性向时尚图鉴风格
+- 每一张都像同一个品牌或同一套视觉系统下的延展页面
+
+【每张单图的共同结构】
+1. 顶部标题区
+- 英文系列标题：BLACK GARTER GUIDE
+- 中文主标题：黑色丝袜 / 吊带袜单款展示
+- 当前款式名称：__________
+- 一句简短副标题：突出该款式的核心特点
+
+2. 中部主体区
+- 以 1 位成人女性模特穿戴展示为主
+- 重点展示对应款式的关键细节：
+  - 经典蕾丝款：袜口蕾丝、优雅氛围
+  - 细网眼款：网格纹理、轻盈通透
+  - 波点款：波点图案、复古俏皮
+  - 后缝线款：背后缝线、线条感
+  - 竖条纹款：纵向条纹、修饰腿型
+  - 交叉绑带款：绑带结构、设计感
+  - 极简透肤款：透明感、基础百搭
+  - 花纹蕾丝款：花纹装饰、浪漫氛围
+- 每张图的人物长相、发型、姿势、镜头角度要不同，但都要保持高级、真实、性感、写实
+- 允许使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿势
+- 画面要有立体感、阴影层次和高级编辑感
+
+3. 注释区
+- 每张图都要保留 3 到 5 条手绘式标注
+- 可以使用箭头、短线、圈注、手写风标签
+- 标注内容要围绕该款式最关键的细节，比如：
+  - 袜口结构
+  - 花纹纹理
+  - 透明度
+  - 缝线位置
+  - 绑带方式
+  - 腿部线条效果
+- 标注文字简洁、清楚、统一风格
+
+4. 底部信息区
+- 加入简短的 “Style Notes / 风格速记”
+- 用 1 到 2 句说明该款适合的场景和氛围
+- 保持简洁，不要抢主体
+
+【统一视觉要求】
+- 保持和总览图鉴完全统一的整体视觉系统
+- 背景统一为暖白、浅灰白或奶白
+- 风格统一为高级、干净、时尚图鉴感、轻奢女性视觉
+- 模特必须真实、立体、写实、自然肤质
+- 每张图都要突出产品，不要低俗，不要过度情色化
+- 每张图都应像同一系列里的不同章节，避免呈现为彼此割裂的作品
+
+【款式列表】
+1. 经典蕾丝款 / Classic Lace
+2. 细网眼款 / Fine Fishnet
+3. 波点款 / Dot Sheer
+4. 后缝线款 / Back Seam
+5. 竖条纹款 / Stripe Sheer
+6. 交叉绑带款 / Cross Strap
+7. 极简透肤款 / Minimal Sheer
+8. 花纹蕾丝袜 / Floral Lace
+
+【输出目标】
+按以上 8 个款式，分别生成 8 张独立展示图。
+要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
+```
+
+
+---
+
+## 例 469：导览式科普绘本
+
+**来源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521)
+
+![case469.jpg](images/case469.jpg)
+
+```text
+《导览式科普绘本》提示词：
+
+请根据【主题】创作一张高完成度的「导览式科普绘本」风格插画。
+
+这是一张结合“大型场景主视觉 + 导览路线 + 可爱导览 IP + 知识站点 + 儿童科普绘本质感”的场景导览式科普图解页。画面需要让观者像被带着参观一个复杂系统一样，边看边理解主题背后的运行逻辑、空间结构、流程关系和关键知识点。
+
+【基础设定】
+主题：【填写主题，例如发射场的一天 / 一个集装箱的旅行 / 地铁站里的秘密路线 / 下潜到深海的一小时 / 机场如何运转 / 医院急诊系统 / 智慧农场 / 消防站出警流程】
+画幅比例：【4:3 横版】
+主色调：【根据主题自动匹配，整体保持明亮、清爽、儿童友好】
+风格方向：【现代儿童科普绘本 / 场景导览式图解 / 高完成度数字插画】
+
+【核心表达】
+请围绕【主题】设计一个完整的大型场景或复杂系统。画面中必须有一个明确的主视觉场景，例如大型设施、交通系统、科技装备、自然探索场景、城市公共系统或生产流程。主体要足够清晰、有规模感、有细节，能够成为第一眼的视觉中心。
+
+画面要通过“导览路线”的方式组织信息，避免仅把场景做成静态陈列。请设计一条清晰的参观路线、流程路线、时间线或空间动线，让读者可以沿着路线一步步理解这个系统是如何运行的。
+
+【导览 IP 设计】
+请为本图设计一个原创、可爱、亲和的导览小 IP。导览 IP 可以是小动物、小朋友、拟人化工具或其他适合主题的原创形象，但必须具有独立原创性，不要照搬任何参考图中的角色、动物形象、服装、配色或搭档关系。
+
+导览 IP 的作用是：
+1. 开场介绍主题
+2. 指向关键知识点
+3. 引导读者顺着路线阅读
+4. 增加儿童绘本的陪伴感和趣味性
+
+导览 IP 可以在画面中出现 2-3 次，但不要过度抢主视觉。角色应圆润、可爱、有表情、有动作，适合儿童科普绘本。
+
+【信息结构】
+画面中请设置 3-6 个“知识站点”，每个站点用简短中文标签和短说明表达。站点命名可以采用：
+- 第1站｜xxx
+- 第2站｜xxx
+- 重点观察｜xxx
+- 小知识｜xxx
+- 为什么｜xxx
+- 如何工作｜xxx
+
+每个知识点都要围绕主题的核心运行逻辑展开，不要写空泛说明。文字要短、清楚、自然，避免长段落，适合儿童阅读。
+
+【画面模块】
+整张图建议包含以下模块：
+1. 顶部主标题区：清楚写出主题名称
+2. 开场导览区：导览 IP 引出主题
+3. 大型主场景区：展示主题系统的完整场景
+4. 导览路线区：用箭头、虚线、路径、时间节点或流程线串联知识点
+5. 知识站点区：用小信息框、导览牌、局部标注展示关键知识
+6. 小百科 / 小贴士区：补充一个有趣知识
+7. 收尾区：让导览 IP 做简短总结或引导
+
+【构图要求】
+画面采用 4:3 横版构图，整体像一本高质量儿童科普绘本的跨页，也像一张儿童科技馆导览图。画面需要有清晰的视觉重心：大型主场景占据主要空间，导览路线贯穿画面，知识模块自然分布在周围。信息丰富但不能杂乱，阅读路径要顺畅。
+
+【视觉风格】
+整体采用现代儿童科普绘本风格：
+- 明亮、清爽、干净的色彩
+- 清晰自然的手绘线条
+- 高完成度数字插画质感
+- 细节丰富但有秩序
+- 可爱但不低幼
+- 有科普图解感
+- 有导览地图感
+- 场景真实可信，但表达方式亲和
+
+【文字与标注】
+文字以中文为主，使用短标题、短标签、简短说明。不要生成大段复杂文字。信息框应像儿童科普书中的导览牌、知识卡片或小贴士。文字要尽量清晰、简洁、可读。
+
+【最终目标】
+让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
+```
+
+
+---
+
+## 例 494：电动巴士工程信息图
+
+**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+
+![case494.jpg](images/case494.jpg)
+
+```text
+Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.
+
+Visual Direction
+
+• 1:1 square composition
+• Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics
+• Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium transit-system dividers
+• Minimal transportation engineering iconography
+• Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard
+• Thin precision annotation lines pointing toward key systems and technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation
+
+A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:
+
+• sleek aerodynamic body design
+• panoramic windshield
+• illuminated destination display
+• low-floor accessibility layout
+• futuristic LED lighting systems
+• premium electric drivetrain details
+• realistic urban reflections
+• smart-city transportation realism
+
+Surround the bus with engineering callouts explaining:
+
+• battery pack technology
+• electric motor system
+• regenerative braking system
+• charging infrastructure compatibility
+• smart fleet management systems
+• passenger accessibility features
+• thermal battery management
+• energy-efficiency technologies
+• safety monitoring systems
+• intelligent driver assistance features
+
+Include Modular Sections
+
+• E-Bus Overview
+• Technical Specifications
+• Vehicle Dimensions & Capacity
+• Powertrain & Energy System
+• Battery Technology Breakdown
+• Charging Solutions
+• Passenger Comfort Features
+• Safety & Reliability Systems
+• Fleet Management Technology
+• Environmental Impact Analysis
+• Operating Cost Comparison
+• Construction & Material Engineering
+• Sustainability Lifecycle Assessment
+• Smart-City Integration
+• Global Adoption Trends
+• “Did You Know?” Facts Section
+• Future of Electric Public Transport
+
+Add Premium Visualization Modules
+
+• battery architecture diagrams
+• charging workflow graphics
+• energy-consumption charts
+• passenger-capacity visualizations
+• smart-city integration maps
+• drivetrain cutaway illustrations
+• environmental impact comparisons
+• fleet-management dashboards
+• vehicle blueprint dimensions
+• lifecycle sustainability graphics
+
+Style Keywords
+
+“premium transportation encyclopedia”
+“editorial electric mobility handbook”
+“high-end public transit infographic”
+“scientific transportation poster”
+“museum-quality electric bus reference page”
+“modular smart-city knowledge system”
+“clean engineering editorial design”
+“ultra-detailed mobility visualization”
+“future transportation showcase”
+“sustainable urban mobility design”
+
+Avoid
+
+• generic vehicle advertisements
+• cluttered commercial brochure layouts
+• cartoon transportation styling
+• unrealistic flying-bus concepts
+• excessive cyberpunk neon overload
+• low-detail stock-vehicle renders
+
+Final Goal
+
+The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
+```
+
+
+---
+
+## 例 544：幼儿词汇拆解学习卡
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
+
+![case544.jpg](images/case544.jpg)
+
+```text
+Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.
+
+Feature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.
+
+Add the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.
+
+The overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.
+```
+
+
+---
+
+## 例 545：Chinese Wildlife Infographic
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2068852226844664044) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case545.jpg](images/case545.jpg)
+
+```text
+Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
+```
+
+
+---
+
+## 例 546：Apple Pods Pro 3 Headphone E-Commerce Infographic
+
+**来源：** [@meng_dagg695](https://x.com/meng_dagg695/status/2047935217231663186) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case546.jpg](images/case546.jpg)
+
+```text
+High-impact e-commerce infographic for "Apple Pods Pro 3" 
+premium wireless over-ear headphones.
+
+FOREGROUND - PRODUCT HERO SHOT
+Extreme close-up of a hand holding a sleek, 
+matte-white premium over-ear headphone toward the camera 
+at a slight angle. The headphone features:
+- Glossy white ear cushions with soft memory foam padding
+- Brushed aluminum silver headband with subtle Apple Pods 
+  Pro 3 embossed branding
+- Black mesh speaker grille visible on the ear cup face
+- A tiny glowing green LED status indicator on the 
+  right ear cup edge
+- Subtle touch-control icons etched on the outer cup surface
+
+Macro-lens shallow depth of field — hand and headphone 
+slightly blurred at edges to create cinematic depth. 
+Product remains razor-sharp in center frame.
+
+CENTRAL SUBJECT — MODEL
+In the mid-ground: a smiling young woman with freckles 
+and wavy pastel-pink hair. She wears:
+- A vibrant lime-green knit beanie
+- A psychedelic black and white-striped long-sleeve shirt
+- The white over-ear headphones resting stylishly 
+  around her neck (not on ears) — one hand casually 
+  touching the ear cup
+
+Expression: relaxed, confident, joyful. 
+She is glancing slightly off-camera with a natural smile.
+
+BACKGROUND & ATMOSPHERE
+Clean soft-focus studio backdrop — light gray gradient 
+fading to warm white at center. 
+
+Atmospheric overlays:
+- Diagonal rainbow prism lens flares cutting across 
+  upper-left to lower-right
+- Soft pastel light leaks in pink and yellow at corners
+- 4–5 blurred white over-ear headphones floating 
+  artistically in the background at various depths 
+  and rotation angles
+- Subtle bokeh circles from background studio lights
+
+Lighting: Soft professional three-point studio lighting. 
+Key light from upper-left, fill light right side. 
+Rim light behind model for separation. 
+Glossy highlights on headphone surfaces catching light naturally.
+
+TYPOGRAPHY & LAYOUT — Sans-Serif, Clean white 
+TOP CENTER (behind model, large background text):
+→ Massive bold oversized text: "HEADPHONES"
+   Semi-transparent white, spanning full width behind subject
+
+TOP RIGHT CORNER:
+→ Bold clean text: "Apple Pods Pro 3"
+   Subtitle smaller text: "Over-Ear Wireless"
+
+MID LEFT:
+→ Icon: small sound wave symbol
+→ Bold text: "Premium Sound"
+→ Sub-text: "Active Noise Cancellation + Transparency Mode"
+
+MID RIGHT:
+→ Extra-large bold numeral: "40"
+→ Smaller text below: "hours of battery life"
+
+LOWER LEFT:
+→ Extra-large bold numeral: "0"
+   with "to" beside it → then bold "100%"
+→ Sub-text: "Fast charge — 10 min = 3hrs playback"
+
+BOTTOM RIGHT:
+→ Extra-large bold numeral: "1"
+→ Sub-text: "Year Warranty Included"
+
+BOTTOM CENTER (fine print style):
+→ Small elegant text: 
+   "Bluetooth 5.4  |  Hi-Res Audio Certified  
+    |  Foldable Design  |  USB-C Charging"
+
+TECHNICAL SPECS
+Resolution: 8K ultra-sharp
+Style: Commercial product photography meets 
+       editorial fashion advertising
+Color Palette: White, lime green, pastel pink, 
+               rainbow prism accents
+Focus: Tack-sharp on headphone product — 
+       shallow DOF on everything else
+Lens: 85mm macro, slight low angle
+Render Quality: Hyperrealistic, clean ad aesthetic, 
+                vibrant yet professional color grading
+```
+
+
+---
+
+## 例 547：前后端数据库 SaaS 信息图
+
+**来源：** [@alantech_](https://x.com/alantech_/status/2050462324486783060) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case547.jpg](images/case547.jpg)
+
+```text
+gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
+```
+
+
+---
+
+## 例 548：Outfit Breakdown Chart
+
+**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2051230882069901713) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case548.jpg](images/case548.jpg)
+
+```text
+Create a clean vertical fashion infographic from the uploaded portrait. Preserve the same face identity, hairstyle, body shape, and overall outfit style. Place the full-body character in the center in a relaxed T-pose, facing forward. Surround the character with realistic photo-style outfit breakdown elements, connected by thin arrows.
+
+Include separate cutout sections for: head details, cardigan, sailor top, inner blouse, plaid skirt, bag, socks, loafers, color palette, styling notes, and fabric texture. Add 3–4 head close-ups from different angles at the top. Use short English handwritten-style labels and concise bullet points.
+
+Visual style: soft pastel cream and blush-pink background, clean fashion board layout, elegant magazine-style composition, sweet preppy aesthetic, realistic fabric textures, delicate borders, small bow and heart doodles, airy and polished design. Keep the text short, readable, and fully in English. Original vertical aspect ratio.
+
+Negative Prompt:
+
+Chinese text, long text, messy layout, old parchment background, yellow aged paper, blurry details, distorted face, changed identity, extra limbs, bad hands, duplicated body, unrealistic fabric, cartoon style, anime style, 3D render, watermark, logo, unreadable typography, overcrowded design, harsh colors, low resolution.
+```
+
+
+---
+
+## 例 549：Recipe Infographic Layout
+
+**来源：** [@aiistudiocom](https://x.com/aiistudiocom/status/2051060312351342957) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case549.jpg](images/case549.jpg)
+
+```text
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
+```
+
+
+---
+
+## 例 550：Personal Color Analysis Graphic Board
+
+**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2049730770474877234) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case550.jpg](images/case550.jpg)
+
+```text
+Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+
+---
+
+## 例 551：Handwritten Study Infographic Poster
+
+**来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2054264025178079718) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case551.jpg](images/case551.jpg)
+
+```text
+Aesthetic handwritten study infographic poster designed like a beautifully organized digital-notebook page, soft pastel color palette with gentle tones of baby pink, sky blue, mint green, lavender, and soft yellow highlights. The background is a realistic notebook paper grid texture with subtle shadows and paper grain for authenticity.
+The layout is clean and structured like high-quality study notes, featuring neatly written handwritten-style typography in smooth black ink and blue pen. Content is arranged in well-spaced bullet points, numbered sections, and small boxed highlights for key information. Important words are emphasized using pastel highlighter strokes in pink, yellow, and light blue.
+
+Decorative elements include cute hand-drawn doodles in the margins such as stars, arrows, hearts, smiley faces, paper clips, sticky notes, and simple icons (books, pens, lightbulb,checklist). Sticky notes are layered naturally on the page with soft shadows, slightly tilted for a realistic collage effect.
+
+The composition feels cozy, aesthetic, and highly organized—like a Pinterest viral study aesthetic or an Instagram “studygram” post. Soft lighting, gentle shadows, and minimal clutter ensure readability while maintaining visual charm. The design feels calming, motivating, and academically inspiring.
+
+Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery aesthetic, soft depth of field, realistic paper texture, high-end digital illustration style.
+```
+
+
+---
+
+## 例 552：Sony Camera Reference Infographic
+
+**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2056003752927379750) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case552.jpg](images/case552.jpg)
+
+```text
+Create a premium square “reference-style photography equipment infographic” centered around a modern Sony mirrorless camera such as the {CAMERA_MODEL}, designed as a beautifully curated camera-engineering handbook page rather than a retail advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite photographer’s field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium studio-tech background with subtle photography-grid textures, optical schematics, and cinematic UI overlays
+• Elegant muted palette using matte black, graphite gray, titanium silver, warm orange accents, and subtle electric-blue highlights
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal professional photography iconography
+• Extremely detailed central camera render viewed in dramatic three-quarter perspective with studio lighting and shallow depth-of-field aesthetics
+• Thin precision annotation lines pointing toward camera hardware systems and imaging technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {CAMERA_MODEL} placed at the center, featuring premium magnesium-alloy body textures, realistic lens glass reflections, tactile control dials, advanced sensor detailing, cinematic lighting, and ultra-realistic photography gear presentation.
+
+Surround the camera with scientific and engineering callouts explaining:
+
+• full-frame image sensor
+• AI autofocus system
+• image stabilization technology
+• electronic viewfinder system
+• advanced video recording features
+• dual card-slot architecture
+• battery performance system
+• weather-sealed body design
+• lens ecosystem compatibility
+• wireless connectivity systems
+
+Include modular infographic sections such as:
+
+• Camera Overview
+• Technical Specifications
+• Dimensions & Build
+• Sensor & Image Quality
+• Processor & Performance
+• Autofocus & Subject Tracking
+• Video Recording Features
+• Stabilization Technology
+• Shooting Modes & Burst Performance
+• Lens Ecosystem
+• Battery & Power System
+• Connectivity Features
+• Professional Workflow Integration
+• Included Accessories & Box Contents
+• “Top 5 Reasons to Choose” section
+• Ideal Photography & Filmmaking Use Cases
+
+Add small premium visualization modules like:
+
+• sensor cutaway diagrams
+• autofocus coverage maps
+• stabilization system graphics
+• lens ecosystem displays
+• battery performance charts
+• video codec comparison tables
+• camera blueprint dimensions
+• menu/UI mockups
+• accessory ecosystem visuals
+• performance benchmark graphics
+
+Style Keywords:
+
+“premium photography encyclopedia”
+“editorial camera handbook”
+“high-end photography infographic”
+“scientific imaging technology poster”
+“museum-quality camera reference page”
+“modular photography knowledge system”
+“clean cinematography editorial design”
+“ultra-detailed camera visualization”
+
+Avoid:
+
+• generic e-commerce advertisement aesthetics
+• cluttered tech layouts
+• unrealistic sci-fi hologram effects
+• cartoon camera styling
+• excessive cyberpunk neon overload
+• low-detail product renders
+
+The final result should resemble a professionally published photography-equipment reference-book page created for photographers, cinematographers, content creators, camera collectors, engineers, and educational imaging archives.
+```
+
+
+---
+
+## 例 553：Desk Setup Audit Infographic
+
+**来源：** [@DilshadAI1](https://x.com/DilshadAI1/status/2055962696936468714) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case553.jpg](images/case553.jpg)
+
+```text
+Create a visual-first, editorial-style infographic auditing the desk setup in the attached photo. Show a side-by-side of current vs. optimized setup with annotations on monitor height, chair position, lighting, cable management, and clutter. Rate each issue with symbols like Top Fix, (working), (acceptable), (costing energy), and (actively hurting), tying each to a consequence like back pain, eye strain, or focus loss. Rank fixes by impact and group them into free fixes, under $50, and worth the investment. Include a Focus Forecast gauge predicting daily deep work hours possible with the current setup vs. after the top 3 fixes. Keep it clean, minimal text, no paragraphs.
+```
+
+
+---
+
+## 例 554：Country Sports Infographic
+
+**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2055892804744929544) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case554.jpg](images/case554.jpg)
+
+```text
+Create a premium editorial infographic in a high-end magazine style about [COUNTRY]’s most iconic national [SPORT]
+
+Use a sophisticated dark navy blue, beige, and warm gold color palette with clean minimalist typography and subtle grid lines.
+
+Layout structure (perfectly balanced, cinematic composition for vertical format):
+
+- Central large hero image: A hyper-realistic, cinematic golden-hour photograph of [SPORT] in action — [detailed action scene description with iconic player or moment, stadium/venue, national colors, dramatic lighting], extremely detailed, National Geographic level photography, 8k resolution. The image should be vertically oriented and fill the central space beautifully.
+
+- Top banner: Elegant title “[COUNTRY]’s National Passion: [SPORT]” in bold modern serif font with the [COUNTRY] flag subtly integrated.
+
+Four structured content panels surrounding the central image in a clean vertical asymmetrical grid:
+
+1. History & Origins (above center): Short paragraph on [brief history: when introduced, key milestones, how it became national obsession]. Include 1–2 small historical icons or timeline markers.
+
+2. Legendary Athletes (upper right or below top banner): [Athlete 1], [Athlete 2], [Athlete 3], [Athlete 4] — small portrait thumbnails with key achievements and one signature quote or record each.
+
+3. Key Statistics (below central image, left side): Clean infographic-style stats in bold numbers:
+   - [Stat 1]
+   - [Stat 2]
+   - [Stat 3]
+   - [Stat 4]
+   Use small relevant icons (trophy, stadium, crowd, sport-specific items, etc.).
+
+4. Cultural Significance (below central image, right side): [How the sport shapes national identity, traditions, rivalries, daily life, and culture]. Include 1–2 small cultural photos or symbols.
+
+Design rules:
+- Luxurious editorial magazine aesthetic (think National Geographic × Kinfolk × Bloomberg Businessweek)
+- Thin gold accent lines, subtle shadows, generous white space
+- Small [COUNTRY] flag in the top-right corner
+- Professional sans-serif body text, elegant serif headings
+- Overall ultra-clean, balanced, premium feel with cinematic depth and rich texture
+- Aspect ratio 9:16 (vertical, mobile-friendly), ultra-high detail, no text distortion, sharp typography
+```
+
+
+---
+
+## 例 555：Editorial Anatomy Infographic Poster
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063202176344932732) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case555.jpg](images/case555.jpg)
+
+```text
+prompt:
+
+Ultra-clean editorial infographic poster (1080x1080 square), blending premium magazine design with lifestyle illustration and photography.
+
+**HEADLINE:**
+Bold, large sans-serif type centered at top: "HUMAN LIVER"
+
+**MAIN IMAGE:**
+High-detail 3D illustration of the human liver, showing the Right Lobe, Left Lobe, and Gallbladder. Color palette: terracotta, deep brownish-red, and soft coral tones. Background: clean, soft beige or off-white. Lighting: soft studio style.
+
+**POSTER SECTIONS:**
+
+* **Floating Fact Bubbles (top corners):**
+    * "Weight: ~1.5 kg (Heaviest internal organ)"
+    * "Regeneration: Can regrow from just 25%"
+    * "Location: Upper Right Abdomen"
+    * "Blood Flow: Filters 1.4 L/min"
+
+* **Organ Labels (arrows pointing to anatomy):**
+    * Right Lobe
+    * Left Lobe
+    * Gallbladder (greenish sac below)
+    * Common Bile Duct
+    * Hepatic Portal Vein
+
+* **Key Functions (left column, small icons):**
+    * **Detox:** Filters toxins from blood
+    * **Bile:** Aids fat digestion
+    * **Metabolism:** Processes carbs and protein
+    * **Storage:** Holds glycogen, iron, vitamins
+
+* **Highlights (right column, small icons):**
+    * **Chemical Factory:** 500+ vital functions
+    * **Immunity:** Fights blood-borne infections
+    * **Clotting:** Makes blood-clotting proteins
+
+* **Health Tips (bottom cards):**
+    1. **Limit Alcohol** - Prevents cirrhosis
+    2. **Stay Hydrated** - Flushes toxins
+    3. **Balanced Diet** - Low sugar, high fiber
+    4. **Vaccinate** - Hepatitis A & B protection
+    5. **Exercise** - Burns fat and triglycerides
+
+**STYLE:** Glassmorphism frosted-glass text boxes, soft drop shadows, medical accuracy meets high-end graphic design.
+```
+
+
+---
+
+## 例 556：Modern Recipe Infographic Board
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063724080717783194) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case556.jpg](images/case556.jpg)
+
+```text
+Ultra-clean modern recipe infographic. Showcase your dish in a visually appealing finished form, sliced, plated, or portioned, floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not top-down. Ingredients: include icons or mini illustrations for each ingredient with quantities, arranged in clusters, lists, or circular flows connected visually to the dish. Steps: show preparation steps with numbered panels, arrows, or lines forming a logical flow. Include small cooking icons (knife, pan, oven, timer) where helpful. Optional info: total calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors highlight key info. Composition: finished meal as hero visual (perspective or angled), ingredients and steps flow dynamically around the dish, clear visual hierarchy, enough negative space to keep design airy and readable. Lighting: soft natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080x1080, ultra-crisp, social-feed optimized.
+
+Full prompt:
+```
+
+
+---
+
+## 例 557：Scandinavian Cookbook Recipe Spread
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069197657147638241) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case557.jpg](images/case557.jpg)
+
+```text
+{
+  "style": "Clean minimalist recipe infographic",
+  "visual_aesthetic": {
+    "photography_style": "Top-down and 3-quarter angle food photography",
+    "design_language": "Nordic editorial cookbook aesthetic",
+    "background": "Warm beige / cream neutral",
+    "lighting": "Soft diffused light with gentle shadows",
+    "detail_level": "Photorealistic, ultra-sharp, 8K quality"
+  },
+  "layout": {
+    "composition": "Hero dish centered on a white ceramic plate or bowl",
+    "elements": [
+      "Ingredient icons in soft rounded frames",
+      "Minimal vector-style ingredient illustrations",
+      "Ingredient labels with quantities",
+      "Numbered step-by-step cooking flow with icons"
+    ],
+    "typography": "Modern sans-serif, high readability",
+    "spacing": "Airy, balanced, uncluttered"
+  },
+  "recipes": [
+    {
+      "dish_name": "Traditional Polish Pierogi",
+      "dish_presentation": "Golden boiled dumplings stuffed with potato and farmer cheese, finished with butter and fresh chives",
+      "ingredients": [
+        { "name": "All-purpose flour", "quantity": "2.5 cups" },
+        { "name": "Potatoes", "quantity": "3 medium" },
+        { "name": "Farmer cheese", "quantity": "200g" },
+        { "name": "Onion", "quantity": "1 medium" },
+        { "name": "Butter", "quantity": "40g" },
+        { "name": "Salt", "quantity": "1 tsp" },
+        { "name": "Water", "quantity": "0.75 cups" }
+      ],
+      "steps": [
+        "Make the dough",
+        "Cook and mash the filling",
+        "Fill and fold pierogi",
+        "Boil until tender",
+        "Finish with butter"
+      ],
+      "meta": {
+        "calories": "270 kcal / serving",
+        "time": "70 min",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Vinaigrette Salad",
+      "dish_presentation": "Vibrant diced root vegetables tossed in a light dressing, shaped and garnished with fresh herbs",
+      "ingredients": [
+        { "name": "Beetroot", "quantity": "2 medium" },
+        { "name": "Potatoes", "quantity": "2 medium" },
+        { "name": "Carrots", "quantity": "1 medium" },
+        { "name": "Pickled cucumbers", "quantity": "2 pcs" },
+        { "name": "Green peas", "quantity": "1 cup" },
+        { "name": "Sunflower oil", "quantity": "2 tbsp" },
+        { "name": "Fresh dill", "quantity": "1 bunch" }
+      ],
+      "steps": [
+        "Boil the vegetables",
+        "Cool and dice",
+        "Combine all ingredients",
+        "Dress the salad",
+        "Refrigerate and serve"
+      ],
+      "meta": {
+        "calories": "180 kcal / serving",
+        "time": "30 min + chill",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Solyanka Soup",
+      "dish_presentation": "Hearty soup loaded with sliced mixed meats, briny olives, lemon, and fresh herbs, served in a ceramic bowl",
+      "ingredients": [
+        { "name": "Mixed meats", "quantity": "400g" },
+        { "name": "Onion", "quantity": "1 large" },
+        { "name": "Pickles", "quantity": "3 pcs" },
+        { "name": "Tomato paste", "quantity": "2 tbsp" },
+        { "name": "Olives", "quantity": "0.5 cup" },
+        { "name": "Garlic", "quantity": "2 cloves" },
+        { "name": "Bay leaf", "quantity": "1 pc" },
+        { "name": "Lemon", "quantity": "for serving" }
+      ],
+      "steps": [
+        "Prepare the broth",
+        "Saute aromatics",
+        "Add meats and pickles",
+        "Season and simmer",
+        "Serve with lemon"
+      ],
+      "meta": {
+        "calories": "320 kcal / serving",
+        "time": "90 min",
+        "servings": 5
+      }
+    }
+  ]
+}
+```
+
+
+---
+
+## 例 558：Taoist Three Souls Seven Po Poster
+
+**来源：** [@leyu37829](https://x.com/leyu37829/status/2048125950681075833) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case558.jpg](images/case558.jpg)
+
+```text
+A highly detailed vertical Taoist esoteric infographic poster in the style of an ancient Chinese religious scroll, printed on aged beige rice paper with fine ornamental borders, inked calligraphy, faded stains, and classical diagram annotations. At the top center, large black brush-calligraphy title text reads {argument name="headline text" default="道·三魂七魄"}. Directly below the title is a smaller paragraph of classical Chinese explanatory text in neat calligraphy. The composition is perfectly symmetrical and centered on a glowing vertical spiritual axis made of white-gold energy, mist, and lightning-like qi currents running from the bottom of the page to the heavens. At the very top, above the axis, depict 3 seated Taoist immortals or deities on clouds in a golden celestial realm, arranged left, center, and right, with halos and flowing robes in muted green, cream, and blue. Beneath them, create a towering multi-layered cosmological body diagram made of 9 stacked circular realms or platforms connected by swirling clouds and luminous energy. The upper 5 larger realms represent the five zang organs as miniature mythic landscapes: 1 forested green realm labeled liver/wood, 1 fiery red-gold temple city realm labeled heart/fire, 1 yellow earth realm with terraces labeled spleen/earth, 1 silver-blue mountain-and-water realm labeled lung/metal, and 1 dark blue watery abyss realm labeled kidney/water. Place a glowing meditating figure in a bright orb at the center junction between the upper organ realms and lower spirit layers. Below these, add 7 progressively darker circular underworld-like realms for the seven po souls, each densely populated with tiny scenes of human figures, spirits, beasts, ritual activity, suffering, temptation, conflict, and karmic symbolism, all wrapped by drifting smoke and energy ribbons. At the very bottom, show a seated human figure in meditation within a root-like cavern or corporeal foundation, surrounded by chains, rocks, and embodied worldly attachments. Around the central column, include exactly 9 labeled side panels and diagrams in traditional Chinese layout: top left a bagua and yin-yang cosmology circle; top right a dotted numerological or constellation-like chart; left upper a boxed list for 3 souls; right upper a boxed list for 7 po souls; left middle a five-elements relationship diagram with 5 colored nodes; right middle a circular essence-qi-spirit cycle diagram with 3 nodes; left lower a vertical boxed list of 7 categories or stages; right lower a boxed correspondence table; bottom left a five-direction and five-element human-body relation chart; bottom right a standing and seated meridian or cultivation body diagram. Use many small Chinese labels throughout every section, with classical seal stamps in red. The overall palette is antique parchment, sepia ink, muted jade, cinnabar red, smoky gray, gold, teal, and indigo. The style should feel like a museum-quality Daoist metaphysical chart, ultra intricate, hand-painted gongbi plus ink wash illustration, sacred, mystical, scholarly, dense with symbolism, extremely fine linework, soft cloud layering, and high-resolution poster design.
+```
+
+
+---
+
+## 例 559：Vintage Claude Shannon Infographic Poster
+
+**来源：** [@mob_17](https://x.com/mob_17/status/2048118645017219381) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case559.jpg](images/case559.jpg)
+
+```text
+{"type":"vintage editorial infographic poster","subject":"Claude Shannon and information theory","style":{"era":"1940s Bell Labs archival poster","look":"aged cream paper, blueprint drafting grid, thin ink linework, muted navy and charcoal printing, subtle stains and paper wear, technical illustration mixed with newspaper editorial design","rendering":"high-detail diagrammatic collage with engraved portrait, scientific charts, labeled panels, and hand-drawn signal graphics"},"poster":{"headline":"Claude Shannon — The Architecture of Information","subheadline":"How uncertainty became measurable, and communication became engineering.","topRightMeta":{"note":"NOTE TOSELF No. 6713–2","date":"MAY 1948","subject":"A Mathematical Theory of Communication"}},"layout":{"sections":[{"title":"left archival sidebar","position":"far left vertical column","count":5,"labels":["BELL LABORATORIES MURRAY HILL, N.J.","ENGINEERING THE INTANGIBLE","CLAUDE E. SHANNON 1916–2001","TOOLS OF THE INFORMATION AGE","quote panel"]},{"title":"THE COMMUNICATION MODEL","position":"upper middle wide panel","count":5,"labels":["1 INFORMATION SOURCE","2 ENCODER","3 CHANNEL","4 DECODER","5 DESTINATION"]},{"title":"ENTROPY: THE MEASURE OF UNCERTAINTY","position":"upper right box","count":4,"labels":["H(X) = −Σ p(x) log2 p(x)","PROBABILITY DISTRIBUTION p(x)","MORE EVEN MORE MAXED UNCERTAINTY","MORE LOPSIDED LESS UNCERTAINTY"]},{"title":"lower theory panels","position":"middle to lower band","count":3,"labels":["A ENTROPY — uncertainty before a message is known","B NOISE — randomness that corrupts transmission","C Redundancy & Error Correction — structure added so signals can survive failure"]},{"title":"THEORY THAT TRANSFORMED CIVILIZATION","position":"bottom horizontal timeline","count":8,"labels":["1840s TELEGRAPHY","1876+ TELEPHONE NETWORKS","1930s–40s DIGITAL COMPUTERS","1950s–60s SATELLITE COMMUNICATION","1970s INTERNET PROTOCOLS","1980s–90s DATA COMPRESSION","1990s–2000s CRYPTOGRAPHY","2010s+ AI & INFORMATION SYSTEMS"]}],"centerpiece":"a large abstract cloud of blue and gray signal noise, dots, lines, and waveforms behind the communication model, with arrows moving left to right through the five stages"},"visualElements":{"portrait":{"subject":"{argument name=\"scientist name\" default=\"Claude Shannon\"}","placement":"left-center","style":"black-and-white archival seated portrait at a desk with the face intentionally obscured by a pale square censor block, wearing suit and tie, writing on paper"},"objectsLeft":["rotary telephone on desk","open notebook or papers","technical console with CRT screen and knobs behind portrait","small icon row of 4 tools: oscilloscope, signal meter, relay, punched tape"],"communicationModel":["book and symbols under source","binary digits under encoder","large noisy channel cloud with wave overlays","binary digits and interpretation under decoder","light bulb icon under destination"],"chartsAndDiagrams":["bar chart for entropy probabilities","two low vs high entropy mini bar charts","tree diagram and entropy notation","signal distortion sketches labeled thermal noise, cross talk, distortion","error-correction binary pipeline from original message to recovered message"],"bottomDecor":["small waveform legend with sine wave, digital signal, and noise","archival stamp or footer on lower right"]},"color":{"background":"warm ivory paper","primaryInk":"dark navy","secondaryInk":"charcoal gray","accent":"faded steel blue"},"composition":"symmetrical wide poster with dense boxed annotations, fine border lines, and a museum-quality educational infographic feel","textDensity":"very high, with many small labels, formulas, captions, and historical notes in a carefully organized grid","aspectRatio":"16:9 landscape"}
+```
+
+
+---
+
+## 例 560：Water Signs Zodiac Character Poster
+
+**来源：** [@komorimedia](https://x.com/komorimedia/status/2048114825398731143) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case560.jpg](images/case560.jpg)
+
+```text
+{"type":"Chinese zodiac-style character infographic poster","subject":"twelve zodiac character list, water signs edition","language":"Traditional Chinese","format":"vertical poster","style":{"overall":"elegant anime-inspired character catalog with editorial infographic layout","rendering":"soft polished digital illustration, pastel gradients, delicate sparkles, ornamental border design","mood":"dreamy, celestial, refined, feminine, aquatic"},"canvas":{"aspect_ratio":"2:3","background":"very light pearl white with pale blue-lavender tint, subtle texture, thin decorative frame with filigree corners and tiny stars"},"header":{"title":"{argument name=\"headline text\" default=\"十二星座角色清單|水象星座\"}","subtitle":"感受・直覺・共鳴","icons":["small stars","water droplet emblem in top right","curled cloud-like line art in top left"]},"layout":{"sections_count":3,"sections":[{"title":"巨蟹座 Cancer","position":"top panel","theme_color":"powder blue","zodiac_symbol":"Cancer glyph inside circle at left","constellation":"Cancer constellation at upper right","count":6,"labels":["元素:水","概念:情感守護者,把人放在心上","性格:溫柔、敏感、顧家","行動原則:先確認感受,再保護重要的人","戀愛傾向:慢慢靠近,越熟越黏","人際怪癖:嘴上說沒事,實際會記很久"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, facing forward, arms gently wrapped around a large seashell pillow","hair":"long dark hair in a low ponytail","outfit":"light blue celestial slip dress with lace trim and sheer cardigan embroidered with stars and moons","accessories":"minimal jewelry","background":"soft blue night sky with crescent moon, seashell, sparkling stars, stylized ocean wave and tiny water droplets"}},{"title":"天蠍座 Scorpio","position":"middle panel","theme_color":"deep violet","zodiac_symbol":"Scorpio glyph inside circle at left","constellation":"Scorpio constellation at upper right","count":6,"labels":["元素:水","概念:深海偵察者,情緒有深度","性格:專注、神秘、意志強","行動原則:先觀察,再一擊到位","戀愛傾向:愛得深,重忠誠與獨占感","人際怪癖:越在乎越不說,會偷偷試探"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand near chin in a composed, enigmatic gesture","hair":"long dark ponytail","outfit":"black semi-sheer dress with gothic details and a dark plum off-shoulder shawl","accessories":"dangling earrings and layered necklace","background":"dark purple celestial sea scene with crescent moon, bubbles, stars, and curling misty water shapes"}},{"title":"雙魚座 Pisces","position":"bottom panel","theme_color":"lavender","zodiac_symbol":"Pisces glyph inside circle at left","constellation":"Pisces constellation at upper right","count":6,"labels":["元素:水","概念:夢境共感者,靠直覺導航","性格:浪漫、柔軟、有想像力","行動原則:先感受,再順流找答案","戀愛傾向:容易心動,渴望靈魂陪伴","人際怪癖:常把別人的情緒也一起感受"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand lifted as if balancing floating bubbles, other hand resting lightly at chest","hair":"long dark ponytail with a pale flower hair ornament","outfit":"translucent lavender fantasy dress with soft draped sleeves and shimmering fabric","accessories":"delicate earrings and necklace","background":"pale lilac underwater-celestial blend with bubbles, sparkles, and flowing translucent wave forms"}}],"dividers":"three horizontal framed panels with thin ornamental borders"},"footer":{"center_icon":"small blue seashell emblem","decorations":["tiny stars","fine scrollwork"]},"constraints":["all three zodiac entries must use the same woman as the base character with different styling, clothing, pose, and mood","text should be clean, editorial, and readable","each panel should clearly separate illustration area on the left and text block on the right","maintain cohesive water-element theme across all 3 signs","do not include the other nine zodiac signs in this image"]}
+```
+
+
+---
+
+## 例 561：Vintage PRS Guitar Lineage Poster
+
+**来源：** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2048087784141857235) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case561.jpg](images/case561.jpg)
+
+```text
+{"type":"luxury vintage guitar comparison infographic poster","subject":"a highly detailed, vertically oriented PRS electric guitar lineup chart designed like a premium museum poster or collector's reference board","style":"ornate, dark, glossy, high-contrast, gold-foil typography, elegant wood-and-metal textures, symmetrical grid layout, premium catalog aesthetic, subtle vintage patina, ultra sharp graphic design","branding":{"main headline":"THE LEGENDARY LINEAGE OF {argument name=\"brand name\" default=\"PRS GUITARS\"}","subheadline":"EVERY ICON. EVERY LINE. ONE HERITAGE.","signature":"Paul Reed Smith","left seal":"PAUL REED SMITH GUITARS","right seal":"MADE IN MARYLAND U.S.A."},"palette":{"background":"black and deep charcoal with dark figured wood accents","primary":"antique gold","secondary":"cream","accent colors":["deep green","teal","royal blue","purple","gold","burgundy"]},"layout":{"format":"single-page vertical poster","header":{"position":"top","elements":["large central title","small tagline below","script signature","2 circular emblems in upper left and upper right","3 horizontal legend boxes under the title"]},"sections":[{"title":"PRESTIGE TIER KEY","position":"upper left below title","count":6,"labels":["SE","S2","CE","CORE","WOOD LIBRARY","PRIVATE STOCK"]},{"title":"PICKUP ICON KEY","position":"upper center-right below title","count":7,"labels":["HH","HSH","P-90","SOAP","58/15","TCI","Bass"]},{"title":"TONAL CHARACTER KEY","position":"upper right below title","count":7,"labels":["Warm / Vintage","Balanced / All-around","Bright / Articulate","High Gain / Modern","Blues / Classic Rock","Metal / Progressive","Funk / Soul / Clean"]},{"title":"CORE","position":"first main row left label","count":7,"labels":["Custom 24","McCarty 594","DGT (David Grissom)","Custom 22","Hollowbody II","SC 594","row category panel"]},{"title":"S2","position":"second main row left label","count":6,"labels":["S2 Custom 24","S2 McCarty 594","S2 Standard 24","S2 Vela","S2 Singlecut","S2 Mira"]},{"title":"SE","position":"third main row left label","count":6,"labels":["SE Custom 24","SE Standard 24","SE Paul's Guitar","SE Santana","SE Hollowbody II","SE Mark Holcomb"]},{"title":"CE","position":"fourth main row left label","count":6,"labels":["CE 24","CE 22","CE 24 Semi-Hollow","CE 24 Floyd","CE 24 Satin","CE Bass"]},{"title":"BOLT-ON SERIES","position":"fifth main row left label","count":6,"labels":["NF 53","Silver Sky","NF 3","NF 53 Satin","DGT Bolt-On","Studio"]},{"title":"PRIVATE STOCK","position":"sixth main row left label","count":6,"labels":["Dragon I","Frostbite","#4004","The Tree of Life","#8731","PS DGT"]}],"footer":{"position":"bottom","elements":["small badge at lower left","centered company line","right-side script signature"]}},"content grid":{"total guitar models shown":37,"card design":"each product card contains a guitar render, model name, year, small pickup icons, a short descriptive blurb, and origin/wood specs at the bottom","row side panels":6},"visual details":{"guitars":"front-facing electric guitars with varied body shapes and highly polished figured maple tops, metallic and transparent finishes, some solid colors, some natural wood","typography":"all caps serif headlines, small serif body text, script signature accents","borders":"thin decorative gold rules around every panel and the full poster","lighting":"studio-lit instruments against dark panel backgrounds","render quality":"clean infographic precision with realistic product renders"},"camera":"straight-on flat poster view, no perspective distortion, centered composition","quality":"ultra detailed, print-ready, high-resolution editorial infographic, luxury brand poster"}
+```
+
+
+---
+
+## 例 562：Alishan One-Day Travel Poster
+
+**来源：** [@TWnese](https://x.com/TWnese/status/2048077204786212887) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case562.jpg](images/case562.jpg)
+
+```text
+Create a vintage illustrated travel poster in traditional Chinese for {argument name="destination name" default="阿里山國家風景區"}, designed as a one-day itinerary infographic with a split vertical layout. The left panel is a parchment-textured itinerary card in warm beige with ornate gold Art Nouveau borders and dark brown typography, and the right panel is a dramatic painted fantasy-realism map scene of a mountain journey at sunrise and sunset tones. At the top of the left panel, large headline text reads {argument name="headline text" default="阿里山國家風景區一日遊"}. Beneath it, include a short centered tagline in traditional Chinese: 「一座高山,五個經典景點。難忘的奇幻旅程。」 with a small decorative mountain divider. The left panel must contain exactly 5 numbered itinerary stops stacked vertically, each with a circular black-and-gold number badge, a small vignette illustration, a bold location name, a time in parentheses, and a short Chinese description. The 5 stops are: 1. 「阿里山車站」 at 「(8:00 AM)」 with a wooden mountain railway station illustration and description 「開啟探索神木與森林的旅程。」 2. 「阿里山森林鐵路」 at 「(9:30 AM)」 with a red-and-black steam train illustration and description 「穿越森林,體驗百年林鐵風情。」 3. 「神木區棧道」 at 「(11:30 AM)」 with giant cedar trees and elevated wooden boardwalk illustration and description 「漫步千年巨木下,感受森林靈氣。」 4. 「姊妹潭」 at 「(1:30 PM)」 with a tranquil forest lake and pavilion illustration and description 「欣賞靜謐湖光,聆聽自然樂章。」 5. 「小笠原山展望台」 at 「(4:00 PM)」 with a wooden observation deck above clouds at sunset illustration and description 「觀賞壯闊山景與雲海,欣賞日落。」 The right panel should depict a continuous glowing golden path winding through exactly 5 numbered map markers that match the left panel labels in order, with black-and-gold marker plaques reading: 1 「阿里山車站」, 2 「阿里山森林鐵路」, 3 「神木區棧道」, 4 「姊妹潭」, 5 「小笠原山展望台」. Show stop 1 as a rustic alpine wooden station perched on a cliff among pine forests; stop 2 as a small steam locomotive traveling on a curved mountain railway with smoke drifting upward; stop 3 as towering ancient red cypress trees with a spiral and zigzag wooden walkway around the trunks; stop 4 as an emerald lake surrounded by dense forest with a small pavilion and arched bridge; stop 5 as a lookout deck on a peak above a sea of clouds, facing a glowing sunset. The environment should feature layered mountain ranges, mist-filled valleys, evergreen forests, golden-hour light, luminous cloud seas, and a romantic painterly atmosphere with rich detail. At the bottom right, add a decorative compass rose labeled N, E, S, W, plus a dark green and gold information box with exactly 2 stats in traditional Chinese: 「總距離 ~9公里 / 5.6英里」 and 「預計時間 全天 - 14,500步」. Overall style: premium tourism poster, painterly digital illustration, nostalgic national-park brochure aesthetic, highly detailed, warm sepia and gold accents, elegant composition, readable Chinese text, vertical 2:3 poster.
+```
+
+
+---
+
+## 例 563：Parent-Child Miscommunication Infographic
+
+**来源：** [@sarinaashapi](https://x.com/sarinaashapi/status/2048307780864606708) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case563.jpg](images/case563.jpg)
+
+```text
+{"type":"Japanese infographic","style":"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography","canvas":{"aspect_ratio":"16:9"},"headline":{"text":"{argument name=\"headline text\" default=\"親子のすれ違いは、記録があるかないかで起こる\"}","position":"top center","size":"large bold black"},"layout":{"structure":"2 side-by-side rounded panels beneath the headline","sections":[{"title":"記録がない場合(ズレる)","position":"left","count":8,"header_color":"muted blue-gray","panel_border":"light gray","labels":["親の記憶","子どもの記憶","あのとき決まったよね","まだ考えてたのに","ズレが大きくなる","志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク","現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"],"contents":{"top_left":{"type":"parent icon with thought bubble","icon_color":"blue","caption":"親の記憶","bubble_text":"あのとき\n決まったよね"},"top_right":{"type":"child icon with thought bubble","icon_color":"pink","caption":"子どもの記憶","bubble_text":"まだ考えてたのに"},"center":{"type":"horizontal double-headed arrow","color":"blue-gray"},"bottom_center":{"type":"downward arrow leading to burst shape","color":"light gray","burst_text":"ズレが\n大きくなる"},"bottom_left":{"type":"rounded note box","bullet_count":4,"bullets":["志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク"]},"bottom_right":{"type":"rounded note box","bullet_count":3,"bullets":["現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"]}}},{"title":"記録がある場合(ズレにくい)","position":"right","count":7,"header_color":"mustard yellow","panel_border":"light yellow","labels":["親の認識","子どもの認識","記録"],"contents":{"top_left":{"type":"parent icon with thought bubble containing document symbol","icon_color":"blue","caption":"親の認識"},"top_right":{"type":"child icon with thought bubble containing document symbol","icon_color":"pink","caption":"子どもの認識"},"center":{"type":"horizontal double-headed arrow","color":"mustard yellow"},"bottom_center":{"type":"circular record icon with document symbol","outline_color":"mustard yellow","text":"記録"},"bottom_left_connector":{"type":"curved arrow from parent to record","color":"blue"},"bottom_right_connector":{"type":"curved arrow from child to record","color":"pink"}}}],"spacing":"balanced, symmetrical"},"visual_language":{"icons":"generic human bust icons and simple document line icons","emphasis":"contrast the left panel's misunderstanding with the right panel's shared record","mood":"educational, calm, practical"},"text_language":"Japanese","render_quality":"crisp vector edges, infographic suitable for social media educational posts"}
+```
+
+
+---
+
+## 例 564：Japanese Sci-Fi Suit-Up Process Board
+
+**来源：** [@yy7482933910896](https://x.com/yy7482933910896/status/2048192904922075161) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case564.jpg](images/case564.jpg)
+
+```text
+{"type":"Japanese sci-fi armor dressing-process infographic","style":"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail","theme":"manual pre-battle suit-up sequence for a female hero in a red, silver, black, and blue protector suit","subject":{"character":{"gender":"female","age":"young adult","identity":"helmetless heroine during assembly, face intentionally obscured or anonymized in every unhelmeted panel","hair":"dark brown to black hair tied in a high ponytail with bangs","undersuit":"glossy black skintight inner suit with silver chest panel and white neck ring","armor":"retro-futuristic protector armor with red shoulder and arm plates, silver breastplate and torso plating, circular blue chest core, red waist unit, white gloves, red forearm guards with yellow stripe accents","helmet":"round red-and-silver helmet with black visor"},"environment":{"location":"high-tech industrial hangar or armor bay","background elements":["metal framework","robotic equipment","tool benches","armor racks","computer monitors","workshop lighting","bay corridor marked BAY-07 in final panel"]}},"layout":{"header":{"count":2,"labels":["ソルジャンヌ・スーツ 手動装着プロセス","専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。"],"design":"wide black-to-red gradient banner across top, large bold white Japanese text, diagonal red accent"},"sections":[{"title":"1 インナースーツの確認","position":"top-left","count":1,"labels":["各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。"],"image":"three-quarter view of the heroine in only the black glossy inner suit, looking down while checking or tightening a wrist connector"},{"title":"2 胸部・肩部アーマーの装着","position":"top-center","count":1,"labels":["胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。"],"image":"mid shot with chest armor and red shoulder plates installed, heroine fastening the front torso area with both hands"},{"title":"3 腰部ユニット・ベルトの固定","position":"top-right","count":1,"labels":["ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。"],"image":"mid shot with torso armor completed, heroine tightening or checking the waist belt and side locks"},{"title":"4 ヘルメットの準備","position":"bottom-left","count":1,"labels":["ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。"],"image":"heroine holding the red helmet in both hands at chest height, showing the glossy black visor"},{"title":"5 ヘルメットの装着・システム起動","position":"bottom-center","count":1,"labels":["ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。"],"image":"heroine placing the helmet onto her head with both hands; blue chest core glowing brightly"},{"title":"6 装着完了","position":"bottom-right","count":1,"labels":["全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!"],"image":"full-body frontal hero pose in a futuristic corridor, fully suited with helmet on, arms relaxed at sides"}],"footer":{"count":1,"labels":["一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。"],"design":"dark red cinematic footer strip with centered white Japanese slogan"},"grid":{"rows":2,"columns":3,"panel_count":6,"panel_borders":"thin white dividers","number_badges":6}},"text_rendering":{"language":"Japanese","font":"bold sans-serif headline with smaller sans-serif body text","colors":"white text on black, red, and white info bars; red numbered squares with white numerals"},"composition":"16:9 wide infographic board, six equal photo panels arranged in a 3-by-2 grid, each panel captioned below with a red numbered box from 1 to 6","lighting":"moody workshop lighting with metallic reflections and red accent lights, realistic shadows, cinematic sci-fi atmosphere"}
+```
+
+
+---
+
+## 例 565：Iced Coffee Product Infographic
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2049082049995362785) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case565.jpg](images/case565.jpg)
+
+```text
+A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.
+
+PROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.
+
+Top → Bottom structure:
+Foam Layer (light creamy foam with soft airy texture)
+→ Coffee Liquid (rich dark espresso layer with smooth gradient)
+→ Ice Cubes (transparent cubes with sharp edges and reflections)
+→ Milk Layer (soft creamy white layer with smooth blend effect)
+→ Glass Base (clear minimal glass structure)
+
+All elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.
+
+Add clean minimalist text labels with thin pointer lines using these exact labels:
+“Foam”
+“Coffee”
+“Ice”
+“Milk”
+“Glass”
+Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
+```
+
+
+---
+
+## 例 566：Fashion Dress Collection Infographic
+
+**来源：** [@cellinlab](https://x.com/cellinlab/status/2049073530738754042) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case566.jpg](images/case566.jpg)
+
+```text
+{
+  "image_type": "Commercial Fashion Infographic",
+  "subject": {
+    "model": "Young Asian woman with elegant features and dark hair tied in a loose bun",
+    "attire": "Satin midi dress with spaghetti straps and a draped cowl neckline",
+    "fit": "Bodycon / slim fit with side ruching and a subtle leg slit"
+  },
+  "layout_structure": {
+    "composition": "Multi-panel editorial layout",
+    "header": "Bold serif typography reading 'DRESS COLLECTION'",
+    "main_feature": "Large centered portrait of the model, a young Asian woman, wearing a wine-red satin dress",
+    "secondary_panels": [
+      "Dress Features grid with minimalist icons",
+      "Dress Guide sidebar detailing neckline, sleeve, and length",
+      "Color Collection row showing the dress in Black, Emerald Green, Navy, Champagne, and Royal Blue",
+      "Dress Style Guide footer featuring the model in various atmospheric evening settings"
+    ]
+  },
+  "aesthetic_style": {
+    "color_palette": "Deep jewel tones (Wine Red, Emerald, Navy, Royal Blue) contrasted with Champagne and Black against a warm cream or beige background",
+    "lighting": "Soft studio lighting with elegant highlights on the satin fabric texture",
+    "vibe": "Luxurious, timeless, and sophisticated commercial advertising"
+  },
+  "typography": {
+    "primary": "Classic Serif for titles",
+    "secondary": "Clean Sans-Serif for body text and technical details"
+  }
+}
+```
+
+
+---
+
+## 例 567：Samsung Galaxy S25 Infographic Poster
+
+**来源：** [@bmx_ai13](https://x.com/bmx_ai13/status/2051692833258852586) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case567.jpg](images/case567.jpg)
+
+```text
+Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.
+
+At the top, add bold clean text: "SAMSUNG", large headline "Galaxy S25", subheadline "Galaxy AI", and tagline "Intelligence in Motion."
+
+Design the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:
+
+Galaxy AI: Smarter every day
+Pro Grade Camera: Capture every detail
+Next Gen Performance: Power that evolves
+Built to Last: Stronger inside and out
+Brilliant Display: Immersive edge to edge viewing
+S Pen Support: Create, sketch, and work faster
+
+At the bottom, create a glowing spec bar with small icons and short feature blocks:
+
+Premium Design: Sleek. Refined. Timeless.
+50MP High-Resolution Camera: Stunning clarity, day or night.
+Snapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.
+All Day Battery: More power. Less worry.
+IP68 Water & Dust Resistance: Adventure ready. Worry free.
+Storage Options: Up to 1TB storage.
+
+Style: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.
+```
+
+
+---
+
+## 例 568：Wildlife Infographic Reference Poster
+
+**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054229209460117552) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case568.jpg](images/case568.jpg)
+
+```text
+.
+
+Create a premium cinematic wildlife infographic poster centered around a rare or visually unique animal species such as (animal). The entire artwork must feel like a futuristic luxury wildlife dossier rather than a normal educational infographic.
+The animal should dominate the composition with intense photorealistic detail: ultra-detailed fur/scales, realistic eyes, moisture textures, cinematic shadows, environmental interaction, dramatic posture, visible muscle definition, floating particles, and powerful eye contact.
+The environment must fully match the chosen species: (environment).
+Build dense layered infographic storytelling around the animal using: • anatomy callouts
+• adaptation systems
+• prey and diet visuals
+• ecosystem overlays
+• conservation status indicators
+• geographic range maps
+• hunting behavior graphics
+• climate danger visuals
+• detail inserts
+• tactical icon systems
+• scientific labels and compact data snippets
+The layout should feel highly artistic and cinematic instead of educational. Use: • asymmetric editorial composition
+• layered transparent info panels
+• premium typography
+• subtle paper grain textures
+• contour-line overlays
+• holographic UI elements
+• cinematic infographic markers
+• museum-grade visual hierarchy
+Blend: (luxury editorial aesthetic) + (cinematic documentary realism) + (futuristic infographic design) + (collectible field-guide energy).
+Color Theme: (color theme)
+Mood: (mood)
+Lighting: dramatic cinematic lighting, volumetric fog, glowing rim light, atmospheric haze, realistic environmental reflections, high contrast shadows, ultra-premium editorial lighting.
+The final artwork must look like a viral collectible wildlife poster people would instantly save, repost, print, and frame.
+Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premium art direction, tactile textures, layered storytelling, emotional visual impact, museum-quality composition, viral social-media-worthy aesthetic.
+```
+
+
+---
+
+## 例 569：Premium Travel Infographic Poster
+
+**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2056519161023787394) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case569.jpg](images/case569.jpg)
+
+```text
+Create an ultra-premium editorial travel infographic poster about FRANCE in a clean vertical 3:4 ratio.
+```
+
+
+---
+
+## 例 570：Viral Food Infographic Poster
+
+**来源：** [@amynys](https://twitter.com/amynys/status/2056779657987387784) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case570.jpg](images/case570.jpg)
+
+```text
+Create a cinematic viral-style food poster for “Prediabetic Friendly Strawberry Cheesecake Overnight Oats” in a clean modern infographic aesthetic inspired by trendy TikTok and Pinterest recipe posters.
+
+The poster should feature a large realistic mason jar filled with creamy strawberry cheesecake overnight oats layered with visible chia seeds, sliced strawberries around the inside glass, a thick cheesecake yogurt layer on top, fresh strawberries, and crushed walnuts. The oats should look ultra creamy, indulgent, healthy, and photorealistic with soft natural lighting and shallow depth of field.
+Use a soft pink, cream, and white color palette with bold typography.
+The design should feel premium, feminine, modern, healthy, and social-media viral.
+
+Main headline in large stylish text:
+“STRAWBERRY Cheesecake OVERNIGHT OATS”
+Add a pink label at the top saying:
+“PREDIABETIC FRIENDLY”
+
+Include stylish infographic sections with rounded boxes and cute minimal icons for:
+INGREDIENTS
+½ cup rolled oats
+¾ cup unsweetened almond milk
+⅓ cup plain Greek yogurt
+1 tbsp chia seeds
+1 tbsp ground flaxseed
+½ scoop vanilla protein powder
+½ tsp vanilla extract
+Dash of cinnamon
+Tiny pinch sea salt
+3–4 chopped strawberries
+Optional monk fruit sweetener or stevia
+
+CHEESECAKE LAYER
+Greek yogurt
+Vanilla
+Lemon juice
+TOPPINGS
+Crushed walnuts
+Strawberries
+Cinnamon
+
+HOW TO MAKE
+Mix ingredients
+Fold in strawberries
+Refrigerate overnight
+Add cheesecake layer and toppings
+
+Add aesthetic handwritten doodles, hearts, arrows, sparkles, and notes like:
+“Creamy, delicious & blood sugar friendly!”
+“High protein • High fiber • Low sugar”
+At the bottom add a highlighted tip banner saying:
+“VIRAL TEXTURE TIP: Blend the mixture before refrigerating for ultra-creamy cheesecake consistency!”
+
+Style details:
+Editorial food photography
+Pinterest/TikTok infographic vibe
+Clean magazine-style layout
+Hyperrealistic food texture
+Bright airy background
+Soft shadows
+Elegant typography hierarchy
+Social-media-ready vertical poster
+Ultra detailed
+4K quality
+Aspect ratio 4:5 or 9:16
+```
+
+
+---
+
+## 例 571：Physics Infographic Code Prompt
+
+**来源：** [@Gdgtify](https://twitter.com/Gdgtify/status/2056841574798295540) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case571.jpg](images/case571.jpg)
+
+```text
+16:9 -> class theoretical_physics_infographic_dna: def __init__(self): self.subject = "[ai selects: 4 distinct advanced physics theorems or paradoxes (e.g., bell's theorem, hawking radiation, string theory)]" self.parents = { "composition_parent": "large hadron collider blueprints — hyper-complex radial symmetry, intersecting particle beam rings, millimeter-precise drafting", "atmosphere_parent": "deep space observatory photography — pitch black voids, glowing ultraviolet radiation, high-contrast laser illumination", "graphic_parent": "chalkboard maximalism — elegant, dense mathematical notation floating as glowing white vectors", "detail_parent": "victorian brass optical instruments — finely milled prisms, glass lenses, and mirrored refraction planes" } self.mutations = { "medium_mutation": "the mathematical formulas solidify into glowing, three-dimensional glass sculptures bending the light around them", "information_mutation": "particle collision tracks are woven like fine gold thread through the dark background", "semantic_mutation": "the invisible physical law is rendered as a massive, tangible, gravitational machine distorting the grid of the poster itself" } def generate_grid(self): instruction = """ generate a 2x2 grid of vertical luxury infographic posters giving physical form to the chosen [subject]s. invent a magnificent scientific machine or optical diorama for each. explode the layers to show quantum states, gravitational warping, equations, and subatomic scale. the design must feel like a classified schematic from a hyper-advanced, aesthetically obsessed civilization. semantic inference must make the invisible laws of physics breathtakingly visible. """ return render( instruction, format="2x2 grid, vertical luxury posters, conceptual scientific infographic", typography=""" large title: [name of theorem/paradox] subtitle: [the physicist / the era] microtext: [the core equation / metric tensor / explanatory blazon] """, composition="strict radial or gravitational-well symmetry. razor-sharp fine lines contrasting with deep voids.", lighting="harsh, clinical laser light interacting with pure optical glass and vantablack.", constraints="no cartoon atoms, no clip-art planets, no messy chalkboards. only pristine, museum-grade scientific aesthetic." )
+```
+
+
+---
+
+## 例 572：High Fashion Editorial Infographic Poster
+
+**来源：** [@Hope_Ai01](https://x.com/Hope_Ai01/status/2057367851905040849) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case572.jpg](images/case572.jpg)
+
+```text
+A high-fashion editorial infographic poster featuring a stunning female fashion model standing confidently in the center against a clean luxury studio background. She is wearing an elegant Indo-Western fusion outfit — a richly embroidered long ethnic jacket fused with a modern fitted silhouette, stylish draped skirt/palazzo, intricate patterns, premium fabric textures, contemporary jewelry, and designer heels. The model looks glamorous, confident, and runway-ready. Around the model, create a professional fashion design chart layout with stylish annotation lines and labels pointing toward different outfit elements. Mention detailed fashion notes on the sides such as: Fabric Type, Embroidery Details, Sleeve Design, Neckline Style, Waist Fit, Fusion Elements.
+```
+
+
+---
+
+## 例 573：Surrealism History Timeline
+
+**来源：** [@92digitalartArt](https://x.com/92digitalartArt/status/2064012013357928462) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case573.jpg](images/case573.jpg)
+
+```text
+A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
+```
+
+
+---
+
+## 例 574：Greek Mythology Olympian Family Tree
+
+**来源：** [@92digitalartArt](https://x.com/92digitalartArt/status/2064420821922152795) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case574.jpg](images/case574.jpg)
+
+```text
+An Art Nouveau style historical infographic poster in 16:9 horizontal format about Greek mythology, featuring an elegant flowing composition inspired by classical decorative poster design, with ornate floral borders, curling vines, golden laurel motifs, and graceful asymmetrical linework; the central artwork should depict the Olympian family tree as a beautiful mythic tableau with Zeus, Hera, Athena, Apollo, Artemis, Poseidon, and Aphrodite arranged in a ceremonial vertical hierarchy around Mount Olympus, each god or goddess framed by stylized Art Nouveau halos, flowing hair, marble columns, peacocks, olive branches, stars, waves, and moon crescents, all drawn with elongated elegant contours and rich decorative detail; use a palette of deep teal, antique gold, cream, and muted rose, with subtle gradients only in the illustrated figures and background sky; place the title at the top in large ornamental serif lettering reading GREEK MYTHOLOGY, with the subtitle THE OLYMPIAN FAMILY TREE beneath it in smaller elegant text; organize the facts into decorative side panels with graceful curved frames and thin gold rules, including sections labeled ORIGINS, GODS OF OLYMPUS, SYMBOLS, POWERS, HEROES, and LEGACY, plus a small DID YOU KNOW? box near the lower corner with five original myth facts; the entire poster should feel luxurious, classical, poetic, and richly decorative, with no modern UI, no copyrighted artwork, and a true Art Nouveau atmosphere, 16:9 horizontal ratio
+```
+
+
+---
+
+## 例 575：Risograph Zine Rainforest Infographic
+
+**来源：** [@92digitalartArt](https://x.com/92digitalartArt/status/2065135532875645242) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case575.jpg](images/case575.jpg)
+
+```text
+A risograph zine print style infographic poster in 16:9 horizontal format exploring the biodiversity of tropical rainforests, designed to look exactly like an indie science zine printed with overlapping risograph ink layers; the entire composition should show the characteristic risograph printing imperfections: ink grain, slight misregistration between color layers, halftone dot patterns visible in midtones, and a tactile paper texture underneath everything; use a strict three-color risograph palette of fluorescent green, deep navy blue, and warm yellow, with rich overprinting where colors overlap creating unexpected secondary tones like teal where green meets blue and olive where green meets yellow; the main illustration fills the center: a lush vertical cross-section of a rainforest showing all four layers — emergent layer at the top with giant canopy trees and toucans, canopy layer with howler monkeys and orchids, understory with poison dart frogs and ferns, and forest floor with mushrooms, beetles, and anacondas — each layer labeled with a handwritten-style annotation in the risograph aesthetic; surrounding the central forest illustration, organize zine-style content panels with irregular hand-cut border aesthetics, including sections titled HOW MANY SPECIES?, THE WATER CYCLE, THREATS TO THE FOREST, and WHY FORESTS MATTER, each with small lo-fi icons and concise punchy text in a mix of bold grotesque sans-serif and typewriter-style fonts; include a dramatic zine-style header reading RAINFOREST: EARTH'S LUNGS in large stencil-style all-caps lettering; add a small DID YOU KNOW? box with three striking facts, and a bottom strip reading issue no. 7 — field guide series to make it feel like a real indie publication; the overall mood should feel urgent, indie, ecologically passionate, beautifully imperfect, and visually electric, high quality, aspect ratio 16:9
+```
+
+
+---
+
+## 例 576：Pixar 3D Kebab Maker Storyboard Poster
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2065069836045033908) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case576.jpg](images/case576.jpg)
+
+```text
+“Create a crisp, clean infographic storyboard poster for THE KEBAB MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep caramelized meat browns, vivid red tomatoes, fresh green lettuce, white garlic sauce, golden warm flatbread, warm Istanbul street light.
+
+Top header
+
+•THE KEBAB MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+•8 SHOTS · BOLD · SIZZLING · STRAIGHT FROM ISTANBUL
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style middle-aged Turkish male kebab maker throughout — thick dark mustache, white t-shirt, red and white striped apron, small outdoor Istanbul kebab street stand, vertical doner spit glowing and rotating behind him, warm golden light, busy Turkish street with Galata Tower softly visible in background. Skilled, fast, proud.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Kebab maker stands behind his outdoor street stand, busy Istanbul street behind him, Galata Tower softly visible in warm afternoon light. Vertical doner spit rotating and glistening behind him. He slaps both hands on the counter and grins at the camera. The spit is already turning. You know exactly what’s coming.
+
+Panel 2 — THE BREAD: Close-up. Kebab maker opens a warm flatbread with both hands — the bread splitting open softly, steam rising from inside, soft and pillowy interior revealed. Warm golden bread catching the afternoon light. The base of everything. Anticipation building.
+
+Panel 3 — THE SPIT: Dramatic close-up. The vertical doner spit filling the entire frame — towering stack of layered marinated meat rotating slowly, outside layer deeply caramelized and glistening, heat element glowing orange behind it, steam rising. The most iconic kebab visual in the world.
+
+Panel 4 — THE SHAVE INTO BREAD: Hero craft frame. Wide medium with character visible. Kebab maker holds the open flatbread in one hand positioned directly below the spit, long knife in the other shaving meat in one confident downward stroke — thin caramelized strips falling directly into the open bread below. Meat, knife, bread and spit all in one frame. The most dynamic panel in the series.
+
+Panel 5 — THE SUMAC: Extreme close-up. Kebab maker’s hand sprinkling deep red sumac powder generously over the shaved meat — the vivid crimson powder catching the warm afternoon light as it falls, dusting every piece of meat. Deep red against deep brown. The most authentically Turkish panel in the series. The insider detail that makes Turkish viewers feel seen and everyone else curious.
+
+Panel 6 — THE SAUCE: Close-up hero shot. Thick white garlic sauce poured in a generous arc over the filling — cascading over the meat and vegetables. Then a zigzag of vivid red chili sauce over the top. White and red against deep brown meat. The most appetizing panel.
+
+Panel 7 — THE WRAP: Close-up dramatic. Both hands wrapping the flatbread tight and fast — filling bulging slightly at the ends, foil paper wrapped around the bottom. One confident twist. Done. The payoff of all the craft.
+
+Panel 8 — THE BITE: Wide warm shot. Customer standing on the Istanbul street takes the wrapped kebab, takes a massive first bite — filling visible at the end, sauce on their lip, eyes closing in pure street food satisfaction. Kebab maker watching from behind the stand, arms crossed, deeply proud. Istanbul street and Galata Tower glowing warmly behind them both.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Spit to first bite.
+•CAMERA TIPS: wide on the Istanbul opener, close-up on the bread opening with steam, dramatic close-up on the spit, wide medium hero on the shave into bread, extreme close-up on the sumac dusting, close-up hero for the sauce, close-up dramatic for the wrap, wide warm for the Istanbul street bite
+•LIGHT & STYLE: warm Istanbul afternoon light, deep caramelized meat browns, vivid red sumac, white garlic sauce, red chili sauce, golden flatbread, red”
+```
+
+
+---
+
+## 例 577：Solar Storm WPA Poster
+
+**来源：** [@92digitalartArt](https://x.com/92digitalartArt/status/2066062156441735187) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case577.jpg](images/case577.jpg)
+
+```text
+A 1930s WPA travel poster style infographic poster in 16:9 horizontal format about solar weather and space storms, designed to look exactly like a vintage Works Progress Administration national parks poster from the New Deal era, with flat gouache-style color fills, bold black outlines, dramatic perspective and zero photorealism; the background transitions from deep black space at the top to a glowing teal-green aurora sky at the bottom, divided into bold graphic bands of color in the WPA tradition; the central illustration shows the Sun in the upper left as a massive dramatic circle with stylized flat orange and yellow flame corona eruptions radiating outward, and a large coronal mass ejection arc sweeping diagonally toward Earth in the upper right, depicted as a simplified blue sphere with a thin atmosphere ring; mid-composition, the solar wind stream is shown as bold parallel lines of warm gold flowing between Sun and Earth, and where those lines hit the atmosphere they bloom into a spectacular aurora borealis rendered in flat curtains of teal, green and violet in the WPA graphic tradition; below the main illustration, a clean horizontal strip divides the composition into three labeled science panels in a sans-serif bold font: SOLAR FLARE, CORONAL MASS EJECTION, and AURORA BOREALIS, each with a minimal one-color icon and two lines of punchy educational text; the title at the top reads SOLAR STORMS in massive slab-serif WPA lettering, with the subtitle THE VIOLENT WEATHER OF SPACE in a smaller weight beneath; the full palette is restricted to five flat colors — black, deep cream, burnt orange, teal and violet — giving the whole piece the unmistakable graphic punch and populist optimism of a 1930s government art print, high quality, aspect ratio 16:9
+```
+
+
+---
+
+## 例 578：Chowmein Recipe Infographic
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2067429181726904350) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case578.jpg](images/case578.jpg)
+
+```text
+Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+
+---
+
+## 例 579：Fashion Blueprint Editorial Sheet
+
+**来源：** [@ZephyraLeigh](https://twitter.com/ZephyraLeigh/status/2056770705677775247) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case579.jpg](images/case579.jpg)
+
+```text
+Fashion blueprint sheet of a stylish young woman posing beside a bright orange wall, half-body fashion editorial view with detailed outfit annotations and luxury styling callouts. Long sleek dark hair, soft glam makeup, silver drop earrings, layered silver necklaces, fitted dark brown cropped tube top, oversized pastel mint-green blazer with structured shoulders, matching high-waisted wide-leg trousers, elegant silver chain detail attached to blazer, relaxed confident pose with one hand in pocket.
+
+Surrounding the model are fashion infographic elements, jewelry breakdowns, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street-fashion aesthetic, editorial photography style, ultra detailed, professional fashion concept sheet, 8k, 1744x2336
+```
+
+
+---
+
+## 例 580：NBA Legend Mid-Air Action Poster
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2057491440406810988) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case580.jpg](images/case580.jpg)
+
+```text
+Dynamic NBA legend poster design, iconic basketball superstar in mid-air action pose performing dunk, jumpshot, or intense celebration, cinematic sports illustration style, highly detailed muscular anatomy, dramatic motion, realistic face with painterly polygon brush texture, explosive paint splashes behind character matching team colors, bold typography with player name in huge vertical letters, motivational quote text layout, sports stats and achievements infographic, clean minimal cream background, modern editorial composition.
+```
+
+
+---
+
+## 例 581：Wooden Bookshelf Prompt Test
+
+**来源：** [@chetaslua](https://x.com/chetaslua/status/2044331451077013749) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case581.jpg](images/case581.jpg)
+
+```text
+A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
+```
+
+
+---
+
+## 例 582：GPT-Image-2 Detail Showcase
+
+**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2045000106919997637) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case582.jpg](images/case582.jpg)
+
+```text
+以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
+
+第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央"SPRING"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；
+
+第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央"Summer"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；
+
+第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央"AUTUMN"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；
+
+第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央"WINTER"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。
+
+整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。
+```
+
+
+---
+
+## 例 583：Lion Camel Ridge Dark Myth Scene
+
+**来源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045743158860878312) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case583.jpg](images/case583.jpg)
+
+```text
+中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
+```
+
+
+---
+
+## 例 584：Edit this image so that total amount changes to 244.5 baht. You can change th...
+
+**来源：** [@elliscrosby](https://x.com/elliscrosby/status/2047211507596071235) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case584.jpg](images/case584.jpg)
+
+```text
+Edit this image so that total amount changes to 244.5 baht. You can change the quantity of each of the stacks of coins until we hit the target total.
+```
+
+
+---
+
+## 例 585：Naturalist-Style Food Specimen Cross-Section
+
+**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046939656244318676) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case585.jpg](images/case585.jpg)
+
+```text
+一颗/一块/一枚【食物名称】，以博物学大师发现野外标本的方式解剖。
+剖开、展开、固定——如同博物馆的珍贵藏品，
+却以卡拉瓦乔为《国家地理》掌镜时的光线照亮。
+每一个内部结构都以自身的材质真相发光。
+截面锋利得近乎暴力。内部美丽得近乎神圣。
+画面中呈现完整标本：
+一半保持原状，展示【外表面描述：质感/颜色/纹理】；
+另一半剖开至核心，【内部核心结构描述：最重要的1—2个内部视觉特征】清晰可见。
+【补充1—2句该食物最具视觉张力的横截面细节描述】
+背景：纯粹的黑丝绒。
+【食物名称】悬浮其中，如同某件珍贵而危险的事物。
+标注文字紧贴结构边缘，手写感衬线字体，绝不悬空飘浮。
+画面包含以下标注，每处标注三行：第一行结构名称，第二行成分数据，第三行一句人话：
+【结构01名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构02名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构03名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构04名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+【结构05名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+
+【结构06名称】
+【成分／数据说明】
+【这个结构在做什么，为什么重要】
+省略其他如果有继续保持这个格式
+主标题，左上角，暖象牙白大写字体：
+【食物名称】·解剖
+
+斜体副标题紧随其下：
+【一句揭示这种食物本质的话，不超过15字】
+
+整体气质：奥杜邦博物插画×卡拉瓦乔光影×有史以来最美的科学摄影。
+4K精度，标本照明，极致内部细节。
+没有任何临床感，一切都鲜活。
+写实风格，非示意图，非卡通，非简化图解。
+每一种材质都有真实的物理质感：
+粗糙的、光滑的、湿润的、干燥的、致密的、疏松的。
+```
+
+
+---
+
+## 例 586：Cozy Scrapbook Mini Alter Egos
+
+**来源：** [@gold_force_guri](https://x.com/gold_force_guri/status/2050433982756721029) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case586.jpg](images/case586.jpg)
+
+```text
+GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene
+```
+
+
+---
+
+## 例 587：Sourdough Baker Storyboard
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2054609590332129596) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case587.jpg](images/case587.jpg)
+
+```text
+“Create a crisp, clean infographic storyboard poster for THE SOURDOUGH BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — creamy dough whites, golden crust browns, warm flour dust, rich amber kitchen light, pops of green from herbs on the windowsill. Top header: THE SOURDOUGH BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · SLOW · BAKED WITH LOVE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male baker throughout — flour-dusted white apron, warm rustic kitchen, wooden counter, morning light streaming through the window. And one recurring character — a fluffy orange cat who takes the craft extremely seriously and is present in every single panel. 8 panels: Panel 1 — THE OPENER: Wide shot. Baker walks into his kitchen at dawn carrying a large flour bag under one arm. He drops it onto the wooden counter sending a dramatic puff of white flour into the warm morning light — flour cloud catching the golden sunlight beautifully. The orange cat is already sitting on the counter waiting, completely unbothered by the flour cloud, staring directly at the baker. They look at each other. The day begins. You know exactly what's about to happen. Panel 2 — THE MIX: Overhead locked shot. Baker's hands mixing flour, water and sourdough starter together in a large ceramic bowl — shaggy dough forming, the transformation beginning. The orange cat sits at the edge of the counter, head tilted, watching the bowl with complete concentration. Panel 3 — THE KNEAD: The hero comedy panel. Baker steps aside. The orange cat is on the counter, both front paws pressing and kneading the dough exactly like cats do in real life — slow rhythmic biscuit-making motion, eyes half closed in pure contentment. Baker watches from the side with a resigned smile. The cat is completely unbothered and deeply committed to the process. Panel 4 — THE FOLD: Side angle. Baker performs the stretch and fold — pulling the dough up and folding it over itself, the dough becoming smooth and elastic. Close-up on hands and dough. The orange cat watches from beside the bowl, one paw resting on the counter edge, supervising every movement. Panel 5 — THE SCORE: Close-up dramatic shot. Baker holds a razor lame above the risen dough, scoring a deep curved line across the surface — the blade catching the light. The orange cat sits in the background perfectly framed, watching with complete intensity as if this is the most important moment of the day. It is. Panel 6 — THE OVEN: Wide shot. Baker slides the dough inside the cast iron dutch oven, closes the heavy lid, slides it into the glowing oven. The orange cat sits directly in front of the oven door, staring at it, waiting. Will not move. Will never move. Panel 7 — THE REVEAL: The hero frame. Baker lifts the dutch oven lid — an enormous cloud of steam erupts upward, and beneath it the most perfect golden sourdough loaf, deeply scored crust cracked open, caramelized and blistered. The orange cat stands up on its hind legs trying to see over the counter edge, eyes wide, completely losing its composure for the first time. Panel 8 — THE SLICE: Wide warm shot. Baker slices through the loaf — perfect open crumb revealed inside, steam still rising, golden crust crackling. Butter placed on the warm slice, melting instantly. The orange cat sits beside the cutting board, one paw raised toward the bread. Baker looks at the cat. Cat looks at the bread. Baker smiles. Perfect ending. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour drop to first slice. CAMERA TIPS: wide on opener with flour cloud, overhead on the mix, wide medium on the knead with cat in full view, side angle on the fold, close-up on the score, wide on the oven with cat guarding, hero wide shot on the steam reveal, warm wide on the final slice LIGHT & STYLE: warm golden morning light, creamy dough whites, deep golden crust.”
+```
+
+
+---
+
+## 例 588：Pancake Dad Storyboard
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2055695974085927240) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case588.jpg](images/case588.jpg)
+
+```text
+Create a crisp, clean infographic storyboard poster for THE PANCAKE DAD. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — golden pancake yellows, rich amber maple syrup, fresh blueberry blues and purples, creamy whites, warm morning kitchen light.
+Top header:
+•THE PANCAKE DAD
+•TOTAL VIDEO TIME: 12 SECONDS
+•8 SHOTS · GOLDEN · FLUFFY · SATURDAY MORNING
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Same Pixar-style dad throughout — warm smile, casual home clothes, no apron or chef uniform, messy morning hair, cozy bright home kitchen, morning sunlight streaming through the window. A child’s drawing on the fridge visible in the background. And one recurring character — a small girl in a pink t-shirt who appears in the final panel.
+8 panels:
+Panel 1 — THE OPENER: Wide shot. Dad stands at the kitchen counter in his casual clothes, morning light flooding in behind him. He holds a large flour bag with both hands and pours it into the mixing bowl — a generous cloud of white flour billowing up into the warm morning sunlight, catching the light beautifully. He waves the flour dust away from his face with a warm laugh. Messy, real, Saturday morning. The fridge behind him has a child’s drawing on it. You know exactly what’s being made.
+Panel 2 — THE CRACK: Extreme close-up. Dad cracks a fresh egg over the mixing bowl — the bowl already has flour and milk in it, golden yolk drops in slow motion into the batter mixture. Shell splits cleanly. The moment it all comes together.
+Panel 3 — THE STIR: Medium shot with dad visible. He whisks the batter in smooth circular motions, the mixture becoming smooth and pale yellow, tiny bubbles forming on the surface. Morning light catching the whisk. Relaxed and unhurried — this is his Saturday ritual.
+Panel 4 — THE POUR: Close-up side angle. Batter poured from the bowl onto a hot buttered pan — it spreads into a perfect circle, edges immediately beginning to set, tiny bubbles forming across the surface. The sizzle implied in every frame.
+Panel 5 — THE FLIP: The hero frame. Low angle dramatic shot — spatula slides under the pancake, dad flips it with one confident motion, pancake suspended perfectly in mid-air above the pan, golden underside revealed, dad’s face lit up with pure joy behind it.
+Panel 6 — THE STACK: Wide medium shot with dad visible. He slides the finished pancake onto a plate already holding two others — a perfect golden stack building up, steam rising from each layer. Dad looks genuinely pleased with himself.
+Panel 7 — THE SYRUP: Close-up beauty shot. Maple syrup poured from above in a slow golden arc over the stack — cascading down the sides, pooling at the base, fresh blueberries scattered around the plate. Liquid gold catching the morning light. Irresistible.
+Panel 8 — THE EAT: Wide warm shot. A small girl in a bright pink t-shirt sits at the kitchen table, eyes wide, mouth open, fork mid-bite into the stack, blueberries on the plate, syrup everywhere. Dad stands in the background arms crossed, warm proud smile. Saturday morning complete.
+Footer:
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour cloud to first bite.
+•CAMERA TIPS: wide on the flour pour opener with flour cloud, extreme close-up on the egg crack, medium on the stir with dad visible, close-up on the batter pour, low angle dramatic on the flip, wide medium on the stack, beauty close-up on the syrup cascade, wide warm shot on the girl eating with dad in background
+•LIGHT & STYLE: warm golden Saturday morning light, fluffy pancake golds, rich amber maple syrup, fresh blueberry blues, bright pink t-shirt, creamy batter whites, Pixar vivid warm colors throughout
+•DAD NOTES: one dad, one Saturday, one very happy girl in a pink t-shirt. Golden, fluffy, and made with love.​​​​​​​​​​​​​​​​
+```
+
+
+---
+
+## 例 589：90s Sitcom Fashion Character Lineup
+
+**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2063300353588879444) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case589.jpg](images/case589.jpg)
+
+```text
+Full-body character lineup showcasing the same person transformed through six iconic 1990s fashion aesthetics, standing side-by-side in a clean studio composition. Each version features a unique outfit inspired by classic 90s sitcom culture: varsity college student, sophisticated business casual professional, colorful patterned sweater enthusiast, streetwear trendsetter, nerdy intellectual with suspenders and glasses, and vibrant hip-hop fashion icon. Consistent facial features across all versions, expressive poses, detailed clothing textures, oversized silhouettes, retro sneakers, loafers, accessories, layered outfits, bold color palettes, fashion illustration style, character design sheet, clean white background, highly detailed linework, modern cartoon realism, concept art, fashion reference board, full-body view, professional character turnaround, ultra-sharp details, vibrant colors, 4K, masterpiece.
+```
+
+
+---
+
+## 例 590：Shattered Stone Style Transfer
+
+**来源：** [@Samann_ai](https://x.com/Samann_ai/status/2063606958188265880) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case590.jpg](images/case590.jpg)
+
+```text
+{
+  "task": "image_to_image_style_transfer",
+  "input_image": "{{USER_IMAGE}}",
+  "prompt": "Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented slate + sandstone shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.",
+  "negative_prompt": "text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry",
+  "output": {
+    "aspect_ratio": "use_input_aspect_ratio",
+    "background": "off_white",
+    "camera": {
+      "angle": "straight_on",
+      "framing": "centered",
+      "distance": "medium"
+    }
+  },
+  "params": {
+    "style_strength": 0.75,
+    "identity_preservation": 0.9,
+    "detail_level": "very_high",
+    "lighting_preset": "soft_studio_top_left",
+    "shadow_intensity": "subtle",
+    "gap_visibility": "clear",
+    "debris_chips": "few_tiny",
+    "no_text": true
+  }
+}
+```
+
+
+---
+
+## 例 591：Churro Maker Storyboard Poster
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2064032022830502202) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case591.jpg](images/case591.jpg)
+
+```text
+“Create a crisp, clean infographic storyboard poster for THE CHURRO MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — golden fried dough, sparkling white cinnamon sugar, rich dark chocolate sauce, vivid warm Spanish street food energy throughout.
+
+Top header:
+
+•THE CHURRO MAKER
+•TOTAL VIDEO TIME: 12 SECONDS
+• 8 SHOTS · GOLDEN · CRISPY · IRRESISTIBLE
+•Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style young Spanish male street vendor throughout — warm smile, white t-shirt, red apron, small bright outdoor churro cart, morning sunshine, cobblestone street, warm golden light everywhere. Fresh, bright, joyful — nothing dark, nothing moody.
+
+8 panels:
+
+Panel 1 — THE OPENER: Wide shot. Young vendor stands behind his bright churro cart on a sunny cobblestone street, morning light flooding everything. He ties his red apron with a warm confident smile, looks up at the camera. The churro machine gleaming beside him. Bright blue sky above. You know exactly what’s coming.
+
+Panel 2 — THE DOUGH: Close-up. Thick churro dough being loaded into the piping gun — smooth, pale, creamy. Vendor’s hands pressing it in firmly. Steam rising slightly. The dough is alive and ready.
+
+Panel 3 — THE PIPE: The most satisfying panel. Close-up dramatic shot — vendor squeezes the piping gun over hot golden oil, a perfect ridged churro rope emerging in a long straight line, the star-shaped ridges crisp and defined. The dough hits the oil with an immediate aggressive sizzle. Bright and energetic.
+
+Panel 4 — THE FRY: Wide medium shot with vendor visible. Churros frying in vivid golden oil — bubbling vigorously all around them, the color deepening from pale to rich gold before your eyes. Vendor watches with a satisfied expression, tongs ready. The transformation happening live.
+
+Panel 5 — THE LIFT: Close-up hero shot. Tongs lifting a perfectly fried churro from the oil — golden, crispy, glistening, held up against the bright morning sky. Oil dripping back into the fryer below. The most beautiful single churro you have ever seen.
+
+Panel 6 — THE SUGAR ROLL: The scroll-stopper. Close-up overhead. The hot churro rolled through a tray of cinnamon sugar — white sugar and cinnamon coating every ridge perfectly, sparkling in the morning light, the heat making the sugar cling and glisten. The most textural and satisfying panel.
+
+Panel 7 — THE CHOCOLATE: Beauty shot. Dark glossy chocolate dipping sauce poured into a small white ceramic cup in a slow arc — rich, dark, steaming. The churro resting beside it, golden and sugar-coated. The contrast of deep dark chocolate against bright golden churro. Irresistible.
+
+Panel 8 — THE DIP AND BITE: Wide warm shot. A customer’s hand dips the churro into the chocolate sauce — it comes out coated and glossy — then takes a bite. The crunch implied in every pixel. Eyes close. Pure street food joy. Vendor visible in the background, arms crossed, warm proud smile. Morning sunshine all around.
+
+Footer:
+
+•VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough to first dip.
+•CAMERA TIPS: wide on the sunny opener, close-up on the pipe into oil, wide medium on the fry, hero close-up on the lift, overhead on the sugar roll, beauty shot on the chocolate pour, wide warm on the dip and bite
+•LIGHT & STYLE: bright warm Spanish morning sunshine throughout, golden fried dough, sparkling white cinnamon sugar, rich dark chocolate, vivid red apron, cobblestone street, Pixar vivid bright colors — nothing dark, nothing moody
+•VENDOR NOTES: one vendor, one cart, one perfect churro. Golden, crispy, and impossible to walk past.”
+```
+
+
+---
+
+## 例 592：Old Footage Restoration with GPT-Image 2
+
+**来源：** [@CuriousRefuge](https://x.com/CuriousRefuge/status/2065139340486045905) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case592.jpg](images/case592.jpg)
+
+```text
+Transform the attached image into a high resolution digital photo that looks like it was taken yesterday. Make it look like it was taken with a Canon EOS R6. Cinematic color grading and lighting. Keep details the same, only change the quality and resolution.
+
+Once GPT-Image 2 gives you the first ultra high quality image, upload the rest of your stills and input the following prompt: do the same for these attached photos  Download all the ultra high quality images
+```
+
+
+---
+
+## 例 593：4 Architectural Styles 2×2 Grid
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2065191846800740636) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case593.jpg](images/case593.jpg)
+
+```text
+2x2 grid, do this for 4 famous architectural styles. Anchor: [Architectural Style] :: [Geometric Essence & Period]. Each panel shows a representative building in that exact style with consistent camera angle and neutral sky background.
+```
+
+
+---
+
+## 例 594：Coin Math Editing Test
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2065994787094983151) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case594.jpg](images/case594.jpg)
+
+```text
+Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.
+```
+
+
+---
+
+## 例 595：Blueprint vs Render Split Object
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2067202108303311255) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case595.jpg](images/case595.jpg)
+
+```text
+Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.
+```
+
+
+---
+
+## 例 596：Pretzel Maker Storyboard
+
+**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2069811464324460679) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case596.jpg](images/case596.jpg)
+
+```text
+“Create a crisp, clean infographic storyboard poster for THE PRETZEL MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — deep golden brown pretzel crust, warm caramel tones, coarse white salt crystals, rich wood textures, warm Bavarian daylight.
+Top header:
+THE PRETZEL MAKER
+TOTAL VIDEO TIME: 12 SECONDS
+8 SHOTS · GOLDEN · TWISTED · STRAIGHT FROM BAVARIA
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+Same Pixar-style middle-aged Bavarian male baker throughout — warm round face, thick blonde mustache, traditional lederhosen with suspenders, white shirt, small charming wooden pretzel stand, string lights overhead, wooden beer barrels nearby, warm daylight, charming German town square or beer garden visible behind him.
+8 panels:
+Panel 1 — THE OPENER: Wide shot. Baker stands behind his wooden pretzel stand, warm daylight flooding the scene, string lights hanging above, traditional German buildings softly visible behind him. He spreads his arms wide and says "Fresh Pretzel!" with a massive proud smile. His world established. You know exactly what's coming.
+Panel 2 — THE ROPE: Close-up. Both hands rolling a length of soft pale dough into a long even rope on the wooden counter — rolling back and forth with practiced rhythm, the rope stretching longer and thinner with each pass.
+Panel 3 — THE TWIST: Hero craft frame. Close-up dramatic. Both hands lifting the dough rope and crossing it into the iconic pretzel shape — looping the ends, twisting them together, folding them down onto the body to form the classic pretzel knot. The most unique hand motion in the entire series. Nobody has shown this in Pixar style.
+Panel 4 — THE BATH: Close-up. The shaped pretzel dipped into a pot of bubbling baking soda water — briefly submerged, lifted back out glistening and slightly darkened, ready for the oven. The step that gives pretzels their signature deep color and chew.
+Panel 5 — THE SALT: Close-up dramatic. Coarse white salt crystals scattered generously over the wet pretzel surface — sticking instantly, catching the daylight, vivid white against the pale dough.
+Panel 6 — THE OVEN: Wide medium with him visible. Baker slides the tray of pretzels into the glowing oven, closes the door. Steps back with a satisfied nod. The wait begins.
+Panel 7 — THE REVEAL: The hero frame. Oven door opens — pretzels emerging deep golden brown, glossy, perfectly twisted, steam rising. He lifts the tray with both hands, eyes lighting up with pride. The most beautiful pretzels you have ever seen.
+Panel 8 — THE TEAR: Wide warm shot. Baker tears a warm pretzel apart with both hands — soft warm interior revealed, steam escaping, salt crystals visible on the golden crust. Eyes closing in pure satisfaction. String lights and the warm Bavarian square glowing behind him.
+Footer:
+VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Dough rope to the tear.
+CAMERA TIPS: wide on the stand opener, close-up for the rope roll, close-up dramatic for the twist, close-up for the baking soda bath, close-up dramatic for the salt, wide medium for the oven, hero wide for the reveal, wide warm for the tear
+LIGHT & STYLE: warm Bavarian daylight throughout, deep golden pretzel crust, coarse white salt, rich wood textures, traditional lederhosen, string lights, Pixar vivid warm colors throughout
+BAKER NOTES: one baker, one stand, one perfect pretzel. Golden, twisted, and straight from Bavaria.”
+```
+
+
+---
+
+## 例 597：Bird Nest Chair Concept Board
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2069779689074561192) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case597.jpg](images/case597.jpg)
+
+```text
+Design concept board: bird nest weaving methods as the inspiration for a sculptural lounge chair. Four-stage sequence from nest-building reference photos to construction diagrams, then organic form abstraction, then the finished product. Interlocking woven frame forms the seat and backrest. Natural fiber upholstery with soft cushioning. Earthy warm tones with a polished, refined surface. Sustainable luxury aesthetic. Presentation layout with process sketches in the top half, final rendered chair in the bottom half. Warm natural lighting.
+
+AR 4:3
+```
+
+
+---
+
+## 例 598：Parody Luxury Product Advertisement
+
+**来源：** [@tonysimons_](https://x.com/tonysimons_/status/2048057490940596595) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case598.jpg](images/case598.jpg)
+
+```text
+High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name="subject" default="homeless-looking man"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name="product" default="Four Loko"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name="brand name" default="FOUR LOKO"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.
+```
+
+
+---
+
+## 例 599：Wireless Earbuds Lifestyle Ad
+
+**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2065753093283991651) / [awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+
+![case599.jpg](images/case599.jpg)
+
+```text
+Design a 9:16 vertical product infographic for Bolt True Wireless Earbuds with a high-end lifestyle ad feel.
+Composition & Framing
+Full-body shot of a young woman whose face, skin tone, and hairstyle match the reference photo exactly
+Slightly low camera angle close to the subject, fashion campaign style, for depth and visual presence
+She's seated casually on the floor, one knee up, one leg stretched toward the camera
+Foreground (Product)
+She holds an open Bolt earbud charging case out toward the viewer
+One earbud is visible inside the case, the other is in her ear
+The case is glossy white with "BOLT" branding
+Slight macro bokeh blur on the hand and case for cinematic depth
+Outfit & Style
+Modern athleisure streetwear: off-white or neutral lightweight jacket, crop top or sports bra, soft pink joggers, textured white sneakers
+Expression: confident and relaxed, subtle smile
+Pose feels natural and lifestyle-driven, not posed
+Background
+Soft gray gradient studio background
+Rainbow prism lens flares and subtle light leaks
+Floating blurred earbuds and case in background
+Studio floor texture visible underfoot
+Lighting
+Diffused commercial studio lighting emphasizing skin texture, the glossy case, and fabric detail
+Soft rim light to separate the subject from the background
+Text Overlays (modern sans-serif, white)
+Top Center: "BOLT" in large bold text, partially behind the subject
+Top Right: Bolt Earbuds / True Wireless
+Mid Left: Powerful sound. / Effortless vibes. / Engineered for every beat of your day.
+Mid Right: 30 hours of playtime / IPX5 water resistant
+Bottom Right: 1 year warranty
+Quality
+8K ultra-realistic commercial photography
+Sharp on face and earbuds, gentle depth blur on foreground and background
+Clean Apple/Nike premium ad aesthetic, strong negative space
+```
+
+
+---
+
+## 例 600：Informative Climate Change Seminar Poster
+
+**来源：** [YouMind](https://youmind.com/prompts/informative-climate-change-seminar-poster-1058)
+
+![case600.jpg](images/case600.jpg)
+
+```text
+An informative and engaging poster for a public seminar on climate change. The poster is designed as a mini-infographic, with a large, central graphic showing the earth with a thermometer, and smaller icons and data points around it explaining the causes and effects. The design is clean, organized, and aims to educate the viewer quickly and effectively. –ar 3:4
+```
+
+
+---
+
+## 例 601：纪实摄影与纸片速写拼贴海报
+
+**来源：** [@Hamburgerai](https://x.com/Hamburgerai/status/2092919708588843081) / [OpenNana](https://opennana.com/awesome-prompt-gallery/travel-photography-paper-cutout-sketch-collage-poster)
+
+![case601.jpg](images/case601.jpg)
+
+```text
+Please turn every travel photo I upload into an independent high-end transformed poster, no multi-photo stitching, output each photo individually.
+
+The overall structure uses a 3:4 vertical top-and-bottom comparison. The top part accounts for about 48%–50% of the screen, completely retaining the original photo; the bottom part accounts for about 50%–52%, reconstructing the same location, the same person, and the same moment. Use a clear, straight horizontal boundary between the top and bottom, without blending, torn paper, multi-layer collage, or middle decorative bands.
+
+The top part faithfully preserves the identity, number, facial features, posture, direction of travel, gestures, clothing, personal belongings, spacing between people, front-to-back occlusion, architectural structure, road perspective, real materials, natural lighting, and location atmosphere of the original photo. Only perform slight travel magazine, art publication, or exhibition photography color grading, and add very thin film grain. Do not change people, replace backgrounds, move buildings, add or delete pedestrians, or turn photos into illustrations.
+
+The bottom part reconstructs the same space, but allows for a more editorial secondary composition based on human relationships. Choose a real photography environment sufficient to prove the location, moderately tighten the cropping, reduce background contrast, or delete irrelevant peripheral figures, making the 1–4 most important figures in the photo a clear narrative center. Keep about 20%–32% of continuous low-information negative space in the sky, walls, streets, water, or ground, allowing the image to breathe and accommodate text.
+
+The architecture, streets, walls, trees, vehicles, sky, water, and lighting in the bottom part continue to maintain real photography textures. Do not draw the entire scene together as a line drawing. Only transform the people who actually exist in the photo and play a major narrative role into "warm white paper + black hesitant line drawing" physical collage sketch characters.
+
+Strictly maintain the real number, position, size, posture, direction of movement, distance from each other, hand contact, front-to-back occlusion, and interactive relationship of the characters. Each character consists of the following parts:
+
+- Opaque warm white or natural white paper fill, completely covering the original photographic content of the character;
+- Visible but restrained natural paper grain and slight fibers;
+- Clean but slightly manual-error die-cut paper edges;
+- Loose, hesitant, black or ink black outlines with slightly varying thickness;
+- A very small amount of internal sketch lines for hair, collars, arms, palms, legs, shoes, backpacks, or cameras;
+- Very shallow, correctly directed foot contact shadows and paper layer shadows.
+
+The characters must stand in the scene like real thin paper characters, with foot-to-ground contact, occlusion between characters, perspective scaling, and scene light direction all being believable. Do not just overlay white line drawings on transparent photographic people, nor make them into thick foam stickers, cartoon characters, emojis, comic characters, or AR interfaces.
+
+Very small characters in the distance can be actively moved out of the frame according to the cropping of the bottom part; if they remain clearly identifiable, they should be processed as simple white paper silhouettes in their real numbers, and must not be copied, added, or unified into the same pose. Bags, hats, cameras, umbrellas, or bicycles related to the character's movement can be turned into paper along with the character.
+
+By default, add three layers of accurate, readable English text:
+
+1. Extract a title of 1–3 English words based on the character's movement or scene relationship in the photo;
+2. An observation number similar to "SCENE NO. 01";
+3. A short sentence of 5–10 English words describing the actual walking, waiting, meeting, hugging, or watching happening in the photo.
+
+The main title must be clearly recognizable at normal chat preview sizes, accounting for about 25%–38% of the width of the bottom area. The text uses loose black ink capital letters, manual lead type, or sketchbook-style condensed font, which can be printed on a warm white handmade paper tag or arranged along low-information walls or floors. Ink marks are allowed to have slight breaks and paper teeth, but cannot be shrunk into decorative gray lines, nor look like smooth digital typography overlaid in post-production.
+
+Do not fabricate character relationships, locations, dates, brands, citations, or author information. Text must not cover character faces, hand interactions, or foot contact positions.
+
+The overall effect has the wonderful feeling of real travel photography and paper character sketches existing simultaneously: the environment still belongs to reality, while the characters seem to be cut out from memories, diaries, or sketchbooks and then gently placed back into the journey.
+
+Avoid: full-poster redraw, illustrated buildings, illustrated street, all-white background replacing the scene, transparent line overlay on photographic people, cartoon people, colored comic characters, kawaii stickers, speech bubbles, AR interface, thick foam stickers, altered person count, invented pedestrians, duplicated figures, changed poses, separated hands, floating figures, missing contact shadows, tiny source-photo comparison, fake text, author name, signature, social handle, logo, watermark.
+
+Most important rule: the top must completely retain the real original photo; the bottom remains a real photographic space, only transforming the characters actually existing in the photo into physical collage characters composed of warm white paper and hesitant black ink lines.
+```
+
+
+---
+
+## 例 602：旅行照片转民间墨线设色地标对比海报
+
+**来源：** [@Hamburgerai](https://x.com/Hamburgerai/status/2092778271926792370) / [OpenNana](https://opennana.com/awesome-prompt-gallery/travel-photo-to-folk-ink-landmark-comparison-poster)
+
+![case602.jpg](images/case602.jpg)
+
+```text
+Please turn each travel photo I upload into an individual "Folk Ink and Color Landmark Portrait" comparison poster. Output each photo separately; do not combine multiple photos into a single frame.
+
+## Overall Layout
+
+Use a 3:4 vertical composition.
+
+The frame is divided vertically into two areas with an approximate 1:1 height ratio:
+
+- Upper part: High-fidelity original photo;
+- Lower part: A folk ink and color landmark portrait distilled from the same photo.
+
+Use a straight, clear, and restrained horizontal boundary between the upper and lower areas. No gradients, feathering, tearing, or allowing ink lines and color blocks to invade the photo area.
+
+## Upper Part: Real Photo
+
+Faithfully preserve the following from the original photo:
+
+- Landmark or building identity;
+- Building height-to-width ratio;
+- Facade or front-side observation angle;
+- Relationship between roofs, domes, towers, and portals;
+- Steps, colonnades, sculptures, and entrance directions;
+- Necessary surrounding roads, trees, water surfaces, or walls;
+- Real materials, natural light and shadow, and the original color atmosphere.
+
+Perform only slight color grading in the style of travel magazines, independent publications, and art exhibitions, and add a very thin layer of film grain.
+
+The upper part must remain a real photograph. Do not illustrate, move buildings, change perspective, add decorations, replace the sky, stretch, mirror, or duplicate the subject.
+
+## Lower Part: Landmark Portrait
+
+Do not redraw the photo completely, and do not add an ink line filter to the photo.
+
+First, identify the 2–4 most identifying structural elements of the building, such as:
+
+- Roof or dome outlines;
+- Height relationship of towers;
+- Main portals and arches;
+- Direction of steps and bases;
+- Rhythm of colonnades;
+- Position of statues;
+- Bridgeheads, walls, or a small section of waterfront.
+
+Proactively remove tourists, vehicles, advertisements, signs, dense vegetation, repetitive window panes, brick seams, carvings, complex cornices, sky textures, and photographic noise.
+
+The lower part should only retain the minimum information that makes the building instantly recognizable.
+
+The building portrait usually occupies only 36%–55% of the conversion area, placed in the center, lower-middle, or biased towards one side following the center of gravity of the original photo. Retain 45%–60% continuous warm white paper around it.
+
+Remove the background first, then shrink the subject. Do not shrink the entire landscape and stuff it into the lower area, nor fill the entire background.
+
+## Ink Lines
+
+On warm, off-white matte drawing paper with subtle paper fibers, redraw the building using heavy, slightly shaky black brushes, oil-based markers, or thick ink pens.
+
+The ink lines should have realistic wrist pressure and paper resistance:
+
+- Uneven thickness;
+- Slight hesitation and back-folding;
+- Local re-tracing;
+- Occasional broken lines;
+- Small ink blobs;
+- Rough paper edges;
+- A few unclosed outlines.
+
+First, use a small amount of firm outer outlines to capture the roof, tower body, portal, steps, and base, then use very few short lines, dot-like ink marks, or small black blocks to suggest the internal structure.
+
+The lines can be slightly clumsy but must accurately capture the character of the building. Do not draw it as a fine pen architectural drawing, automatic photo tracing, vector outlines of uniform thickness, or a children's coloring draft.
+
+## Coloring
+
+Use only 2–3 iconic colors extracted from the original photo, plus paper white and black ink to form the entire palette.
+
+Prioritize extracting:
+
+- The representative color of the building's walls or roof;
+- One environmental color from the sky, plants, water, or ground;
+- If necessary, add a darker visual anchor color.
+
+Reduce the saturation of the colors slightly to form a full, slightly aged, matte gouache flat wash.
+
+Color blocks may appear with:
+
+- Obvious brush marks;
+- Uneven coverage;
+- Crossing over ink lines;
+- Local misalignment;
+- White gaps (missed spots);
+- Edge chips;
+- Paper texture showing through.
+
+Colors do not need to fit perfectly inside the lines. It should look as if the painter directly brushed several blocks of old color onto the paper, rather than closed filling in digital software.
+
+Color is only used for main walls, roofs, ground, or two or three irregular backplates; do not fill the entire background.
+
+## Whitespace and Composition
+
+The building portrait and text occupy two separate areas of white paper with space between them.
+
+- When the building is to the left, place the text on the right or top right;
+- When the building is to the right, place the text on the left or top left;
+- Maintain a clear breathing distance between the building and the text.
+
+Except for the building and text, retain at least one complete, continuous area of white paper without images or words, allowing the blank space to represent the sky, distance, light, and the sense of quietness in travel.
+
+Do not use template layouts where all four corners are filled with information.
+
+## Text
+
+By default, add a set of restrained but legible English travel captions.
+
+The text content must be determined verbatim based on the facts of the photo before generation, including:
+
+1. A location or scene title of 1–3 English words;
+2. A short field, such as "STUDY NO. 01" or "LANDMARK NOTE";
+3. An observation sentence of 5–10 English words describing the roofs, portals, steps, colors, shorelines, or weather truly visible in the photo.
+
+The main title uses slightly hesitant thick-stroke English uppercase, oil-based marker characters, or old manual lead type.
+
+The title must be clearly legible at normal chat preview sizes, usually occupying 20%–32% of the width of the lower area. Allow slight misalignment, ink breakage, paper teeth, and manual spacing, but it must not be so scribbled as to be unrecognizable.
+
+The numbering and observation sentences are about 45%–65% of the height of the title characters, using small old lead type, handwritten side notes, or humanist sans-serif, also remaining clearly legible.
+
+The text uses black ink or a dark color extracted from the building color blocks, appearing as if written, drawn, or printed directly on the paper, and must not become a floating smooth digital typography layer.
+
+If the location cannot be reliably confirmed, use the real scene theme as the title; do not guess cities, building names, dates, or coordinates.
+
+Prohibit Chinese inscriptions, fake Chinese, pseudo-calligraphy, author names, signatures, social media accounts, logos, QR codes, URLs, fictional locations, and gibberish.
+
+## Mandatory Avoidance
+
+Avoid: fixed Chinese temple template, red-wall blue-background formula, invented stone lions, invented flags, fake seals, Chinese calligraphy, copied reference architecture, detailed pen-and-ink architecture drawing, transparent watercolor wash, screenprint halftone, full-page rubber stamp texture, woodcut hatching, automatic photo outlines, vector illustration, clean closed color fills, childish coloring-book style, cartoon landmark icon, complete background rendering, excessive architectural details, edge-to-edge painting, tiny unreadable typography, floating digital text, author signature, logo, watermark.
+
+Most Important Rules:
+
+The upper part must clearly retain the real original photo.
+
+The lower part uses heavy and slightly shaky black ink lines to capture the most identifying roof, tower, portal, steps, or statue of the same building; then uses two or three slightly overlapping, brush-marked old colors to anchor the main relationships.
+
+Proactively delete details, shrink the building, add legible travel captions, and retain large areas of continuous white paper, making the result look like a folk architectural portrait carefully drawn during a journey, rather than an architectural fine drawing, a photo filter, or a generic cartoon landmark.
+```
+
+
+---
+
+## 例 603：现代超清宏观生物信息图昆虫
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2090415049303347213) / [OpenNana](https://opennana.com/awesome-prompt-gallery/macro-biology-infographic-insect-ui-design)
+
+![case603.jpg](images/case603.jpg)
+
+```text
+2x2 grid, 16:9, do this for 4 famous rare insects that are more dangerous than they look: Prompt: Ultra-clean modern macro-biology infographic. Showcase a [SMALL INSECT/BUG] (e.g., jumping spider, praying mantis) in visually striking, hyper-detailed macro form—floating slightly in a 3D perspective or angled view. Arrange anatomical features, abilities, and habitat stats around the specimen in a dynamic editorial layout. Anatomy Section: Include glowing vector lines pointing to specific body parts (eyes, mandibles, legs) with mini-illustrations or microscopic scans detailing their function. Arrange them in a radial flow connected visually to the specimen. Behavioral Stats Section: Show abilities (jump height, venom toxicity, speed) with data graphs, numbered panels, or progress bars forming a logical flow around the main subject. Include small atmospheric icons (leaf, web, sun, moon). Additional Info (optional): Lifespan, ecosystem role, predation stats—displayed as clean futuristic holographic bubbles or badges near the specimen. Visual Style: National Geographic macro photography meets sci-fi bio-lab UI. Vibrant iridescent natural colors, subtle bioluminescent drop shadows, clean glowing vector lines, modern typography, soft dark gradients or frosted glass panels for data. Accent colors in neon cyan or green to highlight key stats. Composition Guidelines: Specimen as hero visual (angled, looking at camera). Data and anatomy flow dynamically around it. Clear visual hierarchy: bug > anatomy > stats. Enough negative space to keep design airy, mysterious, and readable. Lighting & Background: Cinematic rim lighting on the subject, dark minimal textured or gradient background (deep forest green or black) for a premium laboratory feel. Ultra-crisp, social-feed optimized, no watermark.
 ```
 
 

@@ -1,7 +1,7 @@
 # 其他应用场景 — 提示词合集
 
 
-> 82 个案例
+> 94 个案例
 
 ---
 
@@ -1150,6 +1150,9 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 **来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
 
+![case303.jpg](images/case303.jpg)
+
+
 ```text
 [中文]
 生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
@@ -1163,6 +1166,9 @@ Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the c
 ## 例 304：大唐玄武门之变的朋友圈
 
 **来源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
+
+![case304.jpg](images/case304.jpg)
+
 
 ```text
 [中文]
@@ -1178,6 +1184,9 @@ WeChat Moments of the Xuanwu Gate Incident
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
 
+![case305.jpg](images/case305.jpg)
+
+
 ```text
 [中文]
 生成一张手写中/西医药方图
@@ -1191,6 +1200,9 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 ## 例 306：银河繁星点缀的冰蓝襦裙
 
 **来源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
+
+![case306.jpg](images/case306.jpg)
+
 
 ```text
 [中文]
@@ -1212,6 +1224,9 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 **来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
+![case307.jpg](images/case307.jpg)
+
+
 ```text
 [中文]
 生成一套亚马逊 A+=详情图
@@ -1225,6 +1240,9 @@ Generate a set of Amazon A+= detail images
 ## 例 308：杜甫朋友圈吐槽茅屋被掀翻
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+
+![case308.jpg](images/case308.jpg)
+
 
 ```text
 [中文]
@@ -1240,6 +1258,9 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
+![case309.jpg](images/case309.jpg)
+
+
 ```text
 [中文]
 武则天自拍登记发微博
@@ -1253,6 +1274,9 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 ## 例 310：宅男必看绝美二次元少女
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+
+![case310.jpg](images/case310.jpg)
+
 
 ```text
 [中文]
@@ -1268,6 +1292,9 @@ Generate high-quality beautiful girl (otaku must-have)
 
 **来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
 
+![case311.jpg](images/case311.jpg)
+
+
 ```text
 [中文]
 模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏
@@ -1281,6 +1308,9 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 ## 例 312：机甲少女立于废弃海城
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
+
+![case312.jpg](images/case312.jpg)
+
 
 ```text
 [中文]
@@ -1301,6 +1331,9 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
 
+![case313.jpg](images/case313.jpg)
+
+
 ```text
 [中文]
 创建一个明朝朱元璋登基之后的X帖子页面
@@ -1314,6 +1347,9 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 ## 例 314：言叶之庭春雨绿意单日历
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+
+![case314.jpg](images/case314.jpg)
+
 
 ```text
 [中文]
@@ -1329,6 +1365,9 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
+![case315.jpg](images/case315.jpg)
+
+
 ```text
 [中文]
 生成一系列五一劳动节的手举牌设计
@@ -1343,6 +1382,9 @@ Generate a series of hand-held sign designs for May Day Labor Day
 
 **来源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
 
+![case316.jpg](images/case316.jpg)
+
+
 ```text
 [中文]
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
@@ -1356,6 +1398,9 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 ## 例 317：赛博朋克科幻曼荼罗
 
 **来源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
+
+![case317.jpg](images/case317.jpg)
+
 
 ```text
 [中文]
@@ -1387,6 +1432,9 @@ Draw a near-future sci-fi version of a mandala
 
 **来源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
 
+![case318.jpg](images/case318.jpg)
+
+
 ```text
 [中文]
 创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。
@@ -1400,6 +1448,9 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 ## 例 319：精美潮汕菜馆菜单图
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+
+![case319.jpg](images/case319.jpg)
+
 
 ```text
 [中文]
@@ -1415,6 +1466,9 @@ Generate a Teochew restaurant menu image.
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
+![case320.jpg](images/case320.jpg)
+
+
 ```text
 [中文]
 生成人教版小学三年级语文课本的一页
@@ -1428,6 +1482,9 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 ## 例 321：晨曦薰衣草田梦幻少女三联画
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
+
+![case321.jpg](images/case321.jpg)
+
 
 ```text
 [中文]
@@ -1690,6 +1747,9 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
+![case323.jpg](images/case323.jpg)
+
+
 ```text
 原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
 ```
@@ -1699,6 +1759,9 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 ## 例 324：《短歌行》诗词意境图
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+
+![case324.jpg](images/case324.jpg)
+
 
 ```text
 帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
@@ -1710,6 +1773,9 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
+![case325.jpg](images/case325.jpg)
+
+
 ```text
 帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
 ```
@@ -1719,6 +1785,9 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 ## 例 326：彼岸花丛中的红妆女子
 
 **来源：** [@xiaofenggan](https://x.com/xiaofenggan)
+
+![case326.jpg](images/case326.jpg)
+
 
 ```text
 异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
@@ -1730,6 +1799,9 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
 
+![case327.jpg](images/case327.jpg)
+
+
 ```text
 Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
 
@@ -1738,6 +1810,298 @@ Bottom left panel: close-up portrait of the athlete with glowing skin, minimal m
 Bottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.
 
 Consistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.
+```
+
+
+---
+
+## 例 363：磁场铁粉 Logo 物理成像
+
+**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
+
+![case363.jpg](images/case363.jpg)
+
+```text
+Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:
+Fine iron filings with sharp, spiky, needle-like structures.
+Dense clustering along magnetic field lines forming the logo silhouette.
+Variation in density — thick near magnetic poles, thinner outward.
+Matte dark metallic texture with subtle reflections.
+
+Physics behavior:
+Iron filings must follow realistic magnetic field patterns — radial and curved lines forming spikes and ridges.
+Stronger attraction zones create thicker, raised clusters.
+Outer areas show softer, more dispersed alignment.
+Natural randomness and slight irregularity — no perfect edges.
+Some loose filings scattered beyond the main shape.
+
+Surface interaction:
+Flat surface such as a lab table, glass plate, or matte black tray.
+Filings resting on surface but visibly lifted in areas due to magnetic force (spiky texture).
+Subtle dust and micro particles around.
+
+Environment & human presence:
+Realistic classroom, science lab, or creative studio environment.
+A person partially visible — hands holding or moving a magnet beneath the surface or nearby.
+Possibly a child or adult observing or interacting (adds emotional curiosity).
+Other subtle elements: notebooks, tools, or lab items out of focus.
+
+Lighting:
+Directional overhead light creating shadows from raised filings.
+Subtle highlights on metallic edges.
+Balanced natural or indoor lighting.
+
+Atmosphere:
+Curiosity.
+Discovery.
+Educational yet visually satisfying.
+Quiet but engaging moment.
+
+Camera & composition:
+Top-down or slightly angled close-up view.
+Logo clearly visible through iron filing formation.
+Human hands or interaction slightly off-center for storytelling.
+
+Format:
+Aspect ratio: STRICT 4:5 vertical.
+No text overlays.
+
+Style:
+Hyper-real macro + environmental photography.
+Physically accurate magnetic behavior.
+Cinematic yet grounded realism.
+```
+
+
+---
+
+## 例 368：印度餐厅菜单改造宣传图
+
+**来源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
+
+![case368.jpg](images/case368.jpg)
+
+```text
+这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
+```
+
+
+---
+
+## 例 385：青岛啤酒灵感女装系列
+
+**来源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
+
+![case385.jpg](images/case385.jpg)
+
+```text
+Inspired by Tsingtao (China beer)🍺
+
+“Inspired by this product, design a set of cool-style women's clothing”
+```
+
+
+---
+
+## 例 391：四国文化锚点服装设计宫格
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
+
+![case391.jpg](images/case391.jpg)
+
+```text
+<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
+```
+
+
+---
+
+## 例 392：2000s Film Camera Photo of Sam, Ilya, and a Dog
+
+**来源：** [YouMind](https://youmind.com/prompts/2000s-film-camera-photo-of-sam-ilya-and-a-dog-1783)
+
+![case392.jpg](images/case392.jpg)
+
+```text
+Combine the two men (Sam & Ilya) and the dog in a 2000s film camera-style photo of them looking bored at a kids birthday party.
+```
+
+
+---
+
+## 例 393：AI Shaved Ice Texture Correction
+
+**来源：** [YouMind](https://youmind.com/prompts/ai-shaved-ice-texture-correction-32515)
+
+![case393.jpg](images/case393.jpg)
+
+```text
+Reduce the unpleasantness of the 
+shaved ice
+ and correct it to a natural shape. The grain is coarse and looks unappetizingly weird, so do not change anything else, including the color tone.
+```
+
+
+---
+
+## 例 394：Chibi-Style Character Transformation
+
+**来源：** [YouMind](https://youmind.com/prompts/chibi-style-character-transformation-1852)
+
+![case394.jpg](images/case394.jpg)
+
+```text
+Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
+```
+
+
+---
+
+## 例 395：Cinematic Silhouette of Fishermen on Galata Bridge
+
+**来源：** [YouMind](https://youmind.com/prompts/cinematic-silhouette-of-fishermen-on-galata-bridge-1780)
+
+![case395.jpg](images/case395.jpg)
+
+```text
+A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istanbul during sunset. In the foreground, a weary fisherman leans against the railing, looking at the sea. The background features the hazy, dreamlike silhouette of the Süleymaniye Mosque and seagulls flying over the Golden Horn. Warm orange and deep blue color palette. Shot on Sony A7R IV with Sony FE 85mm f/1.4 GM lens at f/1.8. Atmospheric haze, emotional storytelling, award-winning travel photography.
+```
+
+
+---
+
+## 例 396：Complex Four-Quadrant Paper World Composite Prompt
+
+**来源：** [YouMind](https://youmind.com/prompts/complex-four-quadrant-paper-world-composite-prompt-2878)
+
+![case396.jpg](images/case396.jpg)
+
+```text
+A seamless 16:9 full-frame composite image divided into four distinct quadrants. **CRITICAL:** The four sections touch each other directly. NO GREY BACKGROUND. NO BORDERS. NO GAPS. The image is filled edge-to-edge with paper details.
+**Composition:** A split-screen view looking deep into four different paper worlds.
+1) **Top-Left (Luckin):** A wide view of a magical paper forest. Blue and white paper clouds and coffee leaves fill the quadrant completely. A white paper stag leaps through the density.
+2) **Top-Right (Google):** A wide view of a **"Topographic Map" style paper cavern**. The "G" logo is formed by **hundreds of thin sheets** of Blue, Red, Yellow, and Green paper stacked horizontally. It looks like a sediment canyon or a contour map. Visible paper fibers and sharp cut edges. NO plastic smoothness.
+3) **Bottom-Left (Coke):** A wide view of a red paper explosion. The Coke bottle is a **Negative Space Silhouette**—a deep hole void cut through dense layers of red paper. White paper ribbons span across the void.
+4) **Bottom-Right (McDonald's):** A wide view of a yellow paper city. Vertical strips of yellow paper (french fries) stand densely packing the frame. The Golden Arches rise from deep within the layers.
+**Global Material:** Everything is matte cardstock.
+**Lighting:** Soft, even studio lighting revealing the depth of the paper cuts.
+**Tech:** Octane render, 8k, --ar 16:9 --stylize 400 --no borders, frames, background wall, isolated objects, 3d plastic, seamless texture
+```
+
+
+---
+
+## 例 397：Embroidered Santa Monica Pier Photo
+
+**来源：** [YouMind](https://youmind.com/prompts/embroidered-santa-monica-pier-32798)
+
+![case397.jpg](images/case397.jpg)
+
+```text
+Using the provided reference image as the base, transform the entire scene into a richly textured embroidered tapestry / punch-needle yarn artwork while preserving the original composition, perspective, pose, sign placement, pier setting, buildings, crowd layout, and golden-hour atmosphere.
+Style: Make every visible surface look hand-stitched with thick yarn loops, raised threads, woven fibers, and tactile embroidery texture. Use dense directional stitching to define the sky, clouds, wooden pier boards, clothing, buildings, signage, and people. Keep the image highly detailed and colorful, with a warm cinematic sunset palette.
+Subject and scene: Keep the young woman standing beside the Santa Monica Route 66 sign in the same pose and position. Preserve the iconic sign text: “SANTA MONICA”, “66”, and “End of the Trail”. Keep the Pier Burger storefront and lively pier crowd, but render all details as embroidered thread rather than photographic realism.
+Visual treatment: Add strong handcrafted relief, visible yarn ridges, looped thread outlines, stitched shadows, and woven highlights. The result should look like a realistic fiber-art recreation of the reference photo, not a flat filter.
+Customizable settings: Convert the reference into a 
+embroidered punch-needle yarn tapestry
+ with a 
+warm golden-hour sunset palette
+ and 
+very dense raised yarn texture
+. Keep the location sign text as 
+SANTA MONICA 66 End of the Trail
+ and preserve the overall mood as 
+lively cinematic Santa Monica Pier at sunset
+.
+Constraints: Do not change the main composition or replace the landmark sign. Do not remove the woman, the Pier Burger storefront, or the pier crowd. Avoid adding extra text or modern graphic overlays.
+```
+
+
+---
+
+## 例 398：Raw Realistic Amateur Photography Style
+
+**来源：** [YouMind](https://youmind.com/prompts/raw-realistic-amateur-photography-style-2549)
+
+![case398.jpg](images/case398.jpg)
+
+```text
+1:1 aspect ratio
+Raw Realistic candid natural amateur photo, background in focus, amateur candid photography, Captured on 
+Samsung Galaxy S21 Ultra
+, amateur candid smartphone photography, 24mm lens, f/8, Boring reality, natural soft shadows, candid snapshot, flat natural lighting, Realism, low contrast, disposable camera vibe, casual photography, background also completely in focus, Tiny imperfections, everyday aesthetic, slight JPEG artifacts, unpolished look, unedited, imperfect amateur photo
+only create real, non fictional images for max effect
+```
+
+
+---
+
+## 例 399：South Asian Couple Skardu Travel Photo
+
+**来源：** [YouMind](https://youmind.com/prompts/south-asian-couple-skardu-travel-32504)
+
+![case399.jpg](images/case399.jpg)
+
+```text
+Use my pic face Create an ultra-realistic full-body photograph of a 
+young South Asian Couple
+ (use uploaded reference face exactly) enjoying a trip in 
+Skardu, Pakistan
+. The image should look like a genuine tourist photo captured on a modern smartphone. Style: Natural smartphone camera photography, ultra realistic, real travel photo, NOT cinematic, NOT studio lighting, NOT AI-looking. SKARDU ADVENTURE (ULTRA REALISTIC, FULL BODY, 8K
+ CAMERA
+• Full body visible
+• Natural handheld phone camera shot
+• Slight perspective imperfections
+• Realistic depth of field
+• Ultra HD 8K quality
+• Sharp facial details
+• Natural color tones
+• No filters
+MALE
+• Use uploaded reference face exactly
+• Same hairstyle as reference image
+• Light beard
+• Wearing traditional white Korton Kurta pajama with stylish shoes.
+FEMALE
+• Elegant traditional purple traditional Pakistani dress.
+• Natural makeup
+• Realistic facial features
+• Warm smile
+• Natural hair movement
+ POSE
+• Man Catch the selfie Own girlfriend.
+• Genuine candid travel moment
+• Happy and relaxed expressions
+• Authentic tourist vibes
+LOCATION — SKARDU
+• Beautiful Skardu Valley
+• Massive mountains in background
+• Crystal-clear lake nearby
+• Green meadows
+• Rocky landscapes
+• Famous Skardu scenery
+• Natural tourism atmosphere
+CROWD
+• Tourists visible in background
+• Families taking photos
+• People enjoying the scenery
+• Natural crowd blur
+ LIGHTING
+• Bright natural daylight
+• Soft mountain sunlight
+• Realistic shadows
+• Natural exposure
+• No flash
+ REALISM
+• Hyper-realistic photography
+• Natural skin pores
+• Real fabric textures
+• Authentic human anatomy
+• Smartphone camera quality
+• Travel photography realism
+• Ultra HD 8K
+NEGATIVE PROMPT:
+cartoon, anime, CGI, 3D render, fake skin, AI face, plastic face, blurry image, low quality, watermark, text, logo, bad anatomy, extra fingers, unrealistic eyes, HDR glow, cinematic grading, studio lighting, oversaturated colors ratio size 9 16.
 ```
 
 
